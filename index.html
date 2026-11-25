@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wrylark</title>
+<meta name="description" content="Wrylark: short animated true stories about people who solved a problem by copying nature.">
+<style>
+  :root { --bg: #f7f3ea; --ink: #231d18; --ink-2: #57504a; --line: #e2d9c8; --accent: #1f78b4; --stamp: #c2382b; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #17150f; --ink: #efe9df; --ink-2: #b4ab9f; --line: #352f27; --accent: #6aa9dc; --stamp: #e06a5d; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.6 system-ui, "Segoe UI", sans-serif; }
+  main { max-width: 680px; margin: 0 auto; padding: 64px 16px 72px; }
+  .mark { display: flex; align-items: center; gap: 14px; }
+  h1 { font-size: 44px; letter-spacing: 4px; margin: 0; }
+  .tag { font-size: 21px; color: var(--ink); margin: 22px 0 12px; font-weight: 600; line-height: 1.35; }
+  p { color: var(--ink-2); }
+  .stamp { display: inline-block; border: 4px solid var(--stamp); color: var(--stamp); font-weight: 900; letter-spacing: 3px;
+           padding: 2px 14px; transform: rotate(-6deg); margin: 18px 0 8px; border-radius: 6px; }
+  .series { margin: 26px 0; padding: 0; list-style: none; }
+  .series li { border-top: 1px solid var(--line); padding: 12px 0; color: var(--ink-2); }
+  .series b { color: var(--ink); }
+  a.btn { display: inline-block; background: var(--ink); color: var(--bg); text-decoration: none; font-weight: 700;
+          padding: 12px 20px; border-radius: 10px; margin-top: 8px; }
+  footer { border-top: 1px solid var(--line); margin-top: 48px; padding-top: 16px; font-size: 14px; color: var(--ink-2); }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <div class="mark">
+    <svg width="52" height="52" viewBox="0 0 46 46" aria-hidden="true"><circle cx="23" cy="23" r="21" fill="#1f78b4"/><ellipse cx="20" cy="30" rx="12" ry="8" fill="#e8812f"/><path d="M30 17 L45 15 L30 22 Z" fill="#231d18"/><circle cx="25" cy="17" r="3.2" fill="#231d18"/><rect x="21" y="12.5" width="8" height="4" fill="#1f78b4"/></svg>
+    <h1>WRYLARK</h1>
+  </div>
+  <p class="tag">Short animated true stories about people who solved a stubborn problem by copying an animal or a plant.</p>
+  <div class="stamp">COPIED</div>
+  <p>Every episode is researched from at least two sources, which are linked in the video description. Pip, a deadpan
+  kingfisher, explains the trick nature got to first.</p>
+  <ul class="series">
+    <li><b>Copied From Nature</b> · a human problem solved by copying an animal or plant</li>
+    <li><b>Nature Did It First</b> · an animal trick that predates a human invention by millions of years</li>
+    <li><b>Nature Said No</b> · a copy that failed, and why</li>
+  </ul>
+  <a class="btn" href="https://www.youtube.com/@wrylark">Watch on YouTube</a>
+  <footer><a href="privacy.html">Privacy Policy</a> · <a href="https://www.youtube.com/@wrylark">@wrylark</a></footer>
+</main>
+</body>
+</html>

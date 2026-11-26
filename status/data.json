@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T14:06:37+01:00",
+ "generated": "2026-11-26T14:23:56+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "76 of 180 slots filled",
+  "note": "84 of 180 slots filled",
   "until": null
  },
  "run": {
-  "id": "run-0132",
-  "title": "The Fly Ear That Made a Better Hearing Aid Microphone (Part 3/3)",
-  "series": "copied",
+  "id": "run-0141",
+  "title": "The first battery was built to imitate a fish (Part 3/3)",
+  "series": "first",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T14:05:32+01:00",
-  "ended": "2026-11-26T14:06:37+01:00",
+  "started": "2026-11-26T14:22:50+01:00",
+  "ended": "2026-11-26T14:23:56+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -420,10 +420,10 @@
   }
  ],
  "overview": {
-  "built": 84,
+  "built": 92,
   "published": 2,
-  "rejected": 11,
-  "waiting_you": 81,
+  "rejected": 12,
+  "waiting_you": 89,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -443,7 +443,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 69
+  "topics": 66
  },
  "slots": [
   "09:00",
@@ -453,132 +453,132 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 69,
+ "topics_left": 66,
  "log": [
   {
-   "t": "2026-11-26T13:48:00+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 76: Setup beat: 'Ice cream is mostly a problem of ice, and fat had always managed it.' is not in either source (they only say fat norma…"
-  },
-  {
-   "t": "2026-11-26T13:48:22+01:00",
-   "stage": null,
-   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-fix: OK (22 s)"
-  },
-  {
-   "t": "2026-11-26T13:48:56+01:00",
-   "stage": null,
-   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-review2: PASS 84 (34 s)"
-  },
-  {
-   "t": "2026-11-26T13:48:56+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 84: Hook is factual but does not sound absurd."
-  },
-  {
-   "t": "2026-11-26T13:51:26+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c: 78.68 s rendered in 126 s"
-  },
-  {
-   "t": "2026-11-26T13:52:37+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-p1: 27.01 s rendered in 44 s"
-  },
-  {
-   "t": "2026-11-26T13:53:44+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-p2: 25.75 s rendered in 41 s"
-  },
-  {
-   "t": "2026-11-26T13:55:05+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-p3: 32.51 s rendered in 55 s"
-  },
-  {
-   "t": "2026-11-26T13:55:16+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Fish Protein That Lets Ice Cream Drop Its Fat = full video + 3 parts (27.01 s, 25.75 s, 32.51 s)"
-  },
-  {
-   "t": "2026-11-26T13:55:18+01:00",
-   "stage": "publish",
-   "msg": "producer: The Fish Protein That Lets Ice Cream Drop Its Fat -> waiting 2026-12-08 19:00"
-  },
-  {
-   "t": "2026-11-26T13:55:19+01:00",
+   "t": "2026-11-26T14:06:40+01:00",
    "stage": "research",
-   "msg": "topic: Parasitoid fly Ormia ochracea -> Single-element directional hearing-aid microphone"
+   "msg": "topic: Locust -> Collision-avoidance sensor for cars"
   },
   {
-   "t": "2026-11-26T13:58:31+01:00",
+   "t": "2026-11-26T14:08:10+01:00",
    "stage": "research",
    "msg": "research notes written, 2 links"
   },
   {
-   "t": "2026-11-26T13:58:38+01:00",
+   "t": "2026-11-26T14:08:19+01:00",
    "stage": null,
-   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-write: OK The Fly Ear That Made a Better Hearing Aid Microphone (200 s)"
+   "msg": "2026-11-26-locust-collision-avoidance-sensor-for-cars-write: - **Backlog hook:** I dropped the \"fires only on collision-course objects\" wording, since…"
   },
   {
-   "t": "2026-11-26T13:58:38+01:00",
-   "stage": "write",
-   "msg": "rules: 1 problem(s): script is 242 words (140-210)"
-  },
-  {
-   "t": "2026-11-26T13:59:00+01:00",
+   "t": "2026-11-26T14:08:56+01:00",
    "stage": null,
-   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-rules1: OK (21 s)"
+   "msg": "2026-11-26-locust-collision-avoidance-sensor-for-cars-review1: PASS 90 (37 s)"
   },
   {
-   "t": "2026-11-26T13:59:36+01:00",
-   "stage": null,
-   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-review1: FIX 74 (36 s)"
-  },
-  {
-   "t": "2026-11-26T13:59:36+01:00",
+   "t": "2026-11-26T14:08:56+01:00",
    "stage": "review",
-   "msg": "fact-check FIX 74: Test beat 3: 'silicon microphone' - neither source says silicon; ScienceDaily says microelectromechanical (MEMS) microphone."
+   "msg": "fact-check PASS 90: Beat 6 says the simulated neuron produced 'brake and steer commands'; the source says 'brake and move to avoid running into things…"
   },
   {
-   "t": "2026-11-26T13:59:48+01:00",
-   "stage": null,
-   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-fix: OK (12 s)"
-  },
-  {
-   "t": "2026-11-26T14:00:24+01:00",
-   "stage": null,
-   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-review2: PASS 86 (36 s)"
-  },
-  {
-   "t": "2026-11-26T14:00:24+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 86: Mocker beat has a grammar error: 'Directional hearing aids was built from a pair of microphones.'"
-  },
-  {
-   "t": "2026-11-26T14:02:51+01:00",
+   "t": "2026-11-26T14:11:36+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai: 77.72 s rendered in 124 s"
+   "msg": "2026-11-26-locust-collision-avoidance-sensor-for-cars: 82.71 s rendered in 135 s"
   },
   {
-   "t": "2026-11-26T14:04:09+01:00",
+   "t": "2026-11-26T14:13:05+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-p1: 31.59 s rendered in 51 s"
+   "msg": "2026-11-26-locust-collision-avoidance-sensor-for-cars-p1: 36.63 s rendered in 58 s"
   },
   {
-   "t": "2026-11-26T14:05:23+01:00",
+   "t": "2026-11-26T14:14:25+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-p2: 29.82 s rendered in 48 s"
+   "msg": "2026-11-26-locust-collision-avoidance-sensor-for-cars-p2: 28.78 s rendered in 52 s"
   },
   {
-   "t": "2026-11-26T14:06:27+01:00",
+   "t": "2026-11-26T14:15:35+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-p3: 22.89 s rendered in 41 s"
+   "msg": "2026-11-26-locust-collision-avoidance-sensor-for-cars-p3: 23.87 s rendered in 43 s"
   },
   {
-   "t": "2026-11-26T14:06:37+01:00",
+   "t": "2026-11-26T14:15:44+01:00",
    "stage": "publish",
-   "msg": "set ready: The Fly Ear That Made a Better Hearing Aid Microphone = full video + 3 parts (31.59 s, 29.82 s, 22.89 s)"
+   "msg": "set ready: The Locust Neuron Being Taught to Drive a Car = full video + 3 parts (36.63 s, 28.78 s, 23.87 s)"
+  },
+  {
+   "t": "2026-11-26T14:15:44+01:00",
+   "stage": "publish",
+   "msg": "producer: The Locust Neuron Being Taught to Drive a Car -> waiting 2026-12-10 11:00"
+  },
+  {
+   "t": "2026-11-26T14:15:45+01:00",
+   "stage": "research",
+   "msg": "topic: squid -> jet propulsion"
+  },
+  {
+   "t": "2026-11-26T14:16:21+01:00",
+   "stage": null,
+   "msg": "2026-11-26-squid-jet-propulsion-write: REJECT The two sources I opened (UCSD squidbot release, ScienceDaily/AIP study summary) cover recent squid-insp…"
+  },
+  {
+   "t": "2026-11-26T14:16:21+01:00",
+   "stage": "review",
+   "msg": "topic rejected: The sources I opened (UCSD squidbot press release, AIP/ScienceDaily study summary) describe recent squid-inspired robots, not a human …"
+  },
+  {
+   "t": "2026-11-26T14:16:21+01:00",
+   "stage": "research",
+   "msg": "trying the next topic"
+  },
+  {
+   "t": "2026-11-26T14:16:21+01:00",
+   "stage": "research",
+   "msg": "topic: electric eel -> the battery"
+  },
+  {
+   "t": "2026-11-26T14:17:19+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-26T14:17:25+01:00",
+   "stage": null,
+   "msg": "2026-11-26-electric-the-battery-write: OK The first battery was built to imitate a fish (64 s)"
+  },
+  {
+   "t": "2026-11-26T14:17:53+01:00",
+   "stage": null,
+   "msg": "2026-11-26-electric-the-battery-review1: PASS 88 (28 s)"
+  },
+  {
+   "t": "2026-11-26T14:17:53+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: Setup beat says 'Italy, 1790s' for the frog-leg experiments; APS dates Galvani's frog experiments to 1780 (only the torpedo argume…"
+  },
+  {
+   "t": "2026-11-26T14:20:13+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-electric-the-battery: 74.56 s rendered in 116 s"
+  },
+  {
+   "t": "2026-11-26T14:21:31+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-electric-the-battery-p1: 29.57 s rendered in 51 s"
+  },
+  {
+   "t": "2026-11-26T14:22:39+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-electric-the-battery-p2: 26.67 s rendered in 43 s"
+  },
+  {
+   "t": "2026-11-26T14:23:46+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-electric-the-battery-p3: 24.87 s rendered in 42 s"
+  },
+  {
+   "t": "2026-11-26T14:23:56+01:00",
+   "stage": "publish",
+   "msg": "set ready: The first battery was built to imitate a fish = full video + 3 parts (29.57 s, 26.67 s, 24.87 s)"
   }
  ]
 }

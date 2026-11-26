@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-27T00:40:59+01:00",
+ "generated": "2026-11-27T00:52:25+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "164 of 180 slots filled",
+  "note": "168 of 180 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0234",
-  "title": "Mercedes Built a Car by Copying a Fish Shaped Like a Box (Part 3/3)",
+  "id": "run-0238",
+  "title": "The Bat Trick Behind a Cane That Warns Blind Walkers (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T00:39:31+01:00",
-  "ended": "2026-11-27T00:40:59+01:00",
+  "started": "2026-11-27T00:51:02+01:00",
+  "ended": "2026-11-27T00:52:25+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -459,10 +459,10 @@
   }
  ],
  "overview": {
-  "built": 176,
+  "built": 180,
   "published": 5,
   "rejected": 19,
-  "waiting_you": 170,
+  "waiting_you": 174,
   "total_views": 547,
   "median_views": 4.5,
   "by_series": {
@@ -482,7 +482,7 @@
   "hit_rate": 25,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 38
+  "topics": 37
  },
  "slots": [
   "09:00",
@@ -492,93 +492,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 38,
+ "topics_left": 37,
  "log": [
-  {
-   "t": "2026-11-27T00:27:49+01:00",
-   "stage": "research",
-   "msg": "topic: shark skin riblets -> Lufthansa AeroSHARK airliner film"
-  },
-  {
-   "t": "2026-11-27T00:28:49+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-27T00:28:57+01:00",
-   "stage": null,
-   "msg": "2026-11-27-shark-lufthansa-aeroshark-airliner-film-write: OK The Airline That Wrapped Its Jets in Shark Skin Film (68 s)"
-  },
-  {
-   "t": "2026-11-27T00:29:32+01:00",
-   "stage": null,
-   "msg": "2026-11-27-shark-lufthansa-aeroshark-airliner-film-review1: FIX 78 (36 s)"
-  },
-  {
-   "t": "2026-11-27T00:29:32+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 78: yousee beat claims riblets 'work like a comb laid along the flow, keeping the water running straight along the body'. Neither sourc…"
-  },
-  {
-   "t": "2026-11-27T00:29:45+01:00",
-   "stage": null,
-   "msg": "2026-11-27-shark-lufthansa-aeroshark-airliner-film-fix: OK (12 s)"
-  },
-  {
-   "t": "2026-11-27T00:30:17+01:00",
-   "stage": null,
-   "msg": "2026-11-27-shark-lufthansa-aeroshark-airliner-film-review2: FIX 84 (32 s)"
-  },
-  {
-   "t": "2026-11-27T00:30:17+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 84: yousee beat says shark ribs 'cut friction as the water flows over it'. Neither source says this. Lufthansa only says the riblets 'i…"
-  },
-  {
-   "t": "2026-11-27T00:30:28+01:00",
-   "stage": null,
-   "msg": "2026-11-27-shark-lufthansa-aeroshark-airliner-film-fix: OK (11 s)"
-  },
-  {
-   "t": "2026-11-27T00:31:00+01:00",
-   "stage": null,
-   "msg": "2026-11-27-shark-lufthansa-aeroshark-airliner-film-review3: FIX 83 (32 s)"
-  },
-  {
-   "t": "2026-11-27T00:31:00+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 83: Setup beat says 'In 2022, Lufthansa Technik and BASF set out to cut the fuel burned...'; neither source says when the project began…"
-  },
-  {
-   "t": "2026-11-27T00:31:00+01:00",
-   "stage": "review",
-   "msg": "topic rejected: fact-check FIX 83: Setup beat says 'In 2022, Lufthansa Technik and BASF set out to cut the fuel burned...'; neither source says when t…"
-  },
-  {
-   "t": "2026-11-27T00:31:00+01:00",
-   "stage": "research",
-   "msg": "trying the next topic"
-  },
-  {
-   "t": "2026-11-27T00:31:00+01:00",
-   "stage": "research",
-   "msg": "topic: boxfish -> the Mercedes-Benz Bionic concept car"
-  },
-  {
-   "t": "2026-11-27T00:32:07+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-27T00:32:15+01:00",
-   "stage": null,
-   "msg": "2026-11-27-boxfish-the-mercedes-benz-bionic-concept-car-write: OK Mercedes Built a Car by Copying a Fish Shaped Like a Box (74 s)"
-  },
-  {
-   "t": "2026-11-27T00:32:15+01:00",
-   "stage": "write",
-   "msg": "rules: 1 problem(s): script is 226 words (140-210)"
-  },
   {
    "t": "2026-11-27T00:32:28+01:00",
    "stage": null,
@@ -618,6 +533,91 @@
    "t": "2026-11-27T00:40:59+01:00",
    "stage": "publish",
    "msg": "set ready: Mercedes Built a Car by Copying a Fish Shaped Like a Box = full video + 3 parts (29.16 s, 29.16 s, 27.26 s)"
+  },
+  {
+   "t": "2026-11-27T00:41:02+01:00",
+   "stage": "publish",
+   "msg": "producer: Mercedes Built a Car by Copying a Fish Shaped Like a Box -> waiting 2026-12-24 15:00"
+  },
+  {
+   "t": "2026-11-27T00:41:03+01:00",
+   "stage": "research",
+   "msg": "topic: bat echolocation -> the UltraCane for blind walkers"
+  },
+  {
+   "t": "2026-11-27T00:42:09+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-27T00:42:13+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-write: OK The Bat Trick Behind a Cane That Warns Blind Walkers (70 s)"
+  },
+  {
+   "t": "2026-11-27T00:42:53+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-review1: FIX 84 (40 s)"
+  },
+  {
+   "t": "2026-11-27T00:42:54+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 84: Payoff says 'sold in 28 countries'; sources say 'supplied to 28 countries' (REF case study) and 'available in 28 countries' (Leeds …"
+  },
+  {
+   "t": "2026-11-27T00:43:06+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-fix: OK (13 s)"
+  },
+  {
+   "t": "2026-11-27T00:43:06+01:00",
+   "stage": "write",
+   "msg": "rules: 1 problem(s): script is 223 words (140-210)"
+  },
+  {
+   "t": "2026-11-27T00:43:22+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-rules1: OK (15 s)"
+  },
+  {
+   "t": "2026-11-27T00:43:51+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-review2: PASS 88 (30 s)"
+  },
+  {
+   "t": "2026-11-27T00:43:51+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: Setup beat ends with a grammatically broken fragment: 'Warn blind walkers before they hit something.'"
+  },
+  {
+   "t": "2026-11-27T00:44:13+01:00",
+   "stage": "voice",
+   "msg": "take ran 83.1 s, re-voicing at speed 1.23"
+  },
+  {
+   "t": "2026-11-27T00:47:31+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers: 81.11 s rendered in 171 s"
+  },
+  {
+   "t": "2026-11-27T00:49:17+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-p1: 34.56 s rendered in 74 s"
+  },
+  {
+   "t": "2026-11-27T00:50:52+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-p2: 30.76 s rendered in 68 s"
+  },
+  {
+   "t": "2026-11-27T00:52:14+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-p3: 24.43 s rendered in 56 s"
+  },
+  {
+   "t": "2026-11-27T00:52:24+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Bat Trick Behind a Cane That Warns Blind Walkers = full video + 3 parts (34.56 s, 30.76 s, 24.43 s)"
   }
  ]
 }

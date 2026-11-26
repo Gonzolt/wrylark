@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T13:55:16+01:00",
+ "generated": "2026-11-26T14:06:37+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "72 of 180 slots filled",
+  "note": "76 of 180 slots filled",
   "until": null
  },
  "run": {
-  "id": "run-0128",
-  "title": "The Fish Protein That Lets Ice Cream Drop Its Fat (Part 3/3)",
+  "id": "run-0132",
+  "title": "The Fly Ear That Made a Better Hearing Aid Microphone (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T13:53:53+01:00",
-  "ended": "2026-11-26T13:55:16+01:00",
+  "started": "2026-11-26T14:05:32+01:00",
+  "ended": "2026-11-26T14:06:37+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -420,10 +420,10 @@
   }
  ],
  "overview": {
-  "built": 80,
+  "built": 84,
   "published": 2,
   "rejected": 11,
-  "waiting_you": 77,
+  "waiting_you": 81,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -443,7 +443,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 70
+  "topics": 69
  },
  "slots": [
   "09:00",
@@ -453,88 +453,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 70,
+ "topics_left": 69,
  "log": [
-  {
-   "t": "2026-11-26T13:38:20+01:00",
-   "stage": null,
-   "msg": "2026-11-26-glass-fibre-optics-write: - **Files:** `research.md` and `story.json` are in `jobs/2026-11-26-glass-fibre-optics`. (115 s)"
-  },
-  {
-   "t": "2026-11-26T13:39:02+01:00",
-   "stage": null,
-   "msg": "2026-11-26-glass-fibre-optics-review1: FIX 76 (42 s)"
-  },
-  {
-   "t": "2026-11-26T13:39:02+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 76: Yousee beat says 'Slowly, bit by bit' - no source says the deposition is slow or incremental (the stalactite analogy is fine as a c…"
-  },
-  {
-   "t": "2026-11-26T13:39:16+01:00",
-   "stage": null,
-   "msg": "2026-11-26-glass-fibre-optics-fix: OK (14 s)"
-  },
-  {
-   "t": "2026-11-26T13:39:48+01:00",
-   "stage": null,
-   "msg": "2026-11-26-glass-fibre-optics-review2: PASS 86 (33 s)"
-  },
-  {
-   "t": "2026-11-26T13:39:48+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 86: PNAS page was blocked by a bot check, so the 40-70 um, 5-15 cm, core/cladding and sodium claims were checked only against research…"
-  },
-  {
-   "t": "2026-11-26T13:42:13+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-glass-fibre-optics: 76.61 s rendered in 121 s"
-  },
-  {
-   "t": "2026-11-26T13:43:35+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-glass-fibre-optics-p1: 32.55 s rendered in 53 s"
-  },
-  {
-   "t": "2026-11-26T13:44:46+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-glass-fibre-optics-p2: 27.75 s rendered in 44 s"
-  },
-  {
-   "t": "2026-11-26T13:45:50+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-glass-fibre-optics-p3: 22.87 s rendered in 40 s"
-  },
-  {
-   "t": "2026-11-26T13:46:00+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Deep-Sea Sponge That Grows Its Own Fibre Optics = full video + 3 parts (32.55 s, 27.75 s, 22.87 s)"
-  },
-  {
-   "t": "2026-11-26T13:46:00+01:00",
-   "stage": "publish",
-   "msg": "producer: The Deep-Sea Sponge That Grows Its Own Fibre Optics -> waiting 2026-12-08 11:00"
-  },
-  {
-   "t": "2026-11-26T13:46:01+01:00",
-   "stage": "research",
-   "msg": "topic: Ocean pout (antifreeze fish) -> Unilever ice structuring protein for ice cream"
-  },
-  {
-   "t": "2026-11-26T13:47:13+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-26T13:47:20+01:00",
-   "stage": null,
-   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-write: OK The Fish Protein That Lets Ice Cream Drop Its Fat (80 s)"
-  },
-  {
-   "t": "2026-11-26T13:48:00+01:00",
-   "stage": null,
-   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-review1: FIX 76 (39 s)"
-  },
   {
    "t": "2026-11-26T13:48:00+01:00",
    "stage": "review",
@@ -579,6 +499,86 @@
    "t": "2026-11-26T13:55:16+01:00",
    "stage": "publish",
    "msg": "set ready: The Fish Protein That Lets Ice Cream Drop Its Fat = full video + 3 parts (27.01 s, 25.75 s, 32.51 s)"
+  },
+  {
+   "t": "2026-11-26T13:55:18+01:00",
+   "stage": "publish",
+   "msg": "producer: The Fish Protein That Lets Ice Cream Drop Its Fat -> waiting 2026-12-08 19:00"
+  },
+  {
+   "t": "2026-11-26T13:55:19+01:00",
+   "stage": "research",
+   "msg": "topic: Parasitoid fly Ormia ochracea -> Single-element directional hearing-aid microphone"
+  },
+  {
+   "t": "2026-11-26T13:58:31+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-26T13:58:38+01:00",
+   "stage": null,
+   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-write: OK The Fly Ear That Made a Better Hearing Aid Microphone (200 s)"
+  },
+  {
+   "t": "2026-11-26T13:58:38+01:00",
+   "stage": "write",
+   "msg": "rules: 1 problem(s): script is 242 words (140-210)"
+  },
+  {
+   "t": "2026-11-26T13:59:00+01:00",
+   "stage": null,
+   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-rules1: OK (21 s)"
+  },
+  {
+   "t": "2026-11-26T13:59:36+01:00",
+   "stage": null,
+   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-review1: FIX 74 (36 s)"
+  },
+  {
+   "t": "2026-11-26T13:59:36+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 74: Test beat 3: 'silicon microphone' - neither source says silicon; ScienceDaily says microelectromechanical (MEMS) microphone."
+  },
+  {
+   "t": "2026-11-26T13:59:48+01:00",
+   "stage": null,
+   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-fix: OK (12 s)"
+  },
+  {
+   "t": "2026-11-26T14:00:24+01:00",
+   "stage": null,
+   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-review2: PASS 86 (36 s)"
+  },
+  {
+   "t": "2026-11-26T14:00:24+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 86: Mocker beat has a grammar error: 'Directional hearing aids was built from a pair of microphones.'"
+  },
+  {
+   "t": "2026-11-26T14:02:51+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai: 77.72 s rendered in 124 s"
+  },
+  {
+   "t": "2026-11-26T14:04:09+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-p1: 31.59 s rendered in 51 s"
+  },
+  {
+   "t": "2026-11-26T14:05:23+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-p2: 29.82 s rendered in 48 s"
+  },
+  {
+   "t": "2026-11-26T14:06:27+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-parasitoid-single-element-directional-hearing-ai-p3: 22.89 s rendered in 41 s"
+  },
+  {
+   "t": "2026-11-26T14:06:37+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Fly Ear That Made a Better Hearing Aid Microphone = full video + 3 parts (31.59 s, 29.82 s, 22.89 s)"
   }
  ]
 }

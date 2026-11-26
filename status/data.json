@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:10:16+01:00",
+ "generated": "2026-11-26T11:11:23+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -8,34 +8,34 @@
   "until": null
  },
  "run": {
-  "id": "run-0045",
-  "title": "The Bird Feather Behind the Darkest Fabric Ever Made",
+  "id": "run-0046",
+  "title": "The Space Telescope Built From a Lobster's Eye",
   "series": "copied",
-  "state": "done",
-  "stage": "publish",
-  "started": "2026-11-26T00:33:25+01:00",
-  "ended": "2026-11-26T00:40:00+01:00",
+  "state": "running",
+  "stage": "animate",
+  "started": "2026-11-26T11:10:28+01:00",
+  "ended": null,
   "stages": {
    "research": {
-    "state": "done"
+    "state": "skip"
    },
    "write": {
-    "state": "done"
+    "state": "skip"
    },
    "review": {
-    "state": "done"
+    "state": "skip"
    },
    "voice": {
     "state": "done"
    },
    "animate": {
-    "state": "done"
+    "state": "run"
    },
    "checks": {
-    "state": "done"
+    "state": "wait"
    },
    "gate": {
-    "state": "hold"
+    "state": "wait"
    },
    "publish": {
     "state": "wait"
@@ -114,7 +114,7 @@
    "avg_pct": null,
    "seconds": 79.83,
    "url": null,
-   "note": "YouTube daily upload limit; retrying after Thu 09:40",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic.jpg"
   },
   {
@@ -140,7 +140,7 @@
    "avg_pct": null,
    "seconds": 72.21,
    "url": null,
-   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings.jpg"
   },
   {
@@ -166,7 +166,7 @@
    "avg_pct": null,
    "seconds": 70.38,
    "url": null,
-   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-fungus-growing-agriculture.jpg"
   },
   {
@@ -192,7 +192,7 @@
    "avg_pct": null,
    "seconds": 67.78,
    "url": null,
-   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356.jpg"
   },
   {
@@ -218,7 +218,7 @@
    "avg_pct": null,
    "seconds": 74.18,
    "url": null,
-   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
   },
   {
@@ -244,7 +244,7 @@
    "avg_pct": null,
    "seconds": 78.14,
    "url": null,
-   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-cheetah-flex-foot-cheetah-running-blade.jpg"
   },
   {
@@ -270,7 +270,7 @@
    "avg_pct": null,
    "seconds": 76.12,
    "url": null,
-   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-water-jumping-water-surface-microrobot.jpg"
   },
   {
@@ -283,7 +283,7 @@
    "avg_pct": null,
    "seconds": 73.32,
    "url": null,
-   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-diving-diving-bell-and-scuba-tank.jpg"
   },
   {
@@ -296,7 +296,7 @@
    "avg_pct": null,
    "seconds": 79.47,
    "url": null,
-   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-riflebird-ultra-black-fabric.jpg"
   }
  ],
@@ -334,15 +334,15 @@
   "rejected": 8,
   "waiting_you": 18,
   "total_views": 518,
-  "median_views": 0.0,
+  "median_views": 518,
   "by_series": {
    "copied": {
-    "median": 0.0,
-    "n": 8
+    "median": 518,
+    "n": 1
    },
    "first": {
-    "median": 0.0,
-    "n": 2
+    "median": 0,
+    "n": 0
    },
    "said-no": {
     "median": 0,
@@ -352,7 +352,7 @@
   "hit_rate": 0,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 78
+  "topics": 79
  },
  "slots": [
   "09:00",
@@ -362,33 +362,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 78,
+ "topics_left": 79,
  "log": [
-  {
-   "t": "2026-11-26T00:34:13+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-26T00:34:24+01:00",
-   "stage": null,
-   "msg": "2026-11-26-riflebird-ultra-black-fabric-write: OK The Bird Feather Behind the Darkest Fabric Ever Made (59 s)"
-  },
-  {
-   "t": "2026-11-26T00:35:07+01:00",
-   "stage": null,
-   "msg": "2026-11-26-riflebird-ultra-black-fabric-review1: FIX 86 (43 s)"
-  },
-  {
-   "t": "2026-11-26T00:35:07+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 86: Setup beat: 'Its feathers absorb up to 99.95 percent of light' ties the 99.95% figure to the riflebird. Science News (2018, a diffe…"
-  },
-  {
-   "t": "2026-11-26T00:35:22+01:00",
-   "stage": null,
-   "msg": "2026-11-26-riflebird-ultra-black-fabric-fix: OK (15 s)"
-  },
   {
    "t": "2026-11-26T00:36:00+01:00",
    "stage": null,
@@ -488,6 +463,31 @@
    "t": "2026-11-26T07:40:03+01:00",
    "stage": "publish",
    "msg": "scheduled The Squid Teeth Plastic That Heals a Cut in One Second for 2026-11-27 09:00"
+  },
+  {
+   "t": "2026-11-26T11:10:28+01:00",
+   "stage": null,
+   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
+  },
+  {
+   "t": "2026-11-26T11:10:28+01:00",
+   "stage": "voice",
+   "msg": "producer: finishing cut-off Short The Space Telescope Built From a Lobster's Eye"
+  },
+  {
+   "t": "2026-11-26T11:10:28+01:00",
+   "stage": "voice",
+   "msg": "remake of 2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro"
+  },
+  {
+   "t": "2026-11-26T11:11:06+01:00",
+   "stage": "voice",
+   "msg": "narration 185 words, 76.6 s"
+  },
+  {
+   "t": "2026-11-26T11:11:20+01:00",
+   "stage": "animate",
+   "msg": "mixed with Sneaky Snitch"
   }
  ]
 }

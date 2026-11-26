@@ -1,38 +1,38 @@
 {
- "generated": "2026-11-26T15:46:45+01:00",
+ "generated": "2026-11-26T16:01:13+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
-  "state": "making",
-  "note": "118 of 180 slots filled",
-  "until": null
+  "state": "waiting for usage",
+  "note": "Claude usage limit reached; waiting until Thu 18:43",
+  "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0179",
-  "title": "The Paint That Cleans Itself, Copied From a Lotus Leaf (Part 3/3)",
+  "id": "run-0181",
+  "title": "The Desert Beetle That Drinks Fog and the Nets It Inspired",
   "series": "copied",
-  "state": "done",
-  "stage": "checks",
-  "started": "2026-11-26T15:45:28+01:00",
-  "ended": "2026-11-26T15:46:45+01:00",
+  "state": "failed",
+  "stage": "review",
+  "started": "2026-11-26T15:47:53+01:00",
+  "ended": "2026-11-26T15:51:13+01:00",
   "stages": {
    "research": {
-    "state": "wait"
+    "state": "done"
    },
    "write": {
-    "state": "wait"
+    "state": "done"
    },
    "review": {
-    "state": "wait"
+    "state": "run"
    },
    "voice": {
-    "state": "done"
+    "state": "wait"
    },
    "animate": {
-    "state": "done"
+    "state": "wait"
    },
    "checks": {
-    "state": "done"
+    "state": "wait"
    },
    "gate": {
     "state": "wait"
@@ -435,7 +435,7 @@
  "overview": {
   "built": 128,
   "published": 2,
-  "rejected": 14,
+  "rejected": 15,
   "waiting_you": 125,
   "total_views": 528,
   "median_views": 264.0,
@@ -456,7 +456,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 55
+  "topics": 54
  },
  "slots": [
   "09:00",
@@ -466,73 +466,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 55,
+ "topics_left": 54,
  "log": [
-  {
-   "t": "2026-11-26T15:29:05+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-p2: 26.03 s rendered in 43 s"
-  },
-  {
-   "t": "2026-11-26T15:30:11+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-p3: 23.72 s rendered in 42 s"
-  },
-  {
-   "t": "2026-11-26T15:30:21+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Gecko Pad That Holds 700 Pounds on Glass = full video + 3 parts (36.35 s, 26.03 s, 23.72 s)"
-  },
-  {
-   "t": "2026-11-26T15:30:24+01:00",
-   "stage": "publish",
-   "msg": "producer: The Gecko Pad That Holds 700 Pounds on Glass -> waiting 2026-12-15 13:00"
-  },
-  {
-   "t": "2026-11-26T15:30:24+01:00",
-   "stage": "research",
-   "msg": "topic: Nautilus -> Submarine ballast tanks"
-  },
-  {
-   "t": "2026-11-26T15:31:57+01:00",
-   "stage": "research",
-   "msg": "research notes written, 3 links"
-  },
-  {
-   "t": "2026-11-26T15:32:09+01:00",
-   "stage": null,
-   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-write: I set the `animal.body` to `mammal` because none of the allowed values is a shelled animal. That is…"
-  },
-  {
-   "t": "2026-11-26T15:32:39+01:00",
-   "stage": null,
-   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-review1: PASS 86 (30 s)"
-  },
-  {
-   "t": "2026-11-26T15:32:39+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 86: Hook is a true but mild claim; it does not sound very absurd. 'Ballast tanks' for the nautilus is NOAA's analogy, and the 500 mill…"
-  },
-  {
-   "t": "2026-11-26T15:35:09+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-nautilus-submarine-ballast-tanks: 80.13 s rendered in 126 s"
-  },
-  {
-   "t": "2026-11-26T15:36:25+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-p1: 29.91 s rendered in 48 s"
-  },
-  {
-   "t": "2026-11-26T15:37:42+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-p2: 30.51 s rendered in 50 s"
-  },
-  {
-   "t": "2026-11-26T15:38:51+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-p3: 26.28 s rendered in 45 s"
-  },
   {
    "t": "2026-11-26T15:39:00+01:00",
    "stage": "publish",
@@ -592,6 +527,71 @@
    "t": "2026-11-26T15:46:45+01:00",
    "stage": "publish",
    "msg": "set ready: The Paint That Cleans Itself, Copied From a Lotus Leaf = full video + 3 parts (28.25 s, 24.7 s, 28.97 s)"
+  },
+  {
+   "t": "2026-11-26T15:46:47+01:00",
+   "stage": "publish",
+   "msg": "producer: The Paint That Cleans Itself, Copied From a Lotus Leaf -> waiting 2026-12-16 17:00"
+  },
+  {
+   "t": "2026-11-26T15:46:47+01:00",
+   "stage": "research",
+   "msg": "topic: owl feathers -> the quieter Shinkansen pantograph"
+  },
+  {
+   "t": "2026-11-26T15:47:52+01:00",
+   "stage": null,
+   "msg": "2026-11-26-owl-the-quieter-shinkansen-pantograph-write: REJECT The owl pantograph story has no exact number that two sources agree on, and it overlaps…"
+  },
+  {
+   "t": "2026-11-26T15:47:52+01:00",
+   "stage": "review",
+   "msg": "topic rejected: Only two sources link the owl to the pantograph, and they disagree on every figure (13 vs 15 percent power, 70 vs 75 dB, a garbled 30 …"
+  },
+  {
+   "t": "2026-11-26T15:47:52+01:00",
+   "stage": "research",
+   "msg": "trying the next topic"
+  },
+  {
+   "t": "2026-11-26T15:47:53+01:00",
+   "stage": "research",
+   "msg": "topic: Namib desert beetle -> fog-harvesting surfaces"
+  },
+  {
+   "t": "2026-11-26T15:49:56+01:00",
+   "stage": "research",
+   "msg": "research notes written, 4 links"
+  },
+  {
+   "t": "2026-11-26T15:50:04+01:00",
+   "stage": null,
+   "msg": "2026-11-26-namib-fog-harvesting-surfaces-write: OK The Desert Beetle That Drinks Fog and the Nets It Inspired (132 s)"
+  },
+  {
+   "t": "2026-11-26T15:50:49+01:00",
+   "stage": null,
+   "msg": "2026-11-26-namib-fog-harvesting-surfaces-review1: FIX 74 (44 s)"
+  },
+  {
+   "t": "2026-11-26T15:50:49+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 74: Setup claim 'Its only dependable water is dense morning fog' comes only from Mail & Guardian, which is not in story.json sources; S…"
+  },
+  {
+   "t": "2026-11-26T15:51:03+01:00",
+   "stage": null,
+   "msg": "2026-11-26-namib-fog-harvesting-surfaces-fix: OK (14 s)"
+  },
+  {
+   "t": "2026-11-26T15:51:13+01:00",
+   "stage": null,
+   "msg": "2026-11-26-namib-fog-harvesting-surfaces-review2: You've hit your session limit · resets 6:40pm (Europe/Oslo) (10 s)"
+  },
+  {
+   "t": "2026-11-26T15:51:13+01:00",
+   "stage": null,
+   "msg": "Claude usage limit reached; waiting until Thu 18:43"
   }
  ]
 }

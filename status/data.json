@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T13:36:22+01:00",
+ "generated": "2026-11-26T13:55:16+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "64 of 180 slots filled",
+  "note": "72 of 180 slots filled",
   "until": null
  },
  "run": {
-  "id": "run-0120",
-  "title": "The Carnivorous Plant Behind Slippery Ketchup Coatings (Part 3/3)",
+  "id": "run-0128",
+  "title": "The Fish Protein That Lets Ice Cream Drop Its Fat (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T13:35:15+01:00",
-  "ended": "2026-11-26T13:36:22+01:00",
+  "started": "2026-11-26T13:53:53+01:00",
+  "ended": "2026-11-26T13:55:16+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -420,10 +420,10 @@
   }
  ],
  "overview": {
-  "built": 72,
+  "built": 80,
   "published": 2,
   "rejected": 11,
-  "waiting_you": 69,
+  "waiting_you": 77,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -443,7 +443,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 72
+  "topics": 70
  },
  "slots": [
   "09:00",
@@ -453,132 +453,132 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 72,
+ "topics_left": 70,
  "log": [
   {
-   "t": "2026-11-26T13:18:57+01:00",
+   "t": "2026-11-26T13:38:20+01:00",
    "stage": null,
-   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-review1: FIX 82 (41 s)"
+   "msg": "2026-11-26-glass-fibre-optics-write: - **Files:** `research.md` and `story.json` are in `jobs/2026-11-26-glass-fibre-optics`. (115 s)"
   },
   {
-   "t": "2026-11-26T13:18:57+01:00",
+   "t": "2026-11-26T13:39:02+01:00",
+   "stage": null,
+   "msg": "2026-11-26-glass-fibre-optics-review1: FIX 76 (42 s)"
+  },
+  {
+   "t": "2026-11-26T13:39:02+01:00",
    "stage": "review",
-   "msg": "fact-check FIX 82: Test beat 1 says the team 'first studied' the worm; neither source says the study came first or describes a sequence (NBC only says…"
+   "msg": "fact-check FIX 76: Yousee beat says 'Slowly, bit by bit' - no source says the deposition is slow or incremental (the stalactite analogy is fine as a c…"
   },
   {
-   "t": "2026-11-26T13:19:07+01:00",
+   "t": "2026-11-26T13:39:16+01:00",
    "stage": null,
-   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-fix: OK (11 s)"
+   "msg": "2026-11-26-glass-fibre-optics-fix: OK (14 s)"
   },
   {
-   "t": "2026-11-26T13:19:44+01:00",
+   "t": "2026-11-26T13:39:48+01:00",
    "stage": null,
-   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-review2: PASS 88 (37 s)"
+   "msg": "2026-11-26-glass-fibre-optics-review2: PASS 86 (33 s)"
   },
   {
-   "t": "2026-11-26T13:19:44+01:00",
+   "t": "2026-11-26T13:39:48+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 88: Hook is factual rather than clearly absurd."
+   "msg": "fact-check PASS 86: PNAS page was blocked by a bot check, so the 40-70 um, 5-15 cm, core/cladding and sodium claims were checked only against research…"
   },
   {
-   "t": "2026-11-26T13:20:03+01:00",
-   "stage": "voice",
-   "msg": "take ran 84.8 s, re-voicing at speed 1.26"
-  },
-  {
-   "t": "2026-11-26T13:22:34+01:00",
+   "t": "2026-11-26T13:42:13+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane: 80.36 s rendered in 125 s"
+   "msg": "2026-11-26-glass-fibre-optics: 76.61 s rendered in 121 s"
   },
   {
-   "t": "2026-11-26T13:23:57+01:00",
+   "t": "2026-11-26T13:43:35+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-p1: 33.58 s rendered in 53 s"
+   "msg": "2026-11-26-glass-fibre-optics-p1: 32.55 s rendered in 53 s"
   },
   {
-   "t": "2026-11-26T13:25:10+01:00",
+   "t": "2026-11-26T13:44:46+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-p2: 28.69 s rendered in 46 s"
+   "msg": "2026-11-26-glass-fibre-optics-p2: 27.75 s rendered in 44 s"
   },
   {
-   "t": "2026-11-26T13:26:24+01:00",
+   "t": "2026-11-26T13:45:50+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-p3: 29.16 s rendered in 50 s"
+   "msg": "2026-11-26-glass-fibre-optics-p3: 22.87 s rendered in 40 s"
   },
   {
-   "t": "2026-11-26T13:26:38+01:00",
+   "t": "2026-11-26T13:46:00+01:00",
    "stage": "publish",
-   "msg": "set ready: The Worm That Glues Sand Underwater and Fixes Bones = full video + 3 parts (33.58 s, 28.69 s, 29.16 s)"
+   "msg": "set ready: The Deep-Sea Sponge That Grows Its Own Fibre Optics = full video + 3 parts (32.55 s, 27.75 s, 22.87 s)"
   },
   {
-   "t": "2026-11-26T13:26:38+01:00",
+   "t": "2026-11-26T13:46:00+01:00",
    "stage": "publish",
-   "msg": "producer: The Worm That Glues Sand Underwater and Fixes Bones -> waiting 2026-12-06 19:00"
+   "msg": "producer: The Deep-Sea Sponge That Grows Its Own Fibre Optics -> waiting 2026-12-08 11:00"
   },
   {
-   "t": "2026-11-26T13:26:38+01:00",
+   "t": "2026-11-26T13:46:01+01:00",
    "stage": "research",
-   "msg": "topic: Pitcher plant -> SLIPS slippery surfaces and ketchup-bottle coatings"
+   "msg": "topic: Ocean pout (antifreeze fish) -> Unilever ice structuring protein for ice cream"
   },
   {
-   "t": "2026-11-26T13:28:09+01:00",
+   "t": "2026-11-26T13:47:13+01:00",
    "stage": "research",
    "msg": "research notes written, 2 links"
   },
   {
-   "t": "2026-11-26T13:28:18+01:00",
+   "t": "2026-11-26T13:47:20+01:00",
    "stage": null,
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-write: - **Payoff line to review:** In the payoff, \"The Harvard material was tested too\" i…"
+   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-write: OK The Fish Protein That Lets Ice Cream Drop Its Fat (80 s)"
   },
   {
-   "t": "2026-11-26T13:28:54+01:00",
+   "t": "2026-11-26T13:48:00+01:00",
    "stage": null,
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-review1: FIX 62 (36 s)"
+   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-review1: FIX 76 (39 s)"
   },
   {
-   "t": "2026-11-26T13:28:54+01:00",
+   "t": "2026-11-26T13:48:00+01:00",
    "stage": "review",
-   "msg": "fact-check FIX 62: Hook says insects 'cannot climb out'; neither source says this. PopSci and VT only say insects slide into the plant's digestive jui…"
+   "msg": "fact-check FIX 76: Setup beat: 'Ice cream is mostly a problem of ice, and fat had always managed it.' is not in either source (they only say fat norma…"
   },
   {
-   "t": "2026-11-26T13:29:13+01:00",
+   "t": "2026-11-26T13:48:22+01:00",
    "stage": null,
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-fix: OK (19 s)"
+   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-fix: OK (22 s)"
   },
   {
-   "t": "2026-11-26T13:29:51+01:00",
+   "t": "2026-11-26T13:48:56+01:00",
    "stage": null,
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-review2: PASS 88 (37 s)"
+   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-review2: PASS 84 (34 s)"
   },
   {
-   "t": "2026-11-26T13:29:51+01:00",
+   "t": "2026-11-26T13:48:56+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 88: Setup beat says insects slide into the plant twice (belly, then cavity); redundant."
+   "msg": "fact-check PASS 84: Hook is factual but does not sound absurd."
   },
   {
-   "t": "2026-11-26T13:32:24+01:00",
+   "t": "2026-11-26T13:51:26+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott: 82.94 s rendered in 129 s"
+   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c: 78.68 s rendered in 126 s"
   },
   {
-   "t": "2026-11-26T13:33:48+01:00",
+   "t": "2026-11-26T13:52:37+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p1: 34.92 s rendered in 55 s"
+   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-p1: 27.01 s rendered in 44 s"
   },
   {
-   "t": "2026-11-26T13:35:04+01:00",
+   "t": "2026-11-26T13:53:44+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p2: 29.85 s rendered in 48 s"
+   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-p2: 25.75 s rendered in 41 s"
   },
   {
-   "t": "2026-11-26T13:36:13+01:00",
+   "t": "2026-11-26T13:55:05+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p3: 24.75 s rendered in 43 s"
+   "msg": "2026-11-26-ocean-unilever-ice-structuring-protein-for-ice-c-p3: 32.51 s rendered in 55 s"
   },
   {
-   "t": "2026-11-26T13:36:22+01:00",
+   "t": "2026-11-26T13:55:16+01:00",
    "stage": "publish",
-   "msg": "set ready: The Carnivorous Plant Behind Slippery Ketchup Coatings = full video + 3 parts (34.92 s, 29.85 s, 24.75 s)"
+   "msg": "set ready: The Fish Protein That Lets Ice Cream Drop Its Fat = full video + 3 parts (27.01 s, 25.75 s, 32.51 s)"
   }
  ]
 }

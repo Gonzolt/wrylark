@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:19:54+01:00",
+ "generated": "2026-11-26T12:32:03+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -8,13 +8,13 @@
   "until": null
  },
  "run": {
-  "id": "run-0077",
-  "title": "The Space Telescope Built From a Lobster's Eye (Part 3/3)",
+  "id": "run-0085",
+  "title": "The 68 Milligram Robot That Jumps Off Water (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T12:18:39+01:00",
-  "ended": "2026-11-26T12:19:54+01:00",
+  "started": "2026-11-26T12:30:55+01:00",
+  "ended": "2026-11-26T12:32:03+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -420,10 +420,10 @@
   }
  ],
  "overview": {
-  "built": 36,
+  "built": 42,
   "published": 2,
   "rejected": 9,
-  "waiting_you": 33,
+  "waiting_you": 39,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -455,56 +455,6 @@
  ],
  "topics_left": 78,
  "log": [
-  {
-   "t": "2026-11-26T11:55:05+01:00",
-   "stage": "voice",
-   "msg": "producer: finishing cut-off Short Ants Were Farming 50 Million Years Before Humans"
-  },
-  {
-   "t": "2026-11-26T11:55:05+01:00",
-   "stage": "voice",
-   "msg": "remake of 2026-11-25-fungus-growing-agriculture"
-  },
-  {
-   "t": "2026-11-26T11:57:21+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-fungus-growing-agriculture: 70.38 s rendered in 112 s"
-  },
-  {
-   "t": "2026-11-26T11:58:35+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-fungus-growing-agriculture-p1: 28.48 s rendered in 47 s"
-  },
-  {
-   "t": "2026-11-26T11:59:41+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-fungus-growing-agriculture-p2: 25.26 s rendered in 41 s"
-  },
-  {
-   "t": "2026-11-26T12:00:47+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-fungus-growing-agriculture-p3: 23.21 s rendered in 42 s"
-  },
-  {
-   "t": "2026-11-26T12:00:57+01:00",
-   "stage": "publish",
-   "msg": "set ready: Ants Were Farming 50 Million Years Before Humans = full video + 3 parts (28.48 s, 25.26 s, 23.21 s)"
-  },
-  {
-   "t": "2026-11-26T12:00:57+01:00",
-   "stage": "publish",
-   "msg": "views refreshed for 10 videos"
-  },
-  {
-   "t": "2026-11-26T12:02:54+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-fungus-growing-agriculture: 70.38 s rendered in 113 s"
-  },
-  {
-   "t": "2026-11-26T12:03:05+01:00",
-   "stage": "publish",
-   "msg": "set ready: Ants Were Farming 50 Million Years Before Humans = full video + 3 parts (28.48 s, 25.26 s, 23.21 s)"
-  },
   {
    "t": "2026-11-26T12:04:57+01:00",
    "stage": "animate",
@@ -579,6 +529,56 @@
    "t": "2026-11-26T12:19:54+01:00",
    "stage": "publish",
    "msg": "set ready: The Space Telescope Built From a Lobster's Eye = full video + 3 parts (21.27 s, 32.28 s, 29.72 s)"
+  },
+  {
+   "t": "2026-11-26T12:22:20+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-cheetah-flex-foot-cheetah-running-blade: 78.14 s rendered in 140 s"
+  },
+  {
+   "t": "2026-11-26T12:23:32+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-cheetah-flex-foot-cheetah-running-blade-p1: 28.69 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-26T12:24:45+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-cheetah-flex-foot-cheetah-running-blade-p2: 28.67 s rendered in 48 s"
+  },
+  {
+   "t": "2026-11-26T12:25:58+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-cheetah-flex-foot-cheetah-running-blade-p3: 27.33 s rendered in 48 s"
+  },
+  {
+   "t": "2026-11-26T12:26:08+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Cheetah Leg Behind 90 Percent of Paralympic Runners = full video + 3 parts (28.69 s, 28.67 s, 27.33 s)"
+  },
+  {
+   "t": "2026-11-26T12:28:20+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-water-jumping-water-surface-microrobot: 76.12 s rendered in 128 s"
+  },
+  {
+   "t": "2026-11-26T12:29:29+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-water-jumping-water-surface-microrobot-p1: 26.77 s rendered in 43 s"
+  },
+  {
+   "t": "2026-11-26T12:30:45+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-water-jumping-water-surface-microrobot-p2: 31.32 s rendered in 50 s"
+  },
+  {
+   "t": "2026-11-26T12:31:54+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-water-jumping-water-surface-microrobot-p3: 24.58 s rendered in 44 s"
+  },
+  {
+   "t": "2026-11-26T12:32:03+01:00",
+   "stage": "publish",
+   "msg": "set ready: The 68 Milligram Robot That Jumps Off Water = full video + 3 parts (26.77 s, 31.32 s, 24.58 s)"
   }
  ]
 }

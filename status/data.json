@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T23:50:25+01:00",
+ "generated": "2026-11-27T00:02:31+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "148 of 180 slots filled",
+  "note": "152 of 180 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0214",
-  "title": "Lockheed Built a Drone Shaped Like a Falling Maple Seed (Part 3/3)",
+  "id": "run-0218",
+  "title": "Airbus Flew Two Jets Nose to Tail Like Geese to Save Fuel (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T23:48:56+01:00",
-  "ended": "2026-11-26T23:50:25+01:00",
+  "started": "2026-11-27T00:00:59+01:00",
+  "ended": "2026-11-27T00:02:31+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -459,10 +459,10 @@
   }
  ],
  "overview": {
-  "built": 160,
+  "built": 164,
   "published": 5,
   "rejected": 15,
-  "waiting_you": 154,
+  "waiting_you": 158,
   "total_views": 547,
   "median_views": 4.5,
   "by_series": {
@@ -482,7 +482,7 @@
   "hit_rate": 25,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 46
+  "topics": 45
  },
  "slots": [
   "09:00",
@@ -492,93 +492,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 46,
+ "topics_left": 45,
  "log": [
-  {
-   "t": "2026-11-26T23:32:06+01:00",
-   "stage": null,
-   "msg": "2026-11-26-tailorbird-sewing-write: OK The Bird That Sews Its Nest With a Beak Shaped Like a Needle (46 s)"
-  },
-  {
-   "t": "2026-11-26T23:32:34+01:00",
-   "stage": null,
-   "msg": "2026-11-26-tailorbird-sewing-review1: FIX 80 (28 s)"
-  },
-  {
-   "t": "2026-11-26T23:32:34+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 80: Setup beat says 'She has no hands, no glue and no tools.' No source says this; it is also awkward because the beak is later describ…"
-  },
-  {
-   "t": "2026-11-26T23:32:44+01:00",
-   "stage": null,
-   "msg": "2026-11-26-tailorbird-sewing-fix: OK (10 s)"
-  },
-  {
-   "t": "2026-11-26T23:33:12+01:00",
-   "stage": null,
-   "msg": "2026-11-26-tailorbird-sewing-review2: FIX 86 (28 s)"
-  },
-  {
-   "t": "2026-11-26T23:33:12+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 86: Setup says 'She has no hands, so she uses her feet and her beak.' Neither source says this; they only say she uses her feet to hold…"
-  },
-  {
-   "t": "2026-11-26T23:33:23+01:00",
-   "stage": null,
-   "msg": "2026-11-26-tailorbird-sewing-fix: OK (11 s)"
-  },
-  {
-   "t": "2026-11-26T23:33:56+01:00",
-   "stage": null,
-   "msg": "2026-11-26-tailorbird-sewing-review3: PASS 88 (32 s)"
-  },
-  {
-   "t": "2026-11-26T23:33:56+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 88: Hook is accurate but reads as a plain statement rather than something that sounds absurd."
-  },
-  {
-   "t": "2026-11-26T23:36:47+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-tailorbird-sewing: 69.53 s rendered in 148 s"
-  },
-  {
-   "t": "2026-11-26T23:38:14+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-tailorbird-sewing-p1: 26.52 s rendered in 57 s"
-  },
-  {
-   "t": "2026-11-26T23:39:40+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-tailorbird-sewing-p2: 27.26 s rendered in 60 s"
-  },
-  {
-   "t": "2026-11-26T23:40:57+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-tailorbird-sewing-p3: 22.29 s rendered in 51 s"
-  },
-  {
-   "t": "2026-11-26T23:41:09+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Bird That Sews Its Nest With a Beak Shaped Like a Needle = full video + 3 parts (26.52 s, 27.26 s, 22.29 s)"
-  },
-  {
-   "t": "2026-11-26T23:41:09+01:00",
-   "stage": "publish",
-   "msg": "producer: The Bird That Sews Its Nest With a Beak Shaped Like a Needle -> waiting 2026-12-21 11:00"
-  },
-  {
-   "t": "2026-11-26T23:41:10+01:00",
-   "stage": "research",
-   "msg": "topic: maple seed -> the Samarai single-wing drone"
-  },
-  {
-   "t": "2026-11-26T23:42:07+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
   {
    "t": "2026-11-26T23:42:07+01:00",
    "stage": null,
@@ -618,6 +533,91 @@
    "t": "2026-11-26T23:50:25+01:00",
    "stage": "publish",
    "msg": "set ready: Lockheed Built a Drone Shaped Like a Falling Maple Seed = full video + 3 parts (29.95 s, 26.6 s, 27.56 s)"
+  },
+  {
+   "t": "2026-11-26T23:50:27+01:00",
+   "stage": "publish",
+   "msg": "producer: Lockheed Built a Drone Shaped Like a Falling Maple Seed -> waiting 2026-12-21 19:00"
+  },
+  {
+   "t": "2026-11-26T23:50:28+01:00",
+   "stage": "research",
+   "msg": "topic: geese flying in V formation -> Airbus fello'fly formation flights"
+  },
+  {
+   "t": "2026-11-26T23:51:43+01:00",
+   "stage": "research",
+   "msg": "research notes written, 3 links"
+  },
+  {
+   "t": "2026-11-26T23:51:50+01:00",
+   "stage": null,
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-write: OK Airbus Flew Two Jets Nose to Tail Like Geese to Save Fuel (82 s)"
+  },
+  {
+   "t": "2026-11-26T23:52:28+01:00",
+   "stage": null,
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-review1: FIX 82 (38 s)"
+  },
+  {
+   "t": "2026-11-26T23:52:28+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 82: Setup beat: 'Every long-haul jet burned its fuel alone' is in neither source (the agent that read both found no 'alone'/'solo' word…"
+  },
+  {
+   "t": "2026-11-26T23:52:39+01:00",
+   "stage": null,
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-fix: OK (11 s)"
+  },
+  {
+   "t": "2026-11-26T23:53:17+01:00",
+   "stage": null,
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-review2: FIX 84 (38 s)"
+  },
+  {
+   "t": "2026-11-26T23:53:17+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 84: Mocker beat: 'The old way was one airliner per flight path' is in no source (-15). Only the certification gap is sourced."
+  },
+  {
+   "t": "2026-11-26T23:53:29+01:00",
+   "stage": null,
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-fix: OK (12 s)"
+  },
+  {
+   "t": "2026-11-26T23:54:05+01:00",
+   "stage": null,
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-review3: PASS 88 (36 s)"
+  },
+  {
+   "t": "2026-11-26T23:54:05+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: Mocker beat says formation flight 'was not certified'. The sources only say the next step is getting authorities' support so it 'c…"
+  },
+  {
+   "t": "2026-11-26T23:57:25+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights: 80.11 s rendered in 173 s"
+  },
+  {
+   "t": "2026-11-26T23:59:12+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-p1: 26.11 s rendered in 63 s"
+  },
+  {
+   "t": "2026-11-27T00:00:47+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-p2: 32.55 s rendered in 69 s"
+  },
+  {
+   "t": "2026-11-27T00:02:20+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-p3: 28.01 s rendered in 64 s"
+  },
+  {
+   "t": "2026-11-27T00:02:31+01:00",
+   "stage": "publish",
+   "msg": "set ready: Airbus Flew Two Jets Nose to Tail Like Geese to Save Fuel = full video + 3 parts (26.11 s, 32.55 s, 28.01 s)"
   }
  ]
 }

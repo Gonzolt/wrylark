@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:30:26+01:00",
+ "generated": "2026-11-26T11:43:26+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -8,13 +8,13 @@
   "until": null
  },
  "run": {
-  "id": "run-0050",
-  "title": "An owl's feather and a penguin's body (Part 2/4)",
+  "id": "run-0055",
+  "title": "How a kingfisher's beak ended the boom (Part 4/4)",
   "series": "copied",
-  "state": "failed",
-  "stage": "animate",
-  "started": "2026-11-26T11:29:42+01:00",
-  "ended": "2026-11-26T11:30:26+01:00",
+  "state": "done",
+  "stage": "checks",
+  "started": "2026-11-26T11:41:20+01:00",
+  "ended": "2026-11-26T11:43:26+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -29,10 +29,10 @@
     "state": "done"
    },
    "animate": {
-    "state": "fail"
+    "state": "done"
    },
    "checks": {
-    "state": "wait"
+    "state": "done"
    },
    "gate": {
     "state": "wait"
@@ -78,6 +78,19 @@
  ],
  "upload_blocked_until": "2026-11-26T13:15+01:00",
  "upcoming": [
+  {
+   "title": "A birdwatcher fixed Japan's loudest bullet train with a beak",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-26T11:37:26+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 196.69,
+   "url": null,
+   "note": "YouTube upload limit, next try 13:15",
+   "poster": "p/2026-11-26-kingfisher-shinkansen-long.jpg"
+  },
   {
    "title": "The Sea Snail Venom That Became a Severe Pain Drug",
    "series": "copied",
@@ -316,7 +329,7 @@
    "title": "The bullet train that boomed out of tunnels (Part 1/4)",
    "series": "copied",
    "status": "waiting",
-   "publish_at": null,
+   "publish_at": "2026-11-29T17:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
@@ -324,6 +337,45 @@
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
    "poster": "p/2026-11-26-kingfisher-shinkansen-long-p1.jpg"
+  },
+  {
+   "title": "An owl's feather and a penguin's body (Part 2/4)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-29T19:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 57.71,
+   "url": null,
+   "note": "YouTube upload limit, next try 13:15",
+   "poster": "p/2026-11-26-kingfisher-shinkansen-long-p2.jpg"
+  },
+  {
+   "title": "Shooting model noses into a pipe (Part 3/4)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-30T09:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 52.1,
+   "url": null,
+   "note": "YouTube upload limit, next try 13:15",
+   "poster": "p/2026-11-26-kingfisher-shinkansen-long-p3.jpg"
+  },
+  {
+   "title": "How a kingfisher's beak ended the boom (Part 4/4)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-30T11:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 56.85,
+   "url": null,
+   "note": "YouTube upload limit, next try 13:15",
+   "poster": "p/2026-11-26-kingfisher-shinkansen-long-p4.jpg"
   }
  ],
  "published": [
@@ -346,7 +398,7 @@
    "status": "published",
    "publish_at": "2026-11-25T19:56:05+01:00",
    "published": "2026-11-25T19:56:05+01:00",
-   "views": 527,
+   "views": 528,
    "avg_pct": null,
    "seconds": 71.38,
    "url": "https://youtube.com/shorts/Z1EGoUUB5Aw",
@@ -355,15 +407,15 @@
   }
  ],
  "overview": {
-  "built": 22,
+  "built": 25,
   "published": 2,
   "rejected": 8,
-  "waiting_you": 19,
-  "total_views": 527,
-  "median_views": 263.5,
+  "waiting_you": 23,
+  "total_views": 528,
+  "median_views": 264.0,
   "by_series": {
    "copied": {
-    "median": 527,
+    "median": 528,
     "n": 1
    },
    "first": {
@@ -390,66 +442,6 @@
  ],
  "topics_left": 78,
  "log": [
-  {
-   "t": "2026-11-26T11:11:06+01:00",
-   "stage": "voice",
-   "msg": "narration 185 words, 76.6 s"
-  },
-  {
-   "t": "2026-11-26T11:11:20+01:00",
-   "stage": "animate",
-   "msg": "mixed with Sneaky Snitch"
-  },
-  {
-   "t": "2026-11-26T11:11:41+01:00",
-   "stage": null,
-   "msg": "previous run run-0046 was cut off at 2026-11-26 11:10 (PC shut down or window closed); its topic goes back in the queue"
-  },
-  {
-   "t": "2026-11-26T11:11:41+01:00",
-   "stage": null,
-   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
-  },
-  {
-   "t": "2026-11-26T11:11:41+01:00",
-   "stage": "voice",
-   "msg": "producer: finishing cut-off Short The Space Telescope Built From a Lobster's Eye"
-  },
-  {
-   "t": "2026-11-26T11:11:41+01:00",
-   "stage": "voice",
-   "msg": "remake of 2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro"
-  },
-  {
-   "t": "2026-11-26T11:12:03+01:00",
-   "stage": "voice",
-   "msg": "narration 185 words, 76.6 s"
-  },
-  {
-   "t": "2026-11-26T11:12:06+01:00",
-   "stage": "animate",
-   "msg": "mixed with Sneaky Snitch"
-  },
-  {
-   "t": "2026-11-26T11:14:59+01:00",
-   "stage": "animate",
-   "msg": "4,600 frames rendered in 168 s"
-  },
-  {
-   "t": "2026-11-26T11:15:11+01:00",
-   "stage": "checks",
-   "msg": "all checks passed"
-  },
-  {
-   "t": "2026-11-26T11:15:12+01:00",
-   "stage": "publish",
-   "msg": "YouTube's daily upload limit reached; uploads pause until Thu 13:15 (phone-verify the channel at youtube.com/verify to raise it)"
-  },
-  {
-   "t": "2026-11-26T11:15:12+01:00",
-   "stage": "publish",
-   "msg": "ready; waiting to upload (YouTube daily upload limit; retrying after Thu 13:15)"
-  },
   {
    "t": "2026-11-26T11:15:13+01:00",
    "stage": "publish",
@@ -514,6 +506,66 @@
    "t": "2026-11-26T11:30:26+01:00",
    "stage": null,
    "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
+  },
+  {
+   "t": "2026-11-26T11:30:28+01:00",
+   "stage": "voice",
+   "msg": "producer: finishing cut-off Short A birdwatcher fixed Japan's loudest bullet train with a beak"
+  },
+  {
+   "t": "2026-11-26T11:30:28+01:00",
+   "stage": "voice",
+   "msg": "remake of 2026-11-26-kingfisher-shinkansen-long"
+  },
+  {
+   "t": "2026-11-26T11:31:10+01:00",
+   "stage": null,
+   "msg": "previous run run-0051 was cut off at 2026-11-26 11:30 (PC shut down or window closed); its topic goes back in the queue"
+  },
+  {
+   "t": "2026-11-26T11:31:10+01:00",
+   "stage": null,
+   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
+  },
+  {
+   "t": "2026-11-26T11:31:11+01:00",
+   "stage": "publish",
+   "msg": "views refreshed for 10 videos"
+  },
+  {
+   "t": "2026-11-26T11:31:11+01:00",
+   "stage": "research",
+   "msg": "long-form from A train company hired a birdwatcher to fix its fastest train"
+  },
+  {
+   "t": "2026-11-26T11:37:10+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long: 196.69 s rendered in 310 s"
+  },
+  {
+   "t": "2026-11-26T11:39:18+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p2: 57.71 s rendered in 90 s"
+  },
+  {
+   "t": "2026-11-26T11:41:09+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p3: 52.1 s rendered in 81 s"
+  },
+  {
+   "t": "2026-11-26T11:43:15+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p4: 56.85 s rendered in 94 s"
+  },
+  {
+   "t": "2026-11-26T11:43:26+01:00",
+   "stage": "publish",
+   "msg": "parts wait for the full video to reach YouTube (they link to it); the producer uploads them after"
+  },
+  {
+   "t": "2026-11-26T11:43:26+01:00",
+   "stage": "publish",
+   "msg": "long-form ready: A birdwatcher fixed Japan's loudest bullet train with a beak + 4 parts"
   }
  ]
 }

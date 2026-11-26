@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T15:19:57+01:00",
+ "generated": "2026-11-26T15:30:21+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "106 of 180 slots filled",
+  "note": "110 of 180 slots filled",
   "until": null
  },
  "run": {
-  "id": "run-0166",
-  "title": "The Cicada Wing That Shreds Bacteria Without Chemicals (Part 3/3)",
+  "id": "run-0171",
+  "title": "The Gecko Pad That Holds 700 Pounds on Glass (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T15:18:55+01:00",
-  "ended": "2026-11-26T15:19:57+01:00",
+  "started": "2026-11-26T15:29:15+01:00",
+  "ended": "2026-11-26T15:30:21+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -433,10 +433,10 @@
   }
  ],
  "overview": {
-  "built": 116,
+  "built": 120,
   "published": 2,
-  "rejected": 13,
-  "waiting_you": 113,
+  "rejected": 14,
+  "waiting_you": 117,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -456,7 +456,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 59
+  "topics": 57
  },
  "slots": [
   "09:00",
@@ -466,93 +466,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 59,
+ "topics_left": 57,
  "log": [
-  {
-   "t": "2026-11-26T15:03:32+01:00",
-   "stage": null,
-   "msg": "2026-11-26-mantis-polarization-camera-that-spots-cancer-review1: PASS 90 (40 s)"
-  },
-  {
-   "t": "2026-11-26T15:03:32+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 90: Hook says the camera 'can see cancer', which is stronger than the sources ('help detect' lesions in mice); it is also only mildly …"
-  },
-  {
-   "t": "2026-11-26T15:06:06+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-mantis-polarization-camera-that-spots-cancer: 82.79 s rendered in 130 s"
-  },
-  {
-   "t": "2026-11-26T15:07:30+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-mantis-polarization-camera-that-spots-cancer-p1: 33.71 s rendered in 54 s"
-  },
-  {
-   "t": "2026-11-26T15:08:42+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-mantis-polarization-camera-that-spots-cancer-p2: 28.37 s rendered in 46 s"
-  },
-  {
-   "t": "2026-11-26T15:09:55+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-mantis-polarization-camera-that-spots-cancer-p3: 27.29 s rendered in 47 s"
-  },
-  {
-   "t": "2026-11-26T15:10:08+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Shrimp Eye That Taught a Camera to Spot Cancer = full video + 3 parts (33.71 s, 28.37 s, 27.29 s)"
-  },
-  {
-   "t": "2026-11-26T15:10:08+01:00",
-   "stage": "publish",
-   "msg": "producer: The Shrimp Eye That Taught a Camera to Spot Cancer -> waiting 2026-12-14 09:00"
-  },
-  {
-   "t": "2026-11-26T15:10:08+01:00",
-   "stage": "research",
-   "msg": "topic: Cicada -> Bactericidal nanopillar surfaces"
-  },
-  {
-   "t": "2026-11-26T15:12:00+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-26T15:12:05+01:00",
-   "stage": null,
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces-write: OK The Cicada Wing That Shreds Bacteria Without Chemicals (116 s)"
-  },
-  {
-   "t": "2026-11-26T15:12:39+01:00",
-   "stage": null,
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces-review1: FIX 78 (34 s)"
-  },
-  {
-   "t": "2026-11-26T15:12:39+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 78: Setup beat says 'The goal was a surface that kills bacteria without chemicals.' Beckman states the goal as durable, mechanically an…"
-  },
-  {
-   "t": "2026-11-26T15:12:52+01:00",
-   "stage": null,
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces-fix: OK (13 s)"
-  },
-  {
-   "t": "2026-11-26T15:13:25+01:00",
-   "stage": null,
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces-review2: FIX 74 (34 s)"
-  },
-  {
-   "t": "2026-11-26T15:13:25+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 74: Payoff 'No chemicals. Only shape.' is not supported for the 95% result: the sources do not say which surface (polystyrene or copper…"
-  },
-  {
-   "t": "2026-11-26T15:13:39+01:00",
-   "stage": null,
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces-fix: OK (14 s)"
-  },
   {
    "t": "2026-11-26T15:14:13+01:00",
    "stage": null,
@@ -592,6 +507,91 @@
    "t": "2026-11-26T15:19:57+01:00",
    "stage": "publish",
    "msg": "set ready: The Cicada Wing That Shreds Bacteria Without Chemicals = full video + 3 parts (27.67 s, 27.63 s, 20.16 s)"
+  },
+  {
+   "t": "2026-11-26T15:19:59+01:00",
+   "stage": "publish",
+   "msg": "producer: The Cicada Wing That Shreds Bacteria Without Chemicals -> waiting 2026-12-14 17:00"
+  },
+  {
+   "t": "2026-11-26T15:19:59+01:00",
+   "stage": "research",
+   "msg": "topic: shark skin -> the Speedo Fastskin swimsuit"
+  },
+  {
+   "t": "2026-11-26T15:21:11+01:00",
+   "stage": null,
+   "msg": "2026-11-26-shark-the-speedo-fastskin-swimsuit-write: REJECT The Fastskin fabric doesn't work like shark skin (Discover and Popular Science), and the 8…"
+  },
+  {
+   "t": "2026-11-26T15:21:11+01:00",
+   "stage": "review",
+   "msg": "topic rejected: Discover and Popular Science report that the Fastskin fabric does not actually work like shark skin (Lauder found it added drag), and …"
+  },
+  {
+   "t": "2026-11-26T15:21:11+01:00",
+   "stage": "research",
+   "msg": "trying the next topic"
+  },
+  {
+   "t": "2026-11-26T15:21:11+01:00",
+   "stage": "research",
+   "msg": "topic: gecko feet -> Geckskin dry adhesive"
+  },
+  {
+   "t": "2026-11-26T15:22:26+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-26T15:22:33+01:00",
+   "stage": null,
+   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-write: OK The Gecko Pad That Holds 700 Pounds on Glass (82 s)"
+  },
+  {
+   "t": "2026-11-26T15:22:33+01:00",
+   "stage": "write",
+   "msg": "rules: 1 problem(s): script is 216 words (140-210)"
+  },
+  {
+   "t": "2026-11-26T15:22:42+01:00",
+   "stage": null,
+   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-rules1: OK (10 s)"
+  },
+  {
+   "t": "2026-11-26T15:23:17+01:00",
+   "stage": null,
+   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-review1: PASS 91 (34 s)"
+  },
+  {
+   "t": "2026-11-26T15:23:17+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 91: Minor: 'silicone pad' is not in either source; they say PDMS / rubber (PDMS is a silicone, so accurate but not verbatim)."
+  },
+  {
+   "t": "2026-11-26T15:26:23+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-gecko-geckskin-dry-adhesive: 79.51 s rendered in 162 s"
+  },
+  {
+   "t": "2026-11-26T15:27:56+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-p1: 36.35 s rendered in 64 s"
+  },
+  {
+   "t": "2026-11-26T15:29:05+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-p2: 26.03 s rendered in 43 s"
+  },
+  {
+   "t": "2026-11-26T15:30:11+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-p3: 23.72 s rendered in 42 s"
+  },
+  {
+   "t": "2026-11-26T15:30:21+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Gecko Pad That Holds 700 Pounds on Glass = full video + 3 parts (36.35 s, 26.03 s, 23.72 s)"
   }
  ]
 }

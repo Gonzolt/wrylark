@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T13:17:17+01:00",
+ "generated": "2026-11-26T13:36:22+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "56 of 180 slots filled",
+  "note": "64 of 180 slots filled",
   "until": null
  },
  "run": {
-  "id": "run-0112",
-  "title": "Surgeons Copied a Wasp's Egg-Layer to Steer a Needle (Part 3/3)",
+  "id": "run-0120",
+  "title": "The Carnivorous Plant Behind Slippery Ketchup Coatings (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T13:16:05+01:00",
-  "ended": "2026-11-26T13:17:17+01:00",
+  "started": "2026-11-26T13:35:15+01:00",
+  "ended": "2026-11-26T13:36:22+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -420,10 +420,10 @@
   }
  ],
  "overview": {
-  "built": 64,
+  "built": 72,
   "published": 2,
   "rejected": 11,
-  "waiting_you": 61,
+  "waiting_you": 69,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -443,7 +443,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 74
+  "topics": 72
  },
  "slots": [
   "09:00",
@@ -453,132 +453,132 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 74,
+ "topics_left": 72,
  "log": [
   {
-   "t": "2026-11-26T12:56:31+01:00",
+   "t": "2026-11-26T13:18:57+01:00",
+   "stage": null,
+   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-review1: FIX 82 (41 s)"
+  },
+  {
+   "t": "2026-11-26T13:18:57+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 82: Test beat 1 says the team 'first studied' the worm; neither source says the study came first or describes a sequence (NBC only says…"
+  },
+  {
+   "t": "2026-11-26T13:19:07+01:00",
+   "stage": null,
+   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-fix: OK (11 s)"
+  },
+  {
+   "t": "2026-11-26T13:19:44+01:00",
+   "stage": null,
+   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-review2: PASS 88 (37 s)"
+  },
+  {
+   "t": "2026-11-26T13:19:44+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: Hook is factual rather than clearly absurd."
+  },
+  {
+   "t": "2026-11-26T13:20:03+01:00",
+   "stage": "voice",
+   "msg": "take ran 84.8 s, re-voicing at speed 1.26"
+  },
+  {
+   "t": "2026-11-26T13:22:34+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane: 80.36 s rendered in 125 s"
+  },
+  {
+   "t": "2026-11-26T13:23:57+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-p1: 33.58 s rendered in 53 s"
+  },
+  {
+   "t": "2026-11-26T13:25:10+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-p2: 28.69 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-26T13:26:24+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-sandcastle-underwater-surgical-bone-and-membrane-p3: 29.16 s rendered in 50 s"
+  },
+  {
+   "t": "2026-11-26T13:26:38+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Worm That Glues Sand Underwater and Fixes Bones = full video + 3 parts (33.58 s, 28.69 s, 29.16 s)"
+  },
+  {
+   "t": "2026-11-26T13:26:38+01:00",
+   "stage": "publish",
+   "msg": "producer: The Worm That Glues Sand Underwater and Fixes Bones -> waiting 2026-12-06 19:00"
+  },
+  {
+   "t": "2026-11-26T13:26:38+01:00",
+   "stage": "research",
+   "msg": "topic: Pitcher plant -> SLIPS slippery surfaces and ketchup-bottle coatings"
+  },
+  {
+   "t": "2026-11-26T13:28:09+01:00",
    "stage": "research",
    "msg": "research notes written, 2 links"
   },
   {
-   "t": "2026-11-26T12:56:38+01:00",
+   "t": "2026-11-26T13:28:18+01:00",
    "stage": null,
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-write: I couldn't read the Nature paper (login redirect) or the Smithsonian article (403), …"
+   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-write: - **Payoff line to review:** In the payoff, \"The Harvard material was tested too\" i…"
   },
   {
-   "t": "2026-11-26T12:57:21+01:00",
+   "t": "2026-11-26T13:28:54+01:00",
    "stage": null,
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-review1: PASS 88 (42 s)"
+   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-review1: FIX 62 (36 s)"
   },
   {
-   "t": "2026-11-26T12:57:21+01:00",
+   "t": "2026-11-26T13:28:54+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 88: Hook is 13 words and factual, but it does not sound absurd; it reads like a summary."
+   "msg": "fact-check FIX 62: Hook says insects 'cannot climb out'; neither source says this. PopSci and VT only say insects slide into the plant's digestive jui…"
   },
   {
-   "t": "2026-11-26T12:59:55+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment: 81.92 s rendered in 130 s"
-  },
-  {
-   "t": "2026-11-26T13:01:21+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p1: 36.65 s rendered in 58 s"
-  },
-  {
-   "t": "2026-11-26T13:02:39+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p2: 31.13 s rendered in 51 s"
-  },
-  {
-   "t": "2026-11-26T13:03:42+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p3: 20.71 s rendered in 39 s"
-  },
-  {
-   "t": "2026-11-26T13:03:55+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Ants That Treat Infected Wounds With Their Own Antibiotics = full video + 3 parts (36.65 s, 31.13 s, 20.71 s)"
-  },
-  {
-   "t": "2026-11-26T13:03:57+01:00",
-   "stage": "publish",
-   "msg": "producer: The Ants That Treat Infected Wounds With Their Own Antibiotics -> waiting 2026-12-05 15:00"
-  },
-  {
-   "t": "2026-11-26T13:03:57+01:00",
-   "stage": "research",
-   "msg": "topic: Tardigrade -> Fridge-free drug and clotting-factor stabilizer"
-  },
-  {
-   "t": "2026-11-26T13:09:16+01:00",
+   "t": "2026-11-26T13:29:13+01:00",
    "stage": null,
-   "msg": "2026-11-26-tardigrade-fridge-free-drug-and-clotting-factor--write: REJECT No hard payoff number: the University of Wyoming release and the paper abstr…"
+   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-fix: OK (19 s)"
   },
   {
-   "t": "2026-11-26T13:09:16+01:00",
+   "t": "2026-11-26T13:29:51+01:00",
+   "stage": null,
+   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-review2: PASS 88 (37 s)"
+  },
+  {
+   "t": "2026-11-26T13:29:51+01:00",
    "stage": "review",
-   "msg": "topic rejected: No hard payoff number: the University of Wyoming release and the paper abstract give no figure (the 10x claim is unverified), and the …"
+   "msg": "fact-check PASS 88: Setup beat says insects slide into the plant twice (belly, then cavity); redundant."
   },
   {
-   "t": "2026-11-26T13:09:16+01:00",
-   "stage": "research",
-   "msg": "trying the next topic"
-  },
-  {
-   "t": "2026-11-26T13:09:16+01:00",
-   "stage": "research",
-   "msg": "topic: Wood wasp (Sirex noctilio) -> Steerable brain-surgery needle"
-  },
-  {
-   "t": "2026-11-26T13:10:37+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-26T13:10:44+01:00",
-   "stage": null,
-   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-write: OK Surgeons Copied a Wasp's Egg-Layer to Steer a Needle (88 s)"
-  },
-  {
-   "t": "2026-11-26T13:11:16+01:00",
-   "stage": null,
-   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-review1: PASS 85 (32 s)"
-  },
-  {
-   "t": "2026-11-26T13:11:16+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 85: Yousee beat: 'Sliding parts steer the tip' sits right after the wasp sentence and can read as a claim about the wasp's ovipositor;…"
-  },
-  {
-   "t": "2026-11-26T13:13:37+01:00",
+   "t": "2026-11-26T13:32:24+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-wood-steerable-brain-surgery-needle: 74.75 s rendered in 118 s"
+   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott: 82.94 s rendered in 129 s"
   },
   {
-   "t": "2026-11-26T13:14:49+01:00",
+   "t": "2026-11-26T13:33:48+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-p1: 28.91 s rendered in 46 s"
+   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p1: 34.92 s rendered in 55 s"
   },
   {
-   "t": "2026-11-26T13:15:56+01:00",
+   "t": "2026-11-26T13:35:04+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-p2: 26.01 s rendered in 41 s"
+   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p2: 29.85 s rendered in 48 s"
   },
   {
-   "t": "2026-11-26T13:17:06+01:00",
+   "t": "2026-11-26T13:36:13+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-p3: 26.41 s rendered in 46 s"
+   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p3: 24.75 s rendered in 43 s"
   },
   {
-   "t": "2026-11-26T13:17:17+01:00",
+   "t": "2026-11-26T13:36:22+01:00",
    "stage": "publish",
-   "msg": "YouTube's daily upload limit reached; uploads pause until Thu 15:17 (phone-verify the channel at youtube.com/verify to raise it)"
-  },
-  {
-   "t": "2026-11-26T13:17:17+01:00",
-   "stage": "publish",
-   "msg": "set ready: Surgeons Copied a Wasp's Egg-Layer to Steer a Needle = full video + 3 parts (28.91 s, 26.01 s, 26.41 s)"
+   "msg": "set ready: The Carnivorous Plant Behind Slippery Ketchup Coatings = full video + 3 parts (34.92 s, 29.85 s, 24.75 s)"
   }
  ]
 }

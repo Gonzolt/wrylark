@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:53:30+01:00",
+ "generated": "2026-11-26T12:08:24+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -8,13 +8,13 @@
   "until": null
  },
  "run": {
-  "id": "run-0059",
-  "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 3/3)",
+  "id": "run-0069",
+  "title": "The Earwig Wing That Folds Like Origami (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T11:52:25+01:00",
-  "ended": "2026-11-26T11:53:30+01:00",
+  "started": "2026-11-26T12:07:18+01:00",
+  "ended": "2026-11-26T12:08:24+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -157,17 +157,17 @@
    "poster": "p/2026-11-21-burdock-velcro.jpg"
   },
   {
-   "title": "Ants Were Farming 50 Million Years Before Humans",
-   "series": "first",
+   "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 1/3)",
+   "series": "copied",
    "status": "waiting",
    "publish_at": "2026-11-27T17:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 70.38,
+   "seconds": 30.27,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-25-fungus-growing-agriculture.jpg"
+   "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p1.jpg"
   },
   {
    "title": "The Office Block Cooled by Copying a Termite Mound",
@@ -183,17 +183,17 @@
    "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit.jpg"
   },
   {
-   "title": "The Earwig Wing That Folds Like Origami",
+   "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 2/3)",
    "series": "copied",
    "status": "waiting",
    "publish_at": "2026-11-28T09:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 67.78,
+   "seconds": 31.96,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356.jpg"
+   "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p2.jpg"
   },
   {
    "title": "The Moth That Jams Bat Sonar With Clicks",
@@ -209,17 +209,17 @@
    "poster": "p/2026-11-25-tiger-radar-sonar-jamming.jpg"
   },
   {
-   "title": "The Cockroach That Taught a Rescue Robot to Squash Flat",
+   "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 3/3)",
    "series": "copied",
    "status": "waiting",
    "publish_at": "2026-11-28T13:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 74.18,
+   "seconds": 24.17,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
+   "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p3.jpg"
   },
   {
    "title": "The Brain Implant That Goes Soft Once It Is Inside",
@@ -235,17 +235,17 @@
    "poster": "p/2026-11-25-sea-brain-implant-that-softens-after-insertion.jpg"
   },
   {
-   "title": "The Cheetah Leg Behind 90 Percent of Paralympic Runners",
-   "series": "copied",
+   "title": "Ants Were Farming 50 Million Years Before Humans",
+   "series": "first",
    "status": "waiting",
    "publish_at": "2026-11-28T17:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 78.14,
+   "seconds": 70.38,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-26-cheetah-flex-foot-cheetah-running-blade.jpg"
+   "poster": "p/2026-11-25-fungus-growing-agriculture.jpg"
   },
   {
    "title": "The Anchor Idea Copied From a Razor Clam",
@@ -261,49 +261,114 @@
    "poster": "p/2026-11-25-razor-roboclam-self-burying-anchor.jpg"
   },
   {
-   "title": "The 68 Milligram Robot That Jumps Off Water",
-   "series": "copied",
+   "title": "Ants Were Farming 50 Million Years Before Humans (Part 1/3)",
+   "series": "first",
    "status": "waiting",
    "publish_at": "2026-11-29T09:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 76.12,
+   "seconds": 28.48,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-26-water-jumping-water-surface-microrobot.jpg"
+   "poster": "p/2026-11-25-fungus-growing-agriculture-p1.jpg"
   },
   {
-   "title": "The Spider That Carries Its Own Scuba Tank Under Water",
+   "title": "Ants Were Farming 50 Million Years Before Humans (Part 2/3)",
    "series": "first",
    "status": "waiting",
    "publish_at": "2026-11-29T11:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 73.32,
+   "seconds": 25.26,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-26-diving-diving-bell-and-scuba-tank.jpg"
+   "poster": "p/2026-11-25-fungus-growing-agriculture-p2.jpg"
   },
   {
-   "title": "The Bird Feather Behind the Darkest Fabric Ever Made",
-   "series": "copied",
+   "title": "Ants Were Farming 50 Million Years Before Humans (Part 3/3)",
+   "series": "first",
    "status": "waiting",
    "publish_at": "2026-11-29T13:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 79.47,
+   "seconds": 23.21,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-26-riflebird-ultra-black-fabric.jpg"
+   "poster": "p/2026-11-25-fungus-growing-agriculture-p3.jpg"
+  },
+  {
+   "title": "The Earwig Wing That Folds Like Origami",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-29T15:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 67.78,
+   "url": null,
+   "note": "YouTube upload limit, next try 13:15",
+   "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356.jpg"
+  },
+  {
+   "title": "The Earwig Wing That Folds Like Origami (Part 1/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-29T17:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 23.32,
+   "url": null,
+   "note": "YouTube upload limit, next try 13:15",
+   "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p1.jpg"
+  },
+  {
+   "title": "The Earwig Wing That Folds Like Origami (Part 2/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-29T19:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 27.63,
+   "url": null,
+   "note": "YouTube upload limit, next try 13:15",
+   "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p2.jpg"
+  },
+  {
+   "title": "The Earwig Wing That Folds Like Origami (Part 3/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-30T09:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 23.42,
+   "url": null,
+   "note": "YouTube upload limit, next try 13:15",
+   "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p3.jpg"
+  },
+  {
+   "title": "The Cockroach That Taught a Rescue Robot to Squash Flat",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": null,
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 74.18,
+   "url": null,
+   "note": "YouTube upload limit, next try 13:15",
+   "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
   },
   {
    "title": "The Space Telescope Built From a Lobster's Eye",
    "series": "copied",
    "status": "waiting",
-   "publish_at": "2026-11-29T15:00+01:00",
+   "publish_at": null,
    "published": null,
    "views": null,
    "avg_pct": null,
@@ -313,43 +378,17 @@
    "poster": "p/2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro.jpg"
   },
   {
-   "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 1/3)",
+   "title": "The Cheetah Leg Behind 90 Percent of Paralympic Runners",
    "series": "copied",
    "status": "waiting",
-   "publish_at": "2026-11-29T17:00+01:00",
+   "publish_at": null,
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 30.27,
+   "seconds": 78.14,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p1.jpg"
-  },
-  {
-   "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 2/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-11-29T19:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 31.96,
-   "url": null,
-   "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p2.jpg"
-  },
-  {
-   "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 3/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-11-30T09:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 24.17,
-   "url": null,
-   "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p3.jpg"
+   "poster": "p/2026-11-26-cheetah-flex-foot-cheetah-running-blade.jpg"
   }
  ],
  "published": [
@@ -372,7 +411,7 @@
    "status": "published",
    "publish_at": "2026-11-25T19:56:05+01:00",
    "published": "2026-11-25T19:56:05+01:00",
-   "views": 519,
+   "views": 528,
    "avg_pct": null,
    "seconds": 71.38,
    "url": "https://youtube.com/shorts/Z1EGoUUB5Aw",
@@ -381,15 +420,15 @@
   }
  ],
  "overview": {
-  "built": 24,
+  "built": 30,
   "published": 2,
   "rejected": 9,
-  "waiting_you": 21,
-  "total_views": 519,
-  "median_views": 259.5,
+  "waiting_you": 27,
+  "total_views": 528,
+  "median_views": 264.0,
   "by_series": {
    "copied": {
-    "median": 519,
+    "median": 528,
     "n": 1
    },
    "first": {
@@ -416,91 +455,6 @@
  ],
  "topics_left": 78,
  "log": [
-  {
-   "t": "2026-11-26T11:21:18+01:00",
-   "stage": null,
-   "msg": "2026-11-26-kingfisher-shinkansen-long-review1: PASS 85 (56 s)"
-  },
-  {
-   "t": "2026-11-26T11:21:18+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 85: Part 3 recap says the birdwatcher 'silenced' the roof with an owl; sources only give a 30% noise cut (Gigazine) and meeting the no…"
-  },
-  {
-   "t": "2026-11-26T11:27:20+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long: 196.69 s rendered in 313 s"
-  },
-  {
-   "t": "2026-11-26T11:29:31+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p1: 59.48 s rendered in 94 s"
-  },
-  {
-   "t": "2026-11-26T11:30:26+01:00",
-   "stage": null,
-   "msg": "previous run run-0050 was cut off at 2026-11-26 11:17 (PC shut down or window closed); its topic goes back in the queue"
-  },
-  {
-   "t": "2026-11-26T11:30:26+01:00",
-   "stage": null,
-   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
-  },
-  {
-   "t": "2026-11-26T11:30:28+01:00",
-   "stage": "voice",
-   "msg": "producer: finishing cut-off Short A birdwatcher fixed Japan's loudest bullet train with a beak"
-  },
-  {
-   "t": "2026-11-26T11:30:28+01:00",
-   "stage": "voice",
-   "msg": "remake of 2026-11-26-kingfisher-shinkansen-long"
-  },
-  {
-   "t": "2026-11-26T11:31:10+01:00",
-   "stage": null,
-   "msg": "previous run run-0051 was cut off at 2026-11-26 11:30 (PC shut down or window closed); its topic goes back in the queue"
-  },
-  {
-   "t": "2026-11-26T11:31:10+01:00",
-   "stage": null,
-   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
-  },
-  {
-   "t": "2026-11-26T11:31:11+01:00",
-   "stage": "publish",
-   "msg": "views refreshed for 10 videos"
-  },
-  {
-   "t": "2026-11-26T11:31:11+01:00",
-   "stage": "research",
-   "msg": "long-form from A train company hired a birdwatcher to fix its fastest train"
-  },
-  {
-   "t": "2026-11-26T11:37:10+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long: 196.69 s rendered in 310 s"
-  },
-  {
-   "t": "2026-11-26T11:39:18+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p2: 57.71 s rendered in 90 s"
-  },
-  {
-   "t": "2026-11-26T11:41:09+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p3: 52.1 s rendered in 81 s"
-  },
-  {
-   "t": "2026-11-26T11:43:15+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p4: 56.85 s rendered in 94 s"
-  },
-  {
-   "t": "2026-11-26T11:43:26+01:00",
-   "stage": "publish",
-   "msg": "parts wait for the full video to reach YouTube (they link to it); the producer uploads them after"
-  },
   {
    "t": "2026-11-26T11:43:26+01:00",
    "stage": "publish",
@@ -540,6 +494,91 @@
    "t": "2026-11-26T11:53:30+01:00",
    "stage": "publish",
    "msg": "set ready: The Squid Teeth Plastic That Heals a Cut in One Second = full video + 3 parts (30.27 s, 31.96 s, 24.17 s)"
+  },
+  {
+   "t": "2026-11-26T11:55:05+01:00",
+   "stage": null,
+   "msg": "previous run run-0060 was cut off at 2026-11-26 11:47 (PC shut down or window closed); its topic goes back in the queue"
+  },
+  {
+   "t": "2026-11-26T11:55:05+01:00",
+   "stage": null,
+   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
+  },
+  {
+   "t": "2026-11-26T11:55:05+01:00",
+   "stage": "voice",
+   "msg": "producer: finishing cut-off Short Ants Were Farming 50 Million Years Before Humans"
+  },
+  {
+   "t": "2026-11-26T11:55:05+01:00",
+   "stage": "voice",
+   "msg": "remake of 2026-11-25-fungus-growing-agriculture"
+  },
+  {
+   "t": "2026-11-26T11:57:21+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-fungus-growing-agriculture: 70.38 s rendered in 112 s"
+  },
+  {
+   "t": "2026-11-26T11:58:35+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-fungus-growing-agriculture-p1: 28.48 s rendered in 47 s"
+  },
+  {
+   "t": "2026-11-26T11:59:41+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-fungus-growing-agriculture-p2: 25.26 s rendered in 41 s"
+  },
+  {
+   "t": "2026-11-26T12:00:47+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-fungus-growing-agriculture-p3: 23.21 s rendered in 42 s"
+  },
+  {
+   "t": "2026-11-26T12:00:57+01:00",
+   "stage": "publish",
+   "msg": "set ready: Ants Were Farming 50 Million Years Before Humans = full video + 3 parts (28.48 s, 25.26 s, 23.21 s)"
+  },
+  {
+   "t": "2026-11-26T12:00:57+01:00",
+   "stage": "publish",
+   "msg": "views refreshed for 10 videos"
+  },
+  {
+   "t": "2026-11-26T12:02:54+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-fungus-growing-agriculture: 70.38 s rendered in 113 s"
+  },
+  {
+   "t": "2026-11-26T12:03:05+01:00",
+   "stage": "publish",
+   "msg": "set ready: Ants Were Farming 50 Million Years Before Humans = full video + 3 parts (28.48 s, 25.26 s, 23.21 s)"
+  },
+  {
+   "t": "2026-11-26T12:04:57+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-earwig-origami-deployable-fans-and-wings-2356: 67.78 s rendered in 108 s"
+  },
+  {
+   "t": "2026-11-26T12:06:01+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p1: 23.32 s rendered in 39 s"
+  },
+  {
+   "t": "2026-11-26T12:07:09+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p2: 27.63 s rendered in 44 s"
+  },
+  {
+   "t": "2026-11-26T12:08:14+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p3: 23.42 s rendered in 41 s"
+  },
+  {
+   "t": "2026-11-26T12:08:24+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Earwig Wing That Folds Like Origami = full video + 3 parts (23.32 s, 27.63 s, 23.42 s)"
   }
  ]
 }

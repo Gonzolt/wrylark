@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T15:30:21+01:00",
+ "generated": "2026-11-26T15:46:45+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "110 of 180 slots filled",
+  "note": "118 of 180 slots filled",
   "until": null
  },
  "run": {
-  "id": "run-0171",
-  "title": "The Gecko Pad That Holds 700 Pounds on Glass (Part 3/3)",
+  "id": "run-0179",
+  "title": "The Paint That Cleans Itself, Copied From a Lotus Leaf (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T15:29:15+01:00",
-  "ended": "2026-11-26T15:30:21+01:00",
+  "started": "2026-11-26T15:45:28+01:00",
+  "ended": "2026-11-26T15:46:45+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -433,10 +433,10 @@
   }
  ],
  "overview": {
-  "built": 120,
+  "built": 128,
   "published": 2,
   "rejected": 14,
-  "waiting_you": 117,
+  "waiting_you": 125,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -456,7 +456,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 57
+  "topics": 55
  },
  "slots": [
   "09:00",
@@ -466,118 +466,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 57,
+ "topics_left": 55,
  "log": [
-  {
-   "t": "2026-11-26T15:14:13+01:00",
-   "stage": null,
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces-review3: PASS 91 (34 s)"
-  },
-  {
-   "t": "2026-11-26T15:14:13+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 91: Hook (12 words) is accurate but only mildly absurd."
-  },
-  {
-   "t": "2026-11-26T15:16:25+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces: 68.91 s rendered in 110 s"
-  },
-  {
-   "t": "2026-11-26T15:17:37+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces-p1: 27.67 s rendered in 44 s"
-  },
-  {
-   "t": "2026-11-26T15:18:46+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces-p2: 27.63 s rendered in 45 s"
-  },
-  {
-   "t": "2026-11-26T15:19:45+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cicada-bactericidal-nanopillar-surfaces-p3: 20.16 s rendered in 36 s"
-  },
-  {
-   "t": "2026-11-26T15:19:57+01:00",
-   "stage": "publish",
-   "msg": "YouTube's daily upload limit reached; uploads pause until Thu 17:19 (phone-verify the channel at youtube.com/verify to raise it)"
-  },
-  {
-   "t": "2026-11-26T15:19:57+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Cicada Wing That Shreds Bacteria Without Chemicals = full video + 3 parts (27.67 s, 27.63 s, 20.16 s)"
-  },
-  {
-   "t": "2026-11-26T15:19:59+01:00",
-   "stage": "publish",
-   "msg": "producer: The Cicada Wing That Shreds Bacteria Without Chemicals -> waiting 2026-12-14 17:00"
-  },
-  {
-   "t": "2026-11-26T15:19:59+01:00",
-   "stage": "research",
-   "msg": "topic: shark skin -> the Speedo Fastskin swimsuit"
-  },
-  {
-   "t": "2026-11-26T15:21:11+01:00",
-   "stage": null,
-   "msg": "2026-11-26-shark-the-speedo-fastskin-swimsuit-write: REJECT The Fastskin fabric doesn't work like shark skin (Discover and Popular Science), and the 8…"
-  },
-  {
-   "t": "2026-11-26T15:21:11+01:00",
-   "stage": "review",
-   "msg": "topic rejected: Discover and Popular Science report that the Fastskin fabric does not actually work like shark skin (Lauder found it added drag), and …"
-  },
-  {
-   "t": "2026-11-26T15:21:11+01:00",
-   "stage": "research",
-   "msg": "trying the next topic"
-  },
-  {
-   "t": "2026-11-26T15:21:11+01:00",
-   "stage": "research",
-   "msg": "topic: gecko feet -> Geckskin dry adhesive"
-  },
-  {
-   "t": "2026-11-26T15:22:26+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-26T15:22:33+01:00",
-   "stage": null,
-   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-write: OK The Gecko Pad That Holds 700 Pounds on Glass (82 s)"
-  },
-  {
-   "t": "2026-11-26T15:22:33+01:00",
-   "stage": "write",
-   "msg": "rules: 1 problem(s): script is 216 words (140-210)"
-  },
-  {
-   "t": "2026-11-26T15:22:42+01:00",
-   "stage": null,
-   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-rules1: OK (10 s)"
-  },
-  {
-   "t": "2026-11-26T15:23:17+01:00",
-   "stage": null,
-   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-review1: PASS 91 (34 s)"
-  },
-  {
-   "t": "2026-11-26T15:23:17+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 91: Minor: 'silicone pad' is not in either source; they say PDMS / rubber (PDMS is a silicone, so accurate but not verbatim)."
-  },
-  {
-   "t": "2026-11-26T15:26:23+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-gecko-geckskin-dry-adhesive: 79.51 s rendered in 162 s"
-  },
-  {
-   "t": "2026-11-26T15:27:56+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-gecko-geckskin-dry-adhesive-p1: 36.35 s rendered in 64 s"
-  },
   {
    "t": "2026-11-26T15:29:05+01:00",
    "stage": "animate",
@@ -592,6 +482,116 @@
    "t": "2026-11-26T15:30:21+01:00",
    "stage": "publish",
    "msg": "set ready: The Gecko Pad That Holds 700 Pounds on Glass = full video + 3 parts (36.35 s, 26.03 s, 23.72 s)"
+  },
+  {
+   "t": "2026-11-26T15:30:24+01:00",
+   "stage": "publish",
+   "msg": "producer: The Gecko Pad That Holds 700 Pounds on Glass -> waiting 2026-12-15 13:00"
+  },
+  {
+   "t": "2026-11-26T15:30:24+01:00",
+   "stage": "research",
+   "msg": "topic: Nautilus -> Submarine ballast tanks"
+  },
+  {
+   "t": "2026-11-26T15:31:57+01:00",
+   "stage": "research",
+   "msg": "research notes written, 3 links"
+  },
+  {
+   "t": "2026-11-26T15:32:09+01:00",
+   "stage": null,
+   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-write: I set the `animal.body` to `mammal` because none of the allowed values is a shelled animal. That is…"
+  },
+  {
+   "t": "2026-11-26T15:32:39+01:00",
+   "stage": null,
+   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-review1: PASS 86 (30 s)"
+  },
+  {
+   "t": "2026-11-26T15:32:39+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 86: Hook is a true but mild claim; it does not sound very absurd. 'Ballast tanks' for the nautilus is NOAA's analogy, and the 500 mill…"
+  },
+  {
+   "t": "2026-11-26T15:35:09+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-nautilus-submarine-ballast-tanks: 80.13 s rendered in 126 s"
+  },
+  {
+   "t": "2026-11-26T15:36:25+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-p1: 29.91 s rendered in 48 s"
+  },
+  {
+   "t": "2026-11-26T15:37:42+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-p2: 30.51 s rendered in 50 s"
+  },
+  {
+   "t": "2026-11-26T15:38:51+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-nautilus-submarine-ballast-tanks-p3: 26.28 s rendered in 45 s"
+  },
+  {
+   "t": "2026-11-26T15:39:00+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Shell Animal That Ran Ballast Tanks First = full video + 3 parts (29.91 s, 30.51 s, 26.28 s)"
+  },
+  {
+   "t": "2026-11-26T15:39:01+01:00",
+   "stage": "publish",
+   "msg": "producer: The Shell Animal That Ran Ballast Tanks First -> waiting 2026-12-16 09:00"
+  },
+  {
+   "t": "2026-11-26T15:39:01+01:00",
+   "stage": "research",
+   "msg": "topic: lotus leaf -> Lotusan self-cleaning facade paint"
+  },
+  {
+   "t": "2026-11-26T15:39:52+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-26T15:40:01+01:00",
+   "stage": null,
+   "msg": "2026-11-26-lotus-lotusan-self-cleaning-facade-paint-write: OK The Paint That Cleans Itself, Copied From a Lotus Leaf (60 s)"
+  },
+  {
+   "t": "2026-11-26T15:40:36+01:00",
+   "stage": null,
+   "msg": "2026-11-26-lotus-lotusan-self-cleaning-facade-paint-review1: PASS 85 (35 s)"
+  },
+  {
+   "t": "2026-11-26T15:40:36+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 85: Hook says 'muddy pond' but source A says 'murky bogs'; 'pond' is not in any source."
+  },
+  {
+   "t": "2026-11-26T15:43:00+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-lotus-lotusan-self-cleaning-facade-paint: 75.33 s rendered in 120 s"
+  },
+  {
+   "t": "2026-11-26T15:44:13+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-lotus-lotusan-self-cleaning-facade-paint-p1: 28.25 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-26T15:45:18+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-lotus-lotusan-self-cleaning-facade-paint-p2: 24.7 s rendered in 40 s"
+  },
+  {
+   "t": "2026-11-26T15:46:35+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-lotus-lotusan-self-cleaning-facade-paint-p3: 28.97 s rendered in 51 s"
+  },
+  {
+   "t": "2026-11-26T15:46:45+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Paint That Cleans Itself, Copied From a Lotus Leaf = full video + 3 parts (28.25 s, 24.7 s, 28.97 s)"
   }
  ]
 }

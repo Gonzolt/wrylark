@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T12:44:10+01:00",
+ "generated": "2026-11-26T13:03:55+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "converting old Shorts into full video + parts",
+  "note": "52 of 180 slots filled",
   "until": null
  },
  "run": {
-  "id": "run-0093",
-  "title": "The Bird Feather Behind the Darkest Fabric Ever Made (Part 3/3)",
-  "series": "copied",
+  "id": "run-0107",
+  "title": "The Ants That Treat Infected Wounds With Their Own Antibiotics (Part 3/3)",
+  "series": "first",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T12:42:52+01:00",
-  "ended": "2026-11-26T12:44:10+01:00",
+  "started": "2026-11-26T13:02:49+01:00",
+  "ended": "2026-11-26T13:03:55+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -420,10 +420,10 @@
   }
  ],
  "overview": {
-  "built": 48,
+  "built": 60,
   "published": 2,
-  "rejected": 9,
-  "waiting_you": 45,
+  "rejected": 10,
+  "waiting_you": 57,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -443,7 +443,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 78
+  "topics": 76
  },
  "slots": [
   "09:00",
@@ -453,123 +453,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 78,
+ "topics_left": 76,
  "log": [
-  {
-   "t": "2026-11-26T12:16:14+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro: 76.67 s rendered in 122 s"
-  },
-  {
-   "t": "2026-11-26T12:17:13+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro-p1: 21.27 s rendered in 34 s"
-  },
-  {
-   "t": "2026-11-26T12:18:30+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro-p2: 32.28 s rendered in 52 s"
-  },
-  {
-   "t": "2026-11-26T12:19:44+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro-p3: 29.72 s rendered in 50 s"
-  },
-  {
-   "t": "2026-11-26T12:19:54+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Space Telescope Built From a Lobster's Eye = full video + 3 parts (21.27 s, 32.28 s, 29.72 s)"
-  },
-  {
-   "t": "2026-11-26T12:22:20+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cheetah-flex-foot-cheetah-running-blade: 78.14 s rendered in 140 s"
-  },
-  {
-   "t": "2026-11-26T12:23:32+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cheetah-flex-foot-cheetah-running-blade-p1: 28.69 s rendered in 46 s"
-  },
-  {
-   "t": "2026-11-26T12:24:45+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cheetah-flex-foot-cheetah-running-blade-p2: 28.67 s rendered in 48 s"
-  },
-  {
-   "t": "2026-11-26T12:25:58+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cheetah-flex-foot-cheetah-running-blade-p3: 27.33 s rendered in 48 s"
-  },
-  {
-   "t": "2026-11-26T12:26:08+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Cheetah Leg Behind 90 Percent of Paralympic Runners = full video + 3 parts (28.69 s, 28.67 s, 27.33 s)"
-  },
-  {
-   "t": "2026-11-26T12:28:20+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-water-jumping-water-surface-microrobot: 76.12 s rendered in 128 s"
-  },
-  {
-   "t": "2026-11-26T12:29:29+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-water-jumping-water-surface-microrobot-p1: 26.77 s rendered in 43 s"
-  },
-  {
-   "t": "2026-11-26T12:30:45+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-water-jumping-water-surface-microrobot-p2: 31.32 s rendered in 50 s"
-  },
-  {
-   "t": "2026-11-26T12:31:54+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-water-jumping-water-surface-microrobot-p3: 24.58 s rendered in 44 s"
-  },
-  {
-   "t": "2026-11-26T12:32:03+01:00",
-   "stage": "publish",
-   "msg": "set ready: The 68 Milligram Robot That Jumps Off Water = full video + 3 parts (26.77 s, 31.32 s, 24.58 s)"
-  },
-  {
-   "t": "2026-11-26T12:34:12+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-diving-diving-bell-and-scuba-tank: 73.32 s rendered in 123 s"
-  },
-  {
-   "t": "2026-11-26T12:35:28+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-diving-diving-bell-and-scuba-tank-p1: 30.23 s rendered in 48 s"
-  },
-  {
-   "t": "2026-11-26T12:36:30+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-diving-diving-bell-and-scuba-tank-p2: 23.51 s rendered in 38 s"
-  },
-  {
-   "t": "2026-11-26T12:37:44+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-diving-diving-bell-and-scuba-tank-p3: 26.18 s rendered in 50 s"
-  },
-  {
-   "t": "2026-11-26T12:37:54+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Spider That Carries Its Own Scuba Tank Under Water = full video + 3 parts (30.23 s, 23.51 s, 26.18 s)"
-  },
-  {
-   "t": "2026-11-26T12:40:14+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-riflebird-ultra-black-fabric: 79.47 s rendered in 136 s"
-  },
-  {
-   "t": "2026-11-26T12:41:29+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-riflebird-ultra-black-fabric-p1: 28.18 s rendered in 47 s"
-  },
-  {
-   "t": "2026-11-26T12:42:43+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-riflebird-ultra-black-fabric-p2: 31.02 s rendered in 49 s"
-  },
   {
    "t": "2026-11-26T12:44:00+01:00",
    "stage": "animate",
@@ -579,6 +464,121 @@
    "t": "2026-11-26T12:44:10+01:00",
    "stage": "publish",
    "msg": "set ready: The Bird Feather Behind the Darkest Fabric Ever Made = full video + 3 parts (28.18 s, 31.02 s, 26.82 s)"
+  },
+  {
+   "t": "2026-11-26T12:45:03+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p1: 22.02 s rendered in 37 s"
+  },
+  {
+   "t": "2026-11-26T12:46:14+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p2: 27.82 s rendered in 45 s"
+  },
+  {
+   "t": "2026-11-26T12:47:26+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p3: 28.78 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-26T12:48:33+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p4: 25.92 s rendered in 42 s"
+  },
+  {
+   "t": "2026-11-26T12:49:39+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p5: 25.28 s rendered in 41 s"
+  },
+  {
+   "t": "2026-11-26T12:50:51+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p6: 29.99 s rendered in 48 s"
+  },
+  {
+   "t": "2026-11-26T12:51:53+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p7: 22.95 s rendered in 37 s"
+  },
+  {
+   "t": "2026-11-26T12:53:24+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-kingfisher-shinkansen-long-p8: 36.97 s rendered in 64 s"
+  },
+  {
+   "t": "2026-11-26T12:53:34+01:00",
+   "stage": "publish",
+   "msg": "set ready: A birdwatcher fixed Japan's loudest bullet train with a beak = full video + 8 parts (22.02 s, 27.82 s, 28.78 s, 25.92 s, 25.28 s, 29.99 s, …"
+  },
+  {
+   "t": "2026-11-26T12:53:34+01:00",
+   "stage": "research",
+   "msg": "topic: Pit viper -> Thermal imaging cameras"
+  },
+  {
+   "t": "2026-11-26T12:54:48+01:00",
+   "stage": null,
+   "msg": "2026-11-26-pit-thermal-imaging-cameras-write: REJECT The 5-10x boa/python figure isn't in any source I could open (Nature and Live Science were blocke…"
+  },
+  {
+   "t": "2026-11-26T12:54:48+01:00",
+   "stage": "review",
+   "msg": "topic rejected: The 5-10x boa/python sensitivity figure appears in no source I could open (Nature and Live Science were blocked, EurekAlert, SlashGear…"
+  },
+  {
+   "t": "2026-11-26T12:54:49+01:00",
+   "stage": "research",
+   "msg": "trying the next topic"
+  },
+  {
+   "t": "2026-11-26T12:54:49+01:00",
+   "stage": "research",
+   "msg": "topic: Matabele ants (Megaponera analis) -> Wound care and antimicrobial treatment"
+  },
+  {
+   "t": "2026-11-26T12:56:31+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-26T12:56:38+01:00",
+   "stage": null,
+   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-write: I couldn't read the Nature paper (login redirect) or the Smithsonian article (403), …"
+  },
+  {
+   "t": "2026-11-26T12:57:21+01:00",
+   "stage": null,
+   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-review1: PASS 88 (42 s)"
+  },
+  {
+   "t": "2026-11-26T12:57:21+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: Hook is 13 words and factual, but it does not sound absurd; it reads like a summary."
+  },
+  {
+   "t": "2026-11-26T12:59:55+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment: 81.92 s rendered in 130 s"
+  },
+  {
+   "t": "2026-11-26T13:01:21+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p1: 36.65 s rendered in 58 s"
+  },
+  {
+   "t": "2026-11-26T13:02:39+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p2: 31.13 s rendered in 51 s"
+  },
+  {
+   "t": "2026-11-26T13:03:42+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p3: 20.71 s rendered in 39 s"
+  },
+  {
+   "t": "2026-11-26T13:03:55+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Ants That Treat Infected Wounds With Their Own Antibiotics = full video + 3 parts (36.65 s, 31.13 s, 20.71 s)"
   }
  ]
 }

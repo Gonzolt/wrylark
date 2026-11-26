@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-27T00:15:56+01:00",
+ "generated": "2026-11-27T00:27:46+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "156 of 180 slots filled",
+  "note": "160 of 180 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0223",
-  "title": "The Bird Wingtip That Became the Bent Tip on Airliners (Part 3/3)",
-  "series": "copied",
+  "id": "run-0229",
+  "title": "The Hummingbird Wing That Out-Hovers Helicopter Blades (Part 3/3)",
+  "series": "first",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T00:14:29+01:00",
-  "ended": "2026-11-27T00:15:56+01:00",
+  "started": "2026-11-27T00:26:19+01:00",
+  "ended": "2026-11-27T00:27:46+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -459,10 +459,10 @@
   }
  ],
  "overview": {
-  "built": 168,
+  "built": 172,
   "published": 5,
-  "rejected": 16,
-  "waiting_you": 162,
+  "rejected": 18,
+  "waiting_you": 166,
   "total_views": 547,
   "median_views": 4.5,
   "by_series": {
@@ -482,7 +482,7 @@
   "hit_rate": 25,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 43
+  "topics": 40
  },
  "slots": [
   "09:00",
@@ -492,118 +492,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 43,
+ "topics_left": 40,
  "log": [
-  {
-   "t": "2026-11-26T23:54:05+01:00",
-   "stage": null,
-   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-review3: PASS 88 (36 s)"
-  },
-  {
-   "t": "2026-11-26T23:54:05+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 88: Mocker beat says formation flight 'was not certified'. The sources only say the next step is getting authorities' support so it 'c…"
-  },
-  {
-   "t": "2026-11-26T23:57:25+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights: 80.11 s rendered in 173 s"
-  },
-  {
-   "t": "2026-11-26T23:59:12+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-p1: 26.11 s rendered in 63 s"
-  },
-  {
-   "t": "2026-11-27T00:00:47+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-p2: 32.55 s rendered in 69 s"
-  },
-  {
-   "t": "2026-11-27T00:02:20+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-geese-airbus-fello-fly-formation-flights-p3: 28.01 s rendered in 64 s"
-  },
-  {
-   "t": "2026-11-27T00:02:31+01:00",
-   "stage": "publish",
-   "msg": "set ready: Airbus Flew Two Jets Nose to Tail Like Geese to Save Fuel = full video + 3 parts (26.11 s, 32.55 s, 28.01 s)"
-  },
-  {
-   "t": "2026-11-27T00:02:34+01:00",
-   "stage": "publish",
-   "msg": "producer: Airbus Flew Two Jets Nose to Tail Like Geese to Save Fuel -> waiting 2026-12-22 15:00"
-  },
-  {
-   "t": "2026-11-27T00:02:34+01:00",
-   "stage": "research",
-   "msg": "topic: spider webs -> Ornilux bird-safe glass"
-  },
-  {
-   "t": "2026-11-27T00:04:07+01:00",
-   "stage": null,
-   "msg": "2026-11-27-spider-ornilux-bird-safe-glass-write: REJECT No single exact effectiveness number appears in two sources, and independent testing found the…"
-  },
-  {
-   "t": "2026-11-27T00:04:07+01:00",
-   "stage": "review",
-   "msg": "topic rejected: Spider-web link holds up, but no single exact effectiveness number appears in two sources (only a manufacturer-relayed 61-77 tunnel-sc…"
-  },
-  {
-   "t": "2026-11-27T00:04:07+01:00",
-   "stage": "research",
-   "msg": "trying the next topic"
-  },
-  {
-   "t": "2026-11-27T00:04:07+01:00",
-   "stage": "research",
-   "msg": "topic: eagle wingtips -> aircraft winglets"
-  },
-  {
-   "t": "2026-11-27T00:06:08+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-27T00:06:20+01:00",
-   "stage": null,
-   "msg": "2026-11-27-eagle-aircraft-winglets-write: OK The Bird Wingtip That Became the Bent Tip on Airliners (133 s)"
-  },
-  {
-   "t": "2026-11-27T00:06:20+01:00",
-   "stage": "write",
-   "msg": "rules: 1 problem(s): script is 216 words (140-210)"
-  },
-  {
-   "t": "2026-11-27T00:06:32+01:00",
-   "stage": null,
-   "msg": "2026-11-27-eagle-aircraft-winglets-rules1: OK (12 s)"
-  },
-  {
-   "t": "2026-11-27T00:07:04+01:00",
-   "stage": null,
-   "msg": "2026-11-27-eagle-aircraft-winglets-review1: PASS 86 (32 s)"
-  },
-  {
-   "t": "2026-11-27T00:07:04+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 86: Yousee beat says birds spread feathers 'like fingers'; Aeroreport says 'like a fan'."
-  },
-  {
-   "t": "2026-11-27T00:07:28+01:00",
-   "stage": "voice",
-   "msg": "take ran 89.4 s, re-voicing at speed 1.32"
-  },
-  {
-   "t": "2026-11-27T00:10:48+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-eagle-aircraft-winglets: 81.22 s rendered in 173 s"
-  },
-  {
-   "t": "2026-11-27T00:12:30+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-eagle-aircraft-winglets-p1: 32.81 s rendered in 70 s"
-  },
   {
    "t": "2026-11-27T00:14:17+01:00",
    "stage": "animate",
@@ -618,6 +508,116 @@
    "t": "2026-11-27T00:15:56+01:00",
    "stage": "publish",
    "msg": "set ready: The Bird Wingtip That Became the Bent Tip on Airliners = full video + 3 parts (32.81 s, 36.78 s, 26.43 s)"
+  },
+  {
+   "t": "2026-11-27T00:15:59+01:00",
+   "stage": "publish",
+   "msg": "producer: The Bird Wingtip That Became the Bent Tip on Airliners -> waiting 2026-12-23 11:00"
+  },
+  {
+   "t": "2026-11-27T00:15:59+01:00",
+   "stage": "research",
+   "msg": "topic: octopus ink -> smoke screens"
+  },
+  {
+   "t": "2026-11-27T00:17:24+01:00",
+   "stage": null,
+   "msg": "2026-11-27-octopus-smoke-screens-write: REJECT No sourced number links octopus ink to naval smoke screens, and no source shows anyone copying the anim…"
+  },
+  {
+   "t": "2026-11-27T00:17:24+01:00",
+   "stage": "review",
+   "msg": "topic rejected: No sourced number links octopus ink to naval smoke screens, and no source shows anyone copying the animal; the opened pages only give …"
+  },
+  {
+   "t": "2026-11-27T00:17:24+01:00",
+   "stage": "research",
+   "msg": "trying the next topic"
+  },
+  {
+   "t": "2026-11-27T00:17:24+01:00",
+   "stage": "research",
+   "msg": "topic: termites -> air conditioning"
+  },
+  {
+   "t": "2026-11-27T00:17:32+01:00",
+   "stage": null,
+   "msg": "2026-11-27-termites-air-conditioning-write: REJECT Termite mound air conditioning is the Eastgate Centre story in Harare, which is already made as ter…"
+  },
+  {
+   "t": "2026-11-27T00:17:32+01:00",
+   "stage": "review",
+   "msg": "topic rejected: Termite mound air conditioning is the Eastgate Centre story in Harare, which is already made as termite-the-eastgate-centre-in-harare-…"
+  },
+  {
+   "t": "2026-11-27T00:17:32+01:00",
+   "stage": "review",
+   "msg": "producer: topics rejected (Termite mound air conditioning is the Eastgate Centre story in Harare, which is already made as termite-the-eastgate-cen); …"
+  },
+  {
+   "t": "2026-11-27T00:17:32+01:00",
+   "stage": "research",
+   "msg": "topic: hummingbird -> the helicopter"
+  },
+  {
+   "t": "2026-11-27T00:18:33+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-27T00:18:39+01:00",
+   "stage": null,
+   "msg": "2026-11-27-hummingbird-the-helicopter-write: OK The Hummingbird Wing That Out-Hovers Helicopter Blades (67 s)"
+  },
+  {
+   "t": "2026-11-27T00:19:11+01:00",
+   "stage": null,
+   "msg": "2026-11-27-hummingbird-the-helicopter-review1: FIX 80 (32 s)"
+  },
+  {
+   "t": "2026-11-27T00:19:11+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 80: Payoff says 'The average wing matched the best microhelicopter blade'. Sources say microhelicopter blades are about as efficient as…"
+  },
+  {
+   "t": "2026-11-27T00:19:24+01:00",
+   "stage": null,
+   "msg": "2026-11-27-hummingbird-the-helicopter-fix: OK (12 s)"
+  },
+  {
+   "t": "2026-11-27T00:19:59+01:00",
+   "stage": null,
+   "msg": "2026-11-27-hummingbird-the-helicopter-review2: PASS 88 (35 s)"
+  },
+  {
+   "t": "2026-11-27T00:19:59+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: Hook is accurate but only mildly absurd; 'spy drone' is a light paraphrase of 'surveillance micro-drone'."
+  },
+  {
+   "t": "2026-11-27T00:23:09+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-hummingbird-the-helicopter: 76.57 s rendered in 163 s"
+  },
+  {
+   "t": "2026-11-27T00:24:55+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-hummingbird-the-helicopter-p1: 34.41 s rendered in 75 s"
+  },
+  {
+   "t": "2026-11-27T00:26:08+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-hummingbird-the-helicopter-p2: 22.25 s rendered in 48 s"
+  },
+  {
+   "t": "2026-11-27T00:27:35+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-hummingbird-the-helicopter-p3: 26.47 s rendered in 59 s"
+  },
+  {
+   "t": "2026-11-27T00:27:46+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Hummingbird Wing That Out-Hovers Helicopter Blades = full video + 3 parts (34.41 s, 22.25 s, 26.47 s)"
   }
  ]
 }

@@ -1,0 +1,493 @@
+{
+ "generated": "2026-11-26T11:10:16+01:00",
+ "channel": "Wrylark",
+ "handle": "wrylark",
+ "producer": {
+  "state": "idle",
+  "note": "18 Shorts queued (3 days); next check soon",
+  "until": null
+ },
+ "run": {
+  "id": "run-0045",
+  "title": "The Bird Feather Behind the Darkest Fabric Ever Made",
+  "series": "copied",
+  "state": "done",
+  "stage": "publish",
+  "started": "2026-11-26T00:33:25+01:00",
+  "ended": "2026-11-26T00:40:00+01:00",
+  "stages": {
+   "research": {
+    "state": "done"
+   },
+   "write": {
+    "state": "done"
+   },
+   "review": {
+    "state": "done"
+   },
+   "voice": {
+    "state": "done"
+   },
+   "animate": {
+    "state": "done"
+   },
+   "checks": {
+    "state": "done"
+   },
+   "gate": {
+    "state": "hold"
+   },
+   "publish": {
+    "state": "wait"
+   }
+  }
+ },
+ "stages": [
+  {
+   "key": "research",
+   "name": "Researcher"
+  },
+  {
+   "key": "write",
+   "name": "Writer"
+  },
+  {
+   "key": "review",
+   "name": "Fact-checker"
+  },
+  {
+   "key": "voice",
+   "name": "Voice"
+  },
+  {
+   "key": "animate",
+   "name": "Animator"
+  },
+  {
+   "key": "checks",
+   "name": "Checks"
+  },
+  {
+   "key": "gate",
+   "name": "Human gate"
+  },
+  {
+   "key": "publish",
+   "name": "Publish"
+  }
+ ],
+ "upload_blocked_until": null,
+ "upcoming": [
+  {
+   "title": "The Sea Snail Venom That Became a Severe Pain Drug",
+   "series": "copied",
+   "status": "scheduled",
+   "publish_at": "2026-11-26T15:00+01:00",
+   "published": null,
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 81.28,
+   "url": null,
+   "note": "",
+   "poster": "p/2026-11-20-cone-ziconotide-prialt-painkiller.jpg"
+  },
+  {
+   "title": "The Porcupine Quill That Inspired a Better Surgical Staple",
+   "series": "copied",
+   "status": "scheduled",
+   "publish_at": "2026-11-26T19:00+01:00",
+   "published": null,
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 70.76,
+   "url": null,
+   "note": "",
+   "poster": "p/2026-11-20-porcupine-low-force-hard-to-remove-surgical-stap.jpg"
+  },
+  {
+   "title": "The Squid Teeth Plastic That Heals a Cut in One Second",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-27T09:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 79.83,
+   "url": null,
+   "note": "YouTube daily upload limit; retrying after Thu 09:40",
+   "poster": "p/2026-11-25-squid-self-healing-protein-plastic.jpg"
+  },
+  {
+   "title": "The Slime Mold That Redesigned Tokyo's Rail Map",
+   "series": "copied",
+   "status": "scheduled",
+   "publish_at": "2026-11-27T11:00+01:00",
+   "published": null,
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 77.18,
+   "url": null,
+   "note": "",
+   "poster": "p/2026-11-20-slime-rail-network-design-algorithm.jpg"
+  },
+  {
+   "title": "How an earwig wing taught engineers to fold",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-27T13:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 72.21,
+   "url": null,
+   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings.jpg"
+  },
+  {
+   "title": "The Burrs on a Dog That Became Velcro",
+   "series": "copied",
+   "status": "scheduled",
+   "publish_at": "2026-11-27T15:00+01:00",
+   "published": null,
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 76.93,
+   "url": null,
+   "note": "",
+   "poster": "p/2026-11-21-burdock-velcro.jpg"
+  },
+  {
+   "title": "Ants Were Farming 50 Million Years Before Humans",
+   "series": "first",
+   "status": "waiting",
+   "publish_at": "2026-11-27T17:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 70.38,
+   "url": null,
+   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "poster": "p/2026-11-25-fungus-growing-agriculture.jpg"
+  },
+  {
+   "title": "The Office Block Cooled by Copying a Termite Mound",
+   "series": "copied",
+   "status": "scheduled",
+   "publish_at": "2026-11-27T19:00+01:00",
+   "published": null,
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 66.33,
+   "url": null,
+   "note": "",
+   "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit.jpg"
+  },
+  {
+   "title": "The Earwig Wing That Folds Like Origami",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T09:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 67.78,
+   "url": null,
+   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356.jpg"
+  },
+  {
+   "title": "The Moth That Jams Bat Sonar With Clicks",
+   "series": "first",
+   "status": "scheduled",
+   "publish_at": "2026-11-28T11:00+01:00",
+   "published": null,
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 79.06,
+   "url": null,
+   "note": "",
+   "poster": "p/2026-11-25-tiger-radar-sonar-jamming.jpg"
+  },
+  {
+   "title": "The Cockroach That Taught a Rescue Robot to Squash Flat",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T13:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 74.18,
+   "url": null,
+   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
+  },
+  {
+   "title": "The Brain Implant That Goes Soft Once It Is Inside",
+   "series": "copied",
+   "status": "scheduled",
+   "publish_at": "2026-11-28T15:00+01:00",
+   "published": null,
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 75.48,
+   "url": null,
+   "note": "",
+   "poster": "p/2026-11-25-sea-brain-implant-that-softens-after-insertion.jpg"
+  },
+  {
+   "title": "The Cheetah Leg Behind 90 Percent of Paralympic Runners",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T17:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 78.14,
+   "url": null,
+   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "poster": "p/2026-11-26-cheetah-flex-foot-cheetah-running-blade.jpg"
+  },
+  {
+   "title": "The Anchor Idea Copied From a Razor Clam",
+   "series": "copied",
+   "status": "scheduled",
+   "publish_at": "2026-11-28T19:00+01:00",
+   "published": null,
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 79.68,
+   "url": null,
+   "note": "",
+   "poster": "p/2026-11-25-razor-roboclam-self-burying-anchor.jpg"
+  },
+  {
+   "title": "The 68 Milligram Robot That Jumps Off Water",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-29T09:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 76.12,
+   "url": null,
+   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "poster": "p/2026-11-26-water-jumping-water-surface-microrobot.jpg"
+  },
+  {
+   "title": "The Spider That Carries Its Own Scuba Tank Under Water",
+   "series": "first",
+   "status": "waiting",
+   "publish_at": "2026-11-29T11:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 73.32,
+   "url": null,
+   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "poster": "p/2026-11-26-diving-diving-bell-and-scuba-tank.jpg"
+  },
+  {
+   "title": "The Bird Feather Behind the Darkest Fabric Ever Made",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-29T13:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 79.47,
+   "url": null,
+   "note": "YouTube daily upload limit; retrying after Thu 01:36",
+   "poster": "p/2026-11-26-riflebird-ultra-black-fabric.jpg"
+  }
+ ],
+ "published": [
+  {
+   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears",
+   "series": "first",
+   "status": "published",
+   "publish_at": "2026-11-26T11:00+01:00",
+   "published": "2026-11-26T11:00+01:00",
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 81.43,
+   "url": "https://youtube.com/shorts/giVomFUJYus",
+   "note": "",
+   "poster": "p/2026-11-17-bats-sonar-millions-of-years-before-the-navy.jpg"
+  },
+  {
+   "title": "A train company hired a birdwatcher to fix its fastest train",
+   "series": "copied",
+   "status": "published",
+   "publish_at": "2026-11-25T19:56:05+01:00",
+   "published": "2026-11-25T19:56:05+01:00",
+   "views": 518,
+   "avg_pct": null,
+   "seconds": 71.38,
+   "url": "https://youtube.com/shorts/Z1EGoUUB5Aw",
+   "note": "",
+   "poster": "p/2026-11-17-kingfisher-shinkansen.jpg"
+  }
+ ],
+ "overview": {
+  "built": 19,
+  "published": 1,
+  "rejected": 8,
+  "waiting_you": 18,
+  "total_views": 518,
+  "median_views": 0.0,
+  "by_series": {
+   "copied": {
+    "median": 0.0,
+    "n": 8
+   },
+   "first": {
+    "median": 0.0,
+    "n": 2
+   },
+   "said-no": {
+    "median": 0,
+    "n": 0
+   }
+  },
+  "hit_rate": 0,
+  "avg_pct": null,
+  "subs_per_1k": 0.0,
+  "topics": 78
+ },
+ "slots": [
+  "09:00",
+  "11:00",
+  "13:00",
+  "15:00",
+  "17:00",
+  "19:00"
+ ],
+ "topics_left": 78,
+ "log": [
+  {
+   "t": "2026-11-26T00:34:13+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-26T00:34:24+01:00",
+   "stage": null,
+   "msg": "2026-11-26-riflebird-ultra-black-fabric-write: OK The Bird Feather Behind the Darkest Fabric Ever Made (59 s)"
+  },
+  {
+   "t": "2026-11-26T00:35:07+01:00",
+   "stage": null,
+   "msg": "2026-11-26-riflebird-ultra-black-fabric-review1: FIX 86 (43 s)"
+  },
+  {
+   "t": "2026-11-26T00:35:07+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 86: Setup beat: 'Its feathers absorb up to 99.95 percent of light' ties the 99.95% figure to the riflebird. Science News (2018, a diffe…"
+  },
+  {
+   "t": "2026-11-26T00:35:22+01:00",
+   "stage": null,
+   "msg": "2026-11-26-riflebird-ultra-black-fabric-fix: OK (15 s)"
+  },
+  {
+   "t": "2026-11-26T00:36:00+01:00",
+   "stage": null,
+   "msg": "2026-11-26-riflebird-ultra-black-fabric-review2: FIX 85 (38 s)"
+  },
+  {
+   "t": "2026-11-26T00:36:00+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 85: Test 3 says the plasma etch 'grew spiky nanoscale fibrils on every fibre'. Cornell says etching removes surface material from the o…"
+  },
+  {
+   "t": "2026-11-26T00:36:25+01:00",
+   "stage": null,
+   "msg": "2026-11-26-riflebird-ultra-black-fabric-fix: OK (24 s)"
+  },
+  {
+   "t": "2026-11-26T00:37:01+01:00",
+   "stage": null,
+   "msg": "2026-11-26-riflebird-ultra-black-fabric-review3: PASS 91 (37 s)"
+  },
+  {
+   "t": "2026-11-26T00:37:01+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 91: Hook says 'wove it into a dress': the fabric is a knit, and the Cornell piece says the dress used the ultrablack material only as …"
+  },
+  {
+   "t": "2026-11-26T00:37:21+01:00",
+   "stage": "voice",
+   "msg": "narration 185 words, 79.4 s"
+  },
+  {
+   "t": "2026-11-26T00:37:23+01:00",
+   "stage": "animate",
+   "msg": "mixed with Mining by Moonlight"
+  },
+  {
+   "t": "2026-11-26T00:39:47+01:00",
+   "stage": "animate",
+   "msg": "4,768 frames rendered in 140 s"
+  },
+  {
+   "t": "2026-11-26T00:40:00+01:00",
+   "stage": "checks",
+   "msg": "all checks passed"
+  },
+  {
+   "t": "2026-11-26T00:40:00+01:00",
+   "stage": "publish",
+   "msg": "ready; waiting to upload (YouTube daily upload limit; retrying after Thu 01:36)"
+  },
+  {
+   "t": "2026-11-26T00:40:00+01:00",
+   "stage": "publish",
+   "msg": "producer: The Bird Feather Behind the Darkest Fabric Ever Made -> waiting 2026-11-29 13:00"
+  },
+  {
+   "t": "2026-11-26T01:40:01+01:00",
+   "stage": "publish",
+   "msg": "YouTube's daily upload limit reached; uploads pause until Thu 03:40 (phone-verify the channel at youtube.com/verify to raise it)"
+  },
+  {
+   "t": "2026-11-26T01:40:01+01:00",
+   "stage": "publish",
+   "msg": "scheduled The Squid Teeth Plastic That Heals a Cut in One Second for 2026-11-27 09:00"
+  },
+  {
+   "t": "2026-11-26T03:40:01+01:00",
+   "stage": "publish",
+   "msg": "YouTube's daily upload limit reached; uploads pause until Thu 05:40 (phone-verify the channel at youtube.com/verify to raise it)"
+  },
+  {
+   "t": "2026-11-26T03:40:01+01:00",
+   "stage": "publish",
+   "msg": "scheduled The Squid Teeth Plastic That Heals a Cut in One Second for 2026-11-27 09:00"
+  },
+  {
+   "t": "2026-11-26T05:40:02+01:00",
+   "stage": "publish",
+   "msg": "YouTube's daily upload limit reached; uploads pause until Thu 07:40 (phone-verify the channel at youtube.com/verify to raise it)"
+  },
+  {
+   "t": "2026-11-26T05:40:02+01:00",
+   "stage": "publish",
+   "msg": "scheduled The Squid Teeth Plastic That Heals a Cut in One Second for 2026-11-27 09:00"
+  },
+  {
+   "t": "2026-11-26T06:00:03+01:00",
+   "stage": "publish",
+   "msg": "views refreshed for 10 videos"
+  },
+  {
+   "t": "2026-11-26T07:40:03+01:00",
+   "stage": "publish",
+   "msg": "YouTube's daily upload limit reached; uploads pause until Thu 09:40 (phone-verify the channel at youtube.com/verify to raise it)"
+  },
+  {
+   "t": "2026-11-26T07:40:03+01:00",
+   "stage": "publish",
+   "msg": "scheduled The Squid Teeth Plastic That Heals a Cut in One Second for 2026-11-27 09:00"
+  }
+ ]
+}

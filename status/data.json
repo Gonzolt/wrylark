@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T14:44:03+01:00",
+ "generated": "2026-11-26T15:01:11+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "91 of 180 slots filled",
+  "note": "99 of 180 slots filled",
   "until": null
  },
  "run": {
-  "id": "run-0150",
-  "title": "The Pit Viper Venom Behind a Blood Pressure Pill (Part 3/3)",
-  "series": "copied",
+  "id": "run-0158",
+  "title": "The Fish That Shoots Insects Off Branches With Water (Part 3/3)",
+  "series": "first",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T14:42:47+01:00",
-  "ended": "2026-11-26T14:44:03+01:00",
+  "started": "2026-11-26T15:00:01+01:00",
+  "ended": "2026-11-26T15:01:11+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -90,19 +90,6 @@
    "url": null,
    "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-26-kingfisher-shinkansen-long.jpg"
-  },
-  {
-   "title": "The Sea Snail Venom That Became a Severe Pain Drug",
-   "series": "copied",
-   "status": "scheduled",
-   "publish_at": "2026-11-26T15:00+01:00",
-   "published": null,
-   "views": 0,
-   "avg_pct": null,
-   "seconds": 81.28,
-   "url": null,
-   "note": "",
-   "poster": "p/2026-11-20-cone-ziconotide-prialt-painkiller.jpg"
   },
   {
    "title": "The Porcupine Quill That Inspired a Better Surgical Staple",
@@ -389,9 +376,35 @@
    "url": null,
    "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p2.jpg"
+  },
+  {
+   "title": "The Cockroach That Taught a Rescue Robot to Squash Flat (Part 3/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-30T17:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 27.37,
+   "url": null,
+   "note": "YouTube upload limit, next try 15:17",
+   "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p3.jpg"
   }
  ],
  "published": [
+  {
+   "title": "The Sea Snail Venom That Became a Severe Pain Drug",
+   "series": "copied",
+   "status": "published",
+   "publish_at": "2026-11-26T15:00+01:00",
+   "published": "2026-11-26T15:00+01:00",
+   "views": 0,
+   "avg_pct": null,
+   "seconds": 81.28,
+   "url": "https://youtube.com/shorts/SiiPapyfHXY",
+   "note": "",
+   "poster": "p/2026-11-20-cone-ziconotide-prialt-painkiller.jpg"
+  },
   {
    "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears",
    "series": "first",
@@ -420,10 +433,10 @@
   }
  ],
  "overview": {
-  "built": 100,
+  "built": 108,
   "published": 2,
   "rejected": 13,
-  "waiting_you": 97,
+  "waiting_you": 105,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -443,7 +456,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 63
+  "topics": 61
  },
  "slots": [
   "09:00",
@@ -453,132 +466,132 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 63,
+ "topics_left": 61,
  "log": [
   {
-   "t": "2026-11-26T14:26:54+01:00",
-   "stage": null,
-   "msg": "2026-11-26-remora-reversible-underwater-suction-disc-robot-review2: PASS 85 (28 s)"
-  },
-  {
-   "t": "2026-11-26T14:26:54+01:00",
+   "t": "2026-11-26T14:45:39+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 85: Mocker beat is editorial framing ('A sucker is useless if it cannot release') rather than a sourced old-way/conventional-wisdom st…"
+   "msg": "fact-check PASS 90: Payoff says 'Meyers wants flexible ceramics built the same way, for body armor'; UCSD only says the scales could provide bioinspir…"
   },
   {
-   "t": "2026-11-26T14:29:12+01:00",
+   "t": "2026-11-26T14:47:56+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-remora-reversible-underwater-suction-disc-robot: 72.66 s rendered in 115 s"
+   "msg": "2026-11-26-arapaima-flexible-piranha-proof-armor-designs: 71.72 s rendered in 114 s"
   },
   {
-   "t": "2026-11-26T14:30:29+01:00",
+   "t": "2026-11-26T14:49:13+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-remora-reversible-underwater-suction-disc-robot-p1: 30.61 s rendered in 49 s"
+   "msg": "2026-11-26-arapaima-flexible-piranha-proof-armor-designs-p1: 30.08 s rendered in 48 s"
   },
   {
-   "t": "2026-11-26T14:31:37+01:00",
+   "t": "2026-11-26T14:50:16+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-remora-reversible-underwater-suction-disc-robot-p2: 26.56 s rendered in 43 s"
+   "msg": "2026-11-26-arapaima-flexible-piranha-proof-armor-designs-p2: 22.91 s rendered in 37 s"
   },
   {
-   "t": "2026-11-26T14:32:48+01:00",
+   "t": "2026-11-26T14:51:25+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-remora-reversible-underwater-suction-disc-robot-p3: 22.08 s rendered in 46 s"
+   "msg": "2026-11-26-arapaima-flexible-piranha-proof-armor-designs-p3: 25.32 s rendered in 45 s"
   },
   {
-   "t": "2026-11-26T14:32:58+01:00",
-   "stage": "checks",
-   "msg": "2026-11-26-remora-reversible-underwater-suction-disc-robot-p3: check failed: look (FAIL Characters are cropped at frame edges: the fish's tail and bod…"
-  },
-  {
-   "t": "2026-11-26T14:32:58+01:00",
+   "t": "2026-11-26T14:51:39+01:00",
    "stage": "publish",
-   "msg": "set ready: The Fish That Taught a Robot to Let Go Underwater = full video + 3 parts (30.61 s, 26.56 s, 22.08 s)"
+   "msg": "set ready: The Fish Scales That Crack Piranha Teeth = full video + 3 parts (30.08 s, 22.91 s, 25.32 s)"
   },
   {
-   "t": "2026-11-26T14:32:59+01:00",
+   "t": "2026-11-26T14:51:39+01:00",
    "stage": "publish",
-   "msg": "producer: The Fish That Taught a Robot to Let Go Underwater -> waiting 2026-12-11 15:00"
+   "msg": "producer: The Fish Scales That Crack Piranha Teeth -> waiting 2026-12-12 17:00"
   },
   {
-   "t": "2026-11-26T14:32:59+01:00",
+   "t": "2026-11-26T14:51:39+01:00",
    "stage": "research",
-   "msg": "topic: Honeybee -> Explosives and landmine detection"
+   "msg": "topic: Archerfish -> Water pistol"
   },
   {
-   "t": "2026-11-26T14:34:27+01:00",
-   "stage": null,
-   "msg": "2026-11-26-honeybee-explosives-and-landmine-detection-write: REJECT No opened source gives the 2 parts per trillion figure, and DARPA dropped the bee …"
-  },
-  {
-   "t": "2026-11-26T14:34:27+01:00",
-   "stage": "review",
-   "msg": "topic rejected: No opened source gives the 2 parts per trillion figure (Sandia 1999 has no results, phys.org gives none, NBC says only 'parts-per-tril…"
-  },
-  {
-   "t": "2026-11-26T14:34:27+01:00",
-   "stage": "research",
-   "msg": "trying the next topic"
-  },
-  {
-   "t": "2026-11-26T14:34:27+01:00",
-   "stage": "research",
-   "msg": "topic: Brazilian pit viper -> Captopril blood-pressure drug"
-  },
-  {
-   "t": "2026-11-26T14:36:24+01:00",
+   "t": "2026-11-26T14:52:40+01:00",
    "stage": "research",
    "msg": "research notes written, 2 links"
   },
   {
-   "t": "2026-11-26T14:36:30+01:00",
+   "t": "2026-11-26T14:52:49+01:00",
    "stage": null,
-   "msg": "2026-11-26-brazilian-captopril-blood-pressure-drug-write: OK The Pit Viper Venom Behind a Blood Pressure Pill (124 s)"
+   "msg": "2026-11-26-archerfish-water-pistol-write: OK The Fish That Shoots Insects Off Branches With Water (69 s)"
   },
   {
-   "t": "2026-11-26T14:36:30+01:00",
-   "stage": "write",
-   "msg": "rules: 1 problem(s): script is 230 words (140-210)"
-  },
-  {
-   "t": "2026-11-26T14:36:51+01:00",
+   "t": "2026-11-26T14:53:23+01:00",
    "stage": null,
-   "msg": "2026-11-26-brazilian-captopril-blood-pressure-drug-rules1: OK (21 s)"
+   "msg": "2026-11-26-archerfish-water-pistol-review1: FIX 84 (35 s)"
   },
   {
-   "t": "2026-11-26T14:37:43+01:00",
-   "stage": null,
-   "msg": "2026-11-26-brazilian-captopril-blood-pressure-drug-review1: PASS 87 (52 s)"
-  },
-  {
-   "t": "2026-11-26T14:37:43+01:00",
+   "t": "2026-11-26T14:53:23+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 87: The '1000x' claim is ambiguous. Bristol says the sulfhydryl compound was 1000 times more active than succinyl-L-proline, an interm…"
+   "msg": "fact-check FIX 84: Mocker beat: 'That is the plain assumption' / 'out of reach' is not described by either source. The sources record no conventional …"
   },
   {
-   "t": "2026-11-26T14:40:13+01:00",
+   "t": "2026-11-26T14:53:39+01:00",
+   "stage": null,
+   "msg": "2026-11-26-archerfish-water-pistol-fix: OK (16 s)"
+  },
+  {
+   "t": "2026-11-26T14:54:20+01:00",
+   "stage": null,
+   "msg": "2026-11-26-archerfish-water-pistol-review2: FIX 78 (41 s)"
+  },
+  {
+   "t": "2026-11-26T14:54:20+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 78: Mocker beat: 'sits where a fish cannot bite it' and 'hits it from below anyway' are in neither source (NBC says only that the fish …"
+  },
+  {
+   "t": "2026-11-26T14:54:30+01:00",
+   "stage": null,
+   "msg": "2026-11-26-archerfish-water-pistol-fix: OK (10 s)"
+  },
+  {
+   "t": "2026-11-26T14:54:30+01:00",
+   "stage": "write",
+   "msg": "rules: 1 problem(s): script is 216 words (140-210)"
+  },
+  {
+   "t": "2026-11-26T14:54:41+01:00",
+   "stage": null,
+   "msg": "2026-11-26-archerfish-water-pistol-rules1: OK (11 s)"
+  },
+  {
+   "t": "2026-11-26T14:55:09+01:00",
+   "stage": null,
+   "msg": "2026-11-26-archerfish-water-pistol-review3: PASS 90 (28 s)"
+  },
+  {
+   "t": "2026-11-26T14:55:09+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 90: Mocker beat 'Prey on a leaf above the water looks safe from a fish' is conventional wisdom not stated in a source; acceptable as t…"
+  },
+  {
+   "t": "2026-11-26T14:57:29+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-brazilian-captopril-blood-pressure-drug: 77.01 s rendered in 127 s"
+   "msg": "2026-11-26-archerfish-water-pistol: 73.88 s rendered in 117 s"
   },
   {
-   "t": "2026-11-26T14:41:31+01:00",
+   "t": "2026-11-26T14:58:46+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-brazilian-captopril-blood-pressure-drug-p1: 31.4 s rendered in 50 s"
+   "msg": "2026-11-26-archerfish-water-pistol-p1: 30.68 s rendered in 48 s"
   },
   {
-   "t": "2026-11-26T14:42:38+01:00",
+   "t": "2026-11-26T14:59:51+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-brazilian-captopril-blood-pressure-drug-p2: 24.51 s rendered in 41 s"
+   "msg": "2026-11-26-archerfish-water-pistol-p2: 23.27 s rendered in 38 s"
   },
   {
-   "t": "2026-11-26T14:43:52+01:00",
+   "t": "2026-11-26T15:01:01+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-brazilian-captopril-blood-pressure-drug-p3: 27.67 s rendered in 49 s"
+   "msg": "2026-11-26-archerfish-water-pistol-p3: 26.5 s rendered in 45 s"
   },
   {
-   "t": "2026-11-26T14:44:03+01:00",
+   "t": "2026-11-26T15:01:11+01:00",
    "stage": "publish",
-   "msg": "set ready: The Pit Viper Venom Behind a Blood Pressure Pill = full video + 3 parts (31.4 s, 24.51 s, 27.67 s)"
+   "msg": "set ready: The Fish That Shoots Insects Off Branches With Water = full video + 3 parts (30.68 s, 23.27 s, 26.5 s)"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T19:11:29+01:00",
+ "generated": "2026-11-26T19:28:20+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "129 of 180 slots filled",
+  "note": "136 of 180 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0193",
-  "title": "Wasps Made Wood Paper Before People Did (Part 3/3)",
-  "series": "first",
+  "id": "run-0201",
+  "title": "The Firefly Backside That Made LEDs 55 Percent Brighter (Part 3/3)",
+  "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T19:10:24+01:00",
-  "ended": "2026-11-26T19:11:29+01:00",
+  "started": "2026-11-26T19:27:06+01:00",
+  "ended": "2026-11-26T19:28:20+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -446,10 +446,10 @@
   }
  ],
  "overview": {
-  "built": 140,
+  "built": 148,
   "published": 3,
   "rejected": 15,
-  "waiting_you": 136,
+  "waiting_you": 144,
   "total_views": 539,
   "median_views": 4,
   "by_series": {
@@ -469,7 +469,7 @@
   "hit_rate": 33,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 51
+  "topics": 49
  },
  "slots": [
   "09:00",
@@ -479,132 +479,132 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 51,
+ "topics_left": 49,
  "log": [
   {
-   "t": "2026-11-26T18:53:41+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Desert Beetle That Drinks Fog Off Its Own Back = full video + 3 parts (22.57 s, 26.22 s, 29.18 s)"
+   "t": "2026-11-26T19:17:37+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-shark-sharklet-bacteria-resistant-surfaces-p1: 26.92 s rendered in 44 s"
   },
   {
-   "t": "2026-11-26T18:53:44+01:00",
-   "stage": "publish",
-   "msg": "producer: The Desert Beetle That Drinks Fog Off Its Own Back -> waiting 2026-12-17 13:00"
+   "t": "2026-11-26T19:17:48+01:00",
+   "stage": "checks",
+   "msg": "2026-11-26-shark-sharklet-bacteria-resistant-surfaces-p1: check failed: look (FAIL frame 8 (\"A microbiologist\" caption) shows no character, only set p…"
   },
   {
-   "t": "2026-11-26T18:53:44+01:00",
+   "t": "2026-11-26T19:18:52+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-shark-sharklet-bacteria-resistant-surfaces-p2: 27.41 s rendered in 48 s"
+  },
+  {
+   "t": "2026-11-26T19:20:11+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-shark-sharklet-bacteria-resistant-surfaces-p3: 29.89 s rendered in 53 s"
+  },
+  {
+   "t": "2026-11-26T19:20:20+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Navy Hull Test That Led to Shark-Skin Hospital Plastic = full video + 3 parts (26.92 s, 27.41 s, 29.89 s)"
+  },
+  {
+   "t": "2026-11-26T19:20:20+01:00",
+   "stage": "publish",
+   "msg": "producer: The Navy Hull Test That Led to Shark-Skin Hospital Plastic -> waiting 2026-12-19 13:00"
+  },
+  {
+   "t": "2026-11-26T19:20:21+01:00",
    "stage": "research",
-   "msg": "topic: cat's eyes -> Percy Shaw's road reflectors"
+   "msg": "topic: firefly lanterns -> brighter LED lenses"
   },
   {
-   "t": "2026-11-26T18:55:35+01:00",
-   "stage": "research",
-   "msg": "research notes written, 0 links"
+   "t": "2026-11-26T19:21:17+01:00",
+   "stage": "gate",
+   "msg": "approved: The Slime Mold That Redesigned Tokyo's Rail Map"
   },
   {
-   "t": "2026-11-26T18:55:43+01:00",
-   "stage": null,
-   "msg": "2026-11-26-cat-s-percy-shaw-s-road-reflectors-write: - **The cat story:** the sources differ on details, so it is narrated as \"the story goes.\" (119 s…"
+   "t": "2026-11-26T19:21:18+01:00",
+   "stage": "gate",
+   "msg": "approved: The Porcupine Quill That Inspired a Better Surgical Staple"
   },
   {
-   "t": "2026-11-26T18:55:43+01:00",
-   "stage": "write",
-   "msg": "rules: 1 problem(s): script is 212 words (140-210)"
+   "t": "2026-11-26T19:21:19+01:00",
+   "stage": "gate",
+   "msg": "approved: The Burrs on a Dog That Became Velcro"
   },
   {
-   "t": "2026-11-26T18:55:54+01:00",
-   "stage": null,
-   "msg": "2026-11-26-cat-s-percy-shaw-s-road-reflectors-rules1: OK (11 s)"
+   "t": "2026-11-26T19:21:20+01:00",
+   "stage": "gate",
+   "msg": "approved: The Office Block Cooled by Copying a Termite Mound"
   },
   {
-   "t": "2026-11-26T18:56:33+01:00",
-   "stage": null,
-   "msg": "2026-11-26-cat-s-percy-shaw-s-road-reflectors-review1: PASS 86 (39 s)"
+   "t": "2026-11-26T19:21:20+01:00",
+   "stage": "gate",
+   "msg": "approved: The Moth That Jams Bat Sonar With Clicks"
   },
   {
-   "t": "2026-11-26T18:56:33+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 86: Hook says cat's eyes gave Britain its 'road markings'; sources say road studs/reflectors. It is also only mildly absurd."
+   "t": "2026-11-26T19:21:21+01:00",
+   "stage": "gate",
+   "msg": "approved: The Brain Implant That Goes Soft Once It Is Inside"
   },
   {
-   "t": "2026-11-26T18:58:59+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cat-s-percy-shaw-s-road-reflectors: 77.42 s rendered in 123 s"
+   "t": "2026-11-26T19:21:21+01:00",
+   "stage": "gate",
+   "msg": "approved: The Anchor Idea Copied From a Razor Clam"
   },
   {
-   "t": "2026-11-26T19:00:16+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cat-s-percy-shaw-s-road-reflectors-p1: 30.85 s rendered in 49 s"
+   "t": "2026-11-26T19:21:22+01:00",
+   "stage": "gate",
+   "msg": "approved: The Squid Teeth Plastic That Heals a Cut in One Second"
   },
   {
-   "t": "2026-11-26T19:01:33+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cat-s-percy-shaw-s-road-reflectors-p2: 30.85 s rendered in 51 s"
+   "t": "2026-11-26T19:21:22+01:00",
+   "stage": "gate",
+   "msg": "approved: Ants Were Farming 50 Million Years Before Humans"
   },
   {
-   "t": "2026-11-26T19:02:56+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cat-s-percy-shaw-s-road-reflectors-p3: 22.29 s rendered in 43 s"
-  },
-  {
-   "t": "2026-11-26T19:03:05+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Cat in the Fog That Gave Britain Its Road Studs = full video + 3 parts (30.85 s, 30.85 s, 22.29 s)"
-  },
-  {
-   "t": "2026-11-26T19:03:05+01:00",
-   "stage": "publish",
-   "msg": "producer: The Cat in the Fog That Gave Britain Its Road Studs -> waiting 2026-12-18 09:00"
-  },
-  {
-   "t": "2026-11-26T19:03:06+01:00",
-   "stage": "research",
-   "msg": "topic: Paper wasps -> Wood-pulp paper"
-  },
-  {
-   "t": "2026-11-26T19:04:09+01:00",
+   "t": "2026-11-26T19:21:27+01:00",
    "stage": "research",
    "msg": "research notes written, 2 links"
   },
   {
-   "t": "2026-11-26T19:04:14+01:00",
+   "t": "2026-11-26T19:21:32+01:00",
    "stage": null,
-   "msg": "2026-11-26-paper-wood-pulp-paper-write: OK Wasps Made Wood Paper Before People Did (68 s)"
+   "msg": "2026-11-26-firefly-brighter-led-lenses-write: OK The Firefly Backside That Made LEDs 55 Percent Brighter (71 s)"
   },
   {
-   "t": "2026-11-26T19:04:47+01:00",
+   "t": "2026-11-26T19:22:08+01:00",
    "stage": null,
-   "msg": "2026-11-26-paper-wood-pulp-paper-review1: PASS 84 (32 s)"
+   "msg": "2026-11-26-firefly-brighter-led-lenses-review1: PASS 88 (36 s)"
   },
   {
-   "t": "2026-11-26T19:04:47+01:00",
+   "t": "2026-11-26T19:22:08+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 84: Keller beat sets mocker face to 'laughing'. Neither source records anyone laughing at Keller; it is an invented reaction."
+   "msg": "fact-check PASS 88: yousee says 'much of it reflects back'; sources say 'a proportion of the light is reflected back' (mild overstatement)."
   },
   {
-   "t": "2026-11-26T19:07:22+01:00",
+   "t": "2026-11-26T19:24:30+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-paper-wood-pulp-paper: 75.86 s rendered in 131 s"
+   "msg": "2026-11-26-firefly-brighter-led-lenses: 71.47 s rendered in 118 s"
   },
   {
-   "t": "2026-11-26T19:08:49+01:00",
+   "t": "2026-11-26T19:25:47+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-paper-wood-pulp-paper-p1: 27.78 s rendered in 58 s"
+   "msg": "2026-11-26-firefly-brighter-led-lenses-p1: 29.31 s rendered in 48 s"
   },
   {
-   "t": "2026-11-26T19:10:14+01:00",
+   "t": "2026-11-26T19:26:54+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-paper-wood-pulp-paper-p2: 34.82 s rendered in 57 s"
+   "msg": "2026-11-26-firefly-brighter-led-lenses-p2: 24.55 s rendered in 42 s"
   },
   {
-   "t": "2026-11-26T19:11:20+01:00",
+   "t": "2026-11-26T19:28:10+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-paper-wood-pulp-paper-p3: 19.84 s rendered in 41 s"
+   "msg": "2026-11-26-firefly-brighter-led-lenses-p3: 24.17 s rendered in 47 s"
   },
   {
-   "t": "2026-11-26T19:11:29+01:00",
+   "t": "2026-11-26T19:28:20+01:00",
    "stage": "publish",
-   "msg": "set ready: Wasps Made Wood Paper Before People Did = full video + 3 parts (27.78 s, 34.82 s, 19.84 s)"
+   "msg": "set ready: The Firefly Backside That Made LEDs 55 Percent Brighter = full video + 3 parts (29.31 s, 24.55 s, 24.17 s)"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-26T18:21:23+01:00",
+ "generated": "2026-11-26T18:43:01+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
-  "state": "waiting for usage",
-  "note": "Claude usage limit reached; waiting until Thu 18:43",
+  "state": "making",
+  "note": "122 of 180 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
@@ -76,7 +76,7 @@
    "name": "Publish"
   }
  ],
- "upload_blocked_until": null,
+ "upload_blocked_until": "2026-11-26T20:43+01:00",
  "upcoming": [
   {
    "title": "A birdwatcher fixed Japan's loudest bullet train with a beak",
@@ -88,7 +88,7 @@
    "avg_pct": null,
    "seconds": 196.69,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-26-kingfisher-shinkansen-long.jpg"
   },
   {
@@ -127,7 +127,7 @@
    "avg_pct": null,
    "seconds": 79.83,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic.jpg"
   },
   {
@@ -153,7 +153,7 @@
    "avg_pct": null,
    "seconds": 30.27,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p1.jpg"
   },
   {
@@ -179,7 +179,7 @@
    "avg_pct": null,
    "seconds": 31.96,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p2.jpg"
   },
   {
@@ -205,7 +205,7 @@
    "avg_pct": null,
    "seconds": 24.17,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p3.jpg"
   },
   {
@@ -231,7 +231,7 @@
    "avg_pct": null,
    "seconds": 70.38,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-fungus-growing-agriculture.jpg"
   },
   {
@@ -257,7 +257,7 @@
    "avg_pct": null,
    "seconds": 28.48,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-fungus-growing-agriculture-p1.jpg"
   },
   {
@@ -270,7 +270,7 @@
    "avg_pct": null,
    "seconds": 25.26,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-fungus-growing-agriculture-p2.jpg"
   },
   {
@@ -283,7 +283,7 @@
    "avg_pct": null,
    "seconds": 23.21,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-fungus-growing-agriculture-p3.jpg"
   },
   {
@@ -296,7 +296,7 @@
    "avg_pct": null,
    "seconds": 67.78,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356.jpg"
   },
   {
@@ -309,7 +309,7 @@
    "avg_pct": null,
    "seconds": 23.32,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p1.jpg"
   },
   {
@@ -322,7 +322,7 @@
    "avg_pct": null,
    "seconds": 27.63,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p2.jpg"
   },
   {
@@ -335,7 +335,7 @@
    "avg_pct": null,
    "seconds": 23.42,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p3.jpg"
   },
   {
@@ -348,7 +348,7 @@
    "avg_pct": null,
    "seconds": 74.18,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
   },
   {
@@ -361,7 +361,7 @@
    "avg_pct": null,
    "seconds": 26.79,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p1.jpg"
   },
   {
@@ -374,7 +374,7 @@
    "avg_pct": null,
    "seconds": 26.56,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p2.jpg"
   },
   {
@@ -387,7 +387,7 @@
    "avg_pct": null,
    "seconds": 27.37,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 20:43",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p3.jpg"
   }
  ],
@@ -398,7 +398,7 @@
    "status": "published",
    "publish_at": "2026-11-26T15:00+01:00",
    "published": "2026-11-26T15:00+01:00",
-   "views": 0,
+   "views": 4,
    "avg_pct": null,
    "seconds": 81.28,
    "url": "https://youtube.com/shorts/SiiPapyfHXY",
@@ -411,7 +411,7 @@
    "status": "published",
    "publish_at": "2026-11-26T11:00+01:00",
    "published": "2026-11-26T11:00+01:00",
-   "views": 0,
+   "views": 3,
    "avg_pct": null,
    "seconds": 81.43,
    "url": "https://youtube.com/shorts/giVomFUJYus",
@@ -424,7 +424,7 @@
    "status": "published",
    "publish_at": "2026-11-25T19:56:05+01:00",
    "published": "2026-11-25T19:56:05+01:00",
-   "views": 528,
+   "views": 532,
    "avg_pct": null,
    "seconds": 71.38,
    "url": "https://youtube.com/shorts/Z1EGoUUB5Aw",
@@ -434,18 +434,18 @@
  ],
  "overview": {
   "built": 128,
-  "published": 2,
+  "published": 3,
   "rejected": 15,
-  "waiting_you": 125,
-  "total_views": 528,
-  "median_views": 264.0,
+  "waiting_you": 124,
+  "total_views": 539,
+  "median_views": 4,
   "by_series": {
    "copied": {
-    "median": 528,
-    "n": 1
+    "median": 268.0,
+    "n": 2
    },
    "first": {
-    "median": 0,
+    "median": 3,
     "n": 1
    },
    "said-no": {
@@ -453,7 +453,7 @@
     "n": 0
    }
   },
-  "hit_rate": 50,
+  "hit_rate": 33,
   "avg_pct": null,
   "subs_per_1k": 0.0,
   "topics": 54
@@ -468,16 +468,6 @@
  ],
  "topics_left": 54,
  "log": [
-  {
-   "t": "2026-11-26T15:39:00+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Shell Animal That Ran Ballast Tanks First = full video + 3 parts (29.91 s, 30.51 s, 26.28 s)"
-  },
-  {
-   "t": "2026-11-26T15:39:01+01:00",
-   "stage": "publish",
-   "msg": "producer: The Shell Animal That Ran Ballast Tanks First -> waiting 2026-12-16 09:00"
-  },
   {
    "t": "2026-11-26T15:39:01+01:00",
    "stage": "research",
@@ -592,6 +582,16 @@
    "t": "2026-11-26T15:51:13+01:00",
    "stage": null,
    "msg": "Claude usage limit reached; waiting until Thu 18:43"
+  },
+  {
+   "t": "2026-11-26T18:43:00+01:00",
+   "stage": "publish",
+   "msg": "views refreshed for 10 videos"
+  },
+  {
+   "t": "2026-11-26T18:43:01+01:00",
+   "stage": "publish",
+   "msg": "YouTube's daily upload limit reached; uploads pause until Thu 20:43 (phone-verify the channel at youtube.com/verify to raise it)"
   }
  ]
 }

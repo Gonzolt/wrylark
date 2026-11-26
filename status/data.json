@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:08:24+01:00",
+ "generated": "2026-11-26T12:19:54+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -8,13 +8,13 @@
   "until": null
  },
  "run": {
-  "id": "run-0069",
-  "title": "The Earwig Wing That Folds Like Origami (Part 3/3)",
+  "id": "run-0077",
+  "title": "The Space Telescope Built From a Lobster's Eye (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T12:07:18+01:00",
-  "ended": "2026-11-26T12:08:24+01:00",
+  "started": "2026-11-26T12:18:39+01:00",
+  "ended": "2026-11-26T12:19:54+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -355,7 +355,7 @@
    "title": "The Cockroach That Taught a Rescue Robot to Squash Flat",
    "series": "copied",
    "status": "waiting",
-   "publish_at": null,
+   "publish_at": "2026-11-30T11:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
@@ -365,30 +365,30 @@
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
   },
   {
-   "title": "The Space Telescope Built From a Lobster's Eye",
+   "title": "The Cockroach That Taught a Rescue Robot to Squash Flat (Part 1/3)",
    "series": "copied",
    "status": "waiting",
-   "publish_at": null,
+   "publish_at": "2026-11-30T13:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 76.67,
+   "seconds": 26.79,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro.jpg"
+   "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p1.jpg"
   },
   {
-   "title": "The Cheetah Leg Behind 90 Percent of Paralympic Runners",
+   "title": "The Cockroach That Taught a Rescue Robot to Squash Flat (Part 2/3)",
    "series": "copied",
    "status": "waiting",
-   "publish_at": null,
+   "publish_at": "2026-11-30T15:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 78.14,
+   "seconds": 26.56,
    "url": null,
    "note": "YouTube upload limit, next try 13:15",
-   "poster": "p/2026-11-26-cheetah-flex-foot-cheetah-running-blade.jpg"
+   "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p2.jpg"
   }
  ],
  "published": [
@@ -420,10 +420,10 @@
   }
  ],
  "overview": {
-  "built": 30,
+  "built": 36,
   "published": 2,
   "rejected": 9,
-  "waiting_you": 27,
+  "waiting_you": 33,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -455,56 +455,6 @@
  ],
  "topics_left": 78,
  "log": [
-  {
-   "t": "2026-11-26T11:43:26+01:00",
-   "stage": "publish",
-   "msg": "long-form ready: A birdwatcher fixed Japan's loudest bullet train with a beak + 4 parts"
-  },
-  {
-   "t": "2026-11-26T11:47:34+01:00",
-   "stage": null,
-   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
-  },
-  {
-   "t": "2026-11-26T11:47:35+01:00",
-   "stage": "publish",
-   "msg": "views refreshed for 10 videos"
-  },
-  {
-   "t": "2026-11-26T11:49:44+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-squid-self-healing-protein-plastic: 79.83 s rendered in 125 s"
-  },
-  {
-   "t": "2026-11-26T11:50:59+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-squid-self-healing-protein-plastic-p1: 30.27 s rendered in 48 s"
-  },
-  {
-   "t": "2026-11-26T11:52:15+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-squid-self-healing-protein-plastic-p2: 31.96 s rendered in 51 s"
-  },
-  {
-   "t": "2026-11-26T11:53:21+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-squid-self-healing-protein-plastic-p3: 24.17 s rendered in 42 s"
-  },
-  {
-   "t": "2026-11-26T11:53:30+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Squid Teeth Plastic That Heals a Cut in One Second = full video + 3 parts (30.27 s, 31.96 s, 24.17 s)"
-  },
-  {
-   "t": "2026-11-26T11:55:05+01:00",
-   "stage": null,
-   "msg": "previous run run-0060 was cut off at 2026-11-26 11:47 (PC shut down or window closed); its topic goes back in the queue"
-  },
-  {
-   "t": "2026-11-26T11:55:05+01:00",
-   "stage": null,
-   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
-  },
   {
    "t": "2026-11-26T11:55:05+01:00",
    "stage": "voice",
@@ -579,6 +529,56 @@
    "t": "2026-11-26T12:08:24+01:00",
    "stage": "publish",
    "msg": "set ready: The Earwig Wing That Folds Like Origami = full video + 3 parts (23.32 s, 27.63 s, 23.42 s)"
+  },
+  {
+   "t": "2026-11-26T12:10:28+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot: 74.18 s rendered in 117 s"
+  },
+  {
+   "t": "2026-11-26T12:11:40+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p1: 26.79 s rendered in 47 s"
+  },
+  {
+   "t": "2026-11-26T12:12:48+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p2: 26.56 s rendered in 43 s"
+  },
+  {
+   "t": "2026-11-26T12:13:59+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p3: 27.37 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-26T12:14:08+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Cockroach That Taught a Rescue Robot to Squash Flat = full video + 3 parts (26.79 s, 26.56 s, 27.37 s)"
+  },
+  {
+   "t": "2026-11-26T12:16:14+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro: 76.67 s rendered in 122 s"
+  },
+  {
+   "t": "2026-11-26T12:17:13+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro-p1: 21.27 s rendered in 34 s"
+  },
+  {
+   "t": "2026-11-26T12:18:30+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro-p2: 32.28 s rendered in 52 s"
+  },
+  {
+   "t": "2026-11-26T12:19:44+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro-p3: 29.72 s rendered in 50 s"
+  },
+  {
+   "t": "2026-11-26T12:19:54+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Space Telescope Built From a Lobster's Eye = full video + 3 parts (21.27 s, 32.28 s, 29.72 s)"
   }
  ]
 }

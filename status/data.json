@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:32:03+01:00",
+ "generated": "2026-11-26T12:44:10+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -8,13 +8,13 @@
   "until": null
  },
  "run": {
-  "id": "run-0085",
-  "title": "The 68 Milligram Robot That Jumps Off Water (Part 3/3)",
+  "id": "run-0093",
+  "title": "The Bird Feather Behind the Darkest Fabric Ever Made (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T12:30:55+01:00",
-  "ended": "2026-11-26T12:32:03+01:00",
+  "started": "2026-11-26T12:42:52+01:00",
+  "ended": "2026-11-26T12:44:10+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -420,10 +420,10 @@
   }
  ],
  "overview": {
-  "built": 42,
+  "built": 48,
   "published": 2,
   "rejected": 9,
-  "waiting_you": 39,
+  "waiting_you": 45,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -455,56 +455,6 @@
  ],
  "topics_left": 78,
  "log": [
-  {
-   "t": "2026-11-26T12:04:57+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-earwig-origami-deployable-fans-and-wings-2356: 67.78 s rendered in 108 s"
-  },
-  {
-   "t": "2026-11-26T12:06:01+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p1: 23.32 s rendered in 39 s"
-  },
-  {
-   "t": "2026-11-26T12:07:09+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p2: 27.63 s rendered in 44 s"
-  },
-  {
-   "t": "2026-11-26T12:08:14+01:00",
-   "stage": "animate",
-   "msg": "2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p3: 23.42 s rendered in 41 s"
-  },
-  {
-   "t": "2026-11-26T12:08:24+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Earwig Wing That Folds Like Origami = full video + 3 parts (23.32 s, 27.63 s, 23.42 s)"
-  },
-  {
-   "t": "2026-11-26T12:10:28+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot: 74.18 s rendered in 117 s"
-  },
-  {
-   "t": "2026-11-26T12:11:40+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p1: 26.79 s rendered in 47 s"
-  },
-  {
-   "t": "2026-11-26T12:12:48+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p2: 26.56 s rendered in 43 s"
-  },
-  {
-   "t": "2026-11-26T12:13:59+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p3: 27.37 s rendered in 46 s"
-  },
-  {
-   "t": "2026-11-26T12:14:08+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Cockroach That Taught a Rescue Robot to Squash Flat = full video + 3 parts (26.79 s, 26.56 s, 27.37 s)"
-  },
   {
    "t": "2026-11-26T12:16:14+01:00",
    "stage": "animate",
@@ -579,6 +529,56 @@
    "t": "2026-11-26T12:32:03+01:00",
    "stage": "publish",
    "msg": "set ready: The 68 Milligram Robot That Jumps Off Water = full video + 3 parts (26.77 s, 31.32 s, 24.58 s)"
+  },
+  {
+   "t": "2026-11-26T12:34:12+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-diving-diving-bell-and-scuba-tank: 73.32 s rendered in 123 s"
+  },
+  {
+   "t": "2026-11-26T12:35:28+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-diving-diving-bell-and-scuba-tank-p1: 30.23 s rendered in 48 s"
+  },
+  {
+   "t": "2026-11-26T12:36:30+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-diving-diving-bell-and-scuba-tank-p2: 23.51 s rendered in 38 s"
+  },
+  {
+   "t": "2026-11-26T12:37:44+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-diving-diving-bell-and-scuba-tank-p3: 26.18 s rendered in 50 s"
+  },
+  {
+   "t": "2026-11-26T12:37:54+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Spider That Carries Its Own Scuba Tank Under Water = full video + 3 parts (30.23 s, 23.51 s, 26.18 s)"
+  },
+  {
+   "t": "2026-11-26T12:40:14+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-riflebird-ultra-black-fabric: 79.47 s rendered in 136 s"
+  },
+  {
+   "t": "2026-11-26T12:41:29+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-riflebird-ultra-black-fabric-p1: 28.18 s rendered in 47 s"
+  },
+  {
+   "t": "2026-11-26T12:42:43+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-riflebird-ultra-black-fabric-p2: 31.02 s rendered in 49 s"
+  },
+  {
+   "t": "2026-11-26T12:44:00+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-riflebird-ultra-black-fabric-p3: 26.82 s rendered in 53 s"
+  },
+  {
+   "t": "2026-11-26T12:44:10+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Bird Feather Behind the Darkest Fabric Ever Made = full video + 3 parts (28.18 s, 31.02 s, 26.82 s)"
   }
  ]
 }

@@ -1,38 +1,38 @@
 {
- "generated": "2026-11-26T19:28:20+01:00",
+ "generated": "2026-11-26T23:20:46+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "136 of 180 slots filled",
+  "note": "140 of 180 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0201",
-  "title": "The Firefly Backside That Made LEDs 55 Percent Brighter (Part 3/3)",
+  "id": "run-0202",
+  "title": "Solar panels got better by copying the eye of a moth.",
   "series": "copied",
-  "state": "done",
-  "stage": "checks",
-  "started": "2026-11-26T19:27:06+01:00",
-  "ended": "2026-11-26T19:28:20+01:00",
+  "state": "failed",
+  "stage": "write",
+  "started": "2026-11-26T19:28:23+01:00",
+  "ended": "2026-11-26T23:20:46+01:00",
   "stages": {
    "research": {
-    "state": "wait"
+    "state": "done"
    },
    "write": {
-    "state": "wait"
+    "state": "fail"
    },
    "review": {
     "state": "wait"
    },
    "voice": {
-    "state": "done"
+    "state": "wait"
    },
    "animate": {
-    "state": "done"
+    "state": "wait"
    },
    "checks": {
-    "state": "done"
+    "state": "wait"
    },
    "gate": {
     "state": "wait"
@@ -76,7 +76,7 @@
    "name": "Publish"
   }
  ],
- "upload_blocked_until": "2026-11-26T20:43+01:00",
+ "upload_blocked_until": null,
  "upcoming": [
   {
    "title": "A birdwatcher fixed Japan's loudest bullet train with a beak",
@@ -88,7 +88,7 @@
    "avg_pct": null,
    "seconds": 196.69,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-kingfisher-shinkansen-long.jpg"
   },
   {
@@ -114,7 +114,7 @@
    "avg_pct": null,
    "seconds": 79.83,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic.jpg"
   },
   {
@@ -140,7 +140,7 @@
    "avg_pct": null,
    "seconds": 30.27,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p1.jpg"
   },
   {
@@ -166,7 +166,7 @@
    "avg_pct": null,
    "seconds": 31.96,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p2.jpg"
   },
   {
@@ -192,7 +192,7 @@
    "avg_pct": null,
    "seconds": 24.17,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p3.jpg"
   },
   {
@@ -218,7 +218,7 @@
    "avg_pct": null,
    "seconds": 70.38,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-fungus-growing-agriculture.jpg"
   },
   {
@@ -244,7 +244,7 @@
    "avg_pct": null,
    "seconds": 28.48,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-fungus-growing-agriculture-p1.jpg"
   },
   {
@@ -257,7 +257,7 @@
    "avg_pct": null,
    "seconds": 25.26,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-fungus-growing-agriculture-p2.jpg"
   },
   {
@@ -270,7 +270,7 @@
    "avg_pct": null,
    "seconds": 23.21,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-fungus-growing-agriculture-p3.jpg"
   },
   {
@@ -283,7 +283,7 @@
    "avg_pct": null,
    "seconds": 67.78,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356.jpg"
   },
   {
@@ -296,7 +296,7 @@
    "avg_pct": null,
    "seconds": 23.32,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p1.jpg"
   },
   {
@@ -309,7 +309,7 @@
    "avg_pct": null,
    "seconds": 27.63,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p2.jpg"
   },
   {
@@ -322,7 +322,7 @@
    "avg_pct": null,
    "seconds": 23.42,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p3.jpg"
   },
   {
@@ -335,7 +335,7 @@
    "avg_pct": null,
    "seconds": 74.18,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
   },
   {
@@ -348,7 +348,7 @@
    "avg_pct": null,
    "seconds": 26.79,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p1.jpg"
   },
   {
@@ -361,7 +361,7 @@
    "avg_pct": null,
    "seconds": 26.56,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p2.jpg"
   },
   {
@@ -374,7 +374,7 @@
    "avg_pct": null,
    "seconds": 27.37,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p3.jpg"
   },
   {
@@ -387,7 +387,7 @@
    "avg_pct": null,
    "seconds": 76.67,
    "url": null,
-   "note": "YouTube upload limit, next try 20:43",
+   "note": "uploads at the next chance",
    "poster": "p/2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro.jpg"
   }
  ],
@@ -481,31 +481,6 @@
  ],
  "topics_left": 49,
  "log": [
-  {
-   "t": "2026-11-26T19:17:37+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-shark-sharklet-bacteria-resistant-surfaces-p1: 26.92 s rendered in 44 s"
-  },
-  {
-   "t": "2026-11-26T19:17:48+01:00",
-   "stage": "checks",
-   "msg": "2026-11-26-shark-sharklet-bacteria-resistant-surfaces-p1: check failed: look (FAIL frame 8 (\"A microbiologist\" caption) shows no character, only set p…"
-  },
-  {
-   "t": "2026-11-26T19:18:52+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-shark-sharklet-bacteria-resistant-surfaces-p2: 27.41 s rendered in 48 s"
-  },
-  {
-   "t": "2026-11-26T19:20:11+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-shark-sharklet-bacteria-resistant-surfaces-p3: 29.89 s rendered in 53 s"
-  },
-  {
-   "t": "2026-11-26T19:20:20+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Navy Hull Test That Led to Shark-Skin Hospital Plastic = full video + 3 parts (26.92 s, 27.41 s, 29.89 s)"
-  },
   {
    "t": "2026-11-26T19:20:20+01:00",
    "stage": "publish",
@@ -605,6 +580,31 @@
    "t": "2026-11-26T19:28:20+01:00",
    "stage": "publish",
    "msg": "set ready: The Firefly Backside That Made LEDs 55 Percent Brighter = full video + 3 parts (29.31 s, 24.55 s, 24.17 s)"
+  },
+  {
+   "t": "2026-11-26T19:28:23+01:00",
+   "stage": "publish",
+   "msg": "producer: The Firefly Backside That Made LEDs 55 Percent Brighter -> waiting 2026-12-19 19:00"
+  },
+  {
+   "t": "2026-11-26T19:28:23+01:00",
+   "stage": "research",
+   "msg": "topic: moth eyes -> anti-reflective solar panel coatings"
+  },
+  {
+   "t": "2026-11-26T19:29:29+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-26T23:20:46+01:00",
+   "stage": null,
+   "msg": "previous run run-0202 was cut off at 2026-11-26 11:55 (PC shut down or window closed); its topic goes back in the queue"
+  },
+  {
+   "t": "2026-11-26T23:20:46+01:00",
+   "stage": null,
+   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
   }
  ]
 }

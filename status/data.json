@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26T13:03:55+01:00",
+ "generated": "2026-11-26T13:17:17+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "52 of 180 slots filled",
+  "note": "56 of 180 slots filled",
   "until": null
  },
  "run": {
-  "id": "run-0107",
-  "title": "The Ants That Treat Infected Wounds With Their Own Antibiotics (Part 3/3)",
-  "series": "first",
+  "id": "run-0112",
+  "title": "Surgeons Copied a Wasp's Egg-Layer to Steer a Needle (Part 3/3)",
+  "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-26T13:02:49+01:00",
-  "ended": "2026-11-26T13:03:55+01:00",
+  "started": "2026-11-26T13:16:05+01:00",
+  "ended": "2026-11-26T13:17:17+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -76,7 +76,7 @@
    "name": "Publish"
   }
  ],
- "upload_blocked_until": "2026-11-26T13:15+01:00",
+ "upload_blocked_until": "2026-11-26T15:17+01:00",
  "upcoming": [
   {
    "title": "A birdwatcher fixed Japan's loudest bullet train with a beak",
@@ -88,7 +88,7 @@
    "avg_pct": null,
    "seconds": 196.69,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-26-kingfisher-shinkansen-long.jpg"
   },
   {
@@ -140,7 +140,7 @@
    "avg_pct": null,
    "seconds": 79.83,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic.jpg"
   },
   {
@@ -166,7 +166,7 @@
    "avg_pct": null,
    "seconds": 30.27,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p1.jpg"
   },
   {
@@ -192,7 +192,7 @@
    "avg_pct": null,
    "seconds": 31.96,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p2.jpg"
   },
   {
@@ -218,7 +218,7 @@
    "avg_pct": null,
    "seconds": 24.17,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p3.jpg"
   },
   {
@@ -244,7 +244,7 @@
    "avg_pct": null,
    "seconds": 70.38,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-fungus-growing-agriculture.jpg"
   },
   {
@@ -270,7 +270,7 @@
    "avg_pct": null,
    "seconds": 28.48,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-fungus-growing-agriculture-p1.jpg"
   },
   {
@@ -283,7 +283,7 @@
    "avg_pct": null,
    "seconds": 25.26,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-fungus-growing-agriculture-p2.jpg"
   },
   {
@@ -296,7 +296,7 @@
    "avg_pct": null,
    "seconds": 23.21,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-fungus-growing-agriculture-p3.jpg"
   },
   {
@@ -309,7 +309,7 @@
    "avg_pct": null,
    "seconds": 67.78,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356.jpg"
   },
   {
@@ -322,7 +322,7 @@
    "avg_pct": null,
    "seconds": 23.32,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p1.jpg"
   },
   {
@@ -335,7 +335,7 @@
    "avg_pct": null,
    "seconds": 27.63,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p2.jpg"
   },
   {
@@ -348,7 +348,7 @@
    "avg_pct": null,
    "seconds": 23.42,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p3.jpg"
   },
   {
@@ -361,7 +361,7 @@
    "avg_pct": null,
    "seconds": 74.18,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
   },
   {
@@ -374,7 +374,7 @@
    "avg_pct": null,
    "seconds": 26.79,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p1.jpg"
   },
   {
@@ -387,7 +387,7 @@
    "avg_pct": null,
    "seconds": 26.56,
    "url": null,
-   "note": "YouTube upload limit, next try 13:15",
+   "note": "YouTube upload limit, next try 15:17",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p2.jpg"
   }
  ],
@@ -420,10 +420,10 @@
   }
  ],
  "overview": {
-  "built": 60,
+  "built": 64,
   "published": 2,
-  "rejected": 10,
-  "waiting_you": 57,
+  "rejected": 11,
+  "waiting_you": 61,
   "total_views": 528,
   "median_views": 264.0,
   "by_series": {
@@ -443,7 +443,7 @@
   "hit_rate": 50,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 76
+  "topics": 74
  },
  "slots": [
   "09:00",
@@ -453,88 +453,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 76,
+ "topics_left": 74,
  "log": [
-  {
-   "t": "2026-11-26T12:44:00+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-riflebird-ultra-black-fabric-p3: 26.82 s rendered in 53 s"
-  },
-  {
-   "t": "2026-11-26T12:44:10+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Bird Feather Behind the Darkest Fabric Ever Made = full video + 3 parts (28.18 s, 31.02 s, 26.82 s)"
-  },
-  {
-   "t": "2026-11-26T12:45:03+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p1: 22.02 s rendered in 37 s"
-  },
-  {
-   "t": "2026-11-26T12:46:14+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p2: 27.82 s rendered in 45 s"
-  },
-  {
-   "t": "2026-11-26T12:47:26+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p3: 28.78 s rendered in 46 s"
-  },
-  {
-   "t": "2026-11-26T12:48:33+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p4: 25.92 s rendered in 42 s"
-  },
-  {
-   "t": "2026-11-26T12:49:39+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p5: 25.28 s rendered in 41 s"
-  },
-  {
-   "t": "2026-11-26T12:50:51+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p6: 29.99 s rendered in 48 s"
-  },
-  {
-   "t": "2026-11-26T12:51:53+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p7: 22.95 s rendered in 37 s"
-  },
-  {
-   "t": "2026-11-26T12:53:24+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p8: 36.97 s rendered in 64 s"
-  },
-  {
-   "t": "2026-11-26T12:53:34+01:00",
-   "stage": "publish",
-   "msg": "set ready: A birdwatcher fixed Japan's loudest bullet train with a beak = full video + 8 parts (22.02 s, 27.82 s, 28.78 s, 25.92 s, 25.28 s, 29.99 s, …"
-  },
-  {
-   "t": "2026-11-26T12:53:34+01:00",
-   "stage": "research",
-   "msg": "topic: Pit viper -> Thermal imaging cameras"
-  },
-  {
-   "t": "2026-11-26T12:54:48+01:00",
-   "stage": null,
-   "msg": "2026-11-26-pit-thermal-imaging-cameras-write: REJECT The 5-10x boa/python figure isn't in any source I could open (Nature and Live Science were blocke…"
-  },
-  {
-   "t": "2026-11-26T12:54:48+01:00",
-   "stage": "review",
-   "msg": "topic rejected: The 5-10x boa/python sensitivity figure appears in no source I could open (Nature and Live Science were blocked, EurekAlert, SlashGear…"
-  },
-  {
-   "t": "2026-11-26T12:54:49+01:00",
-   "stage": "research",
-   "msg": "trying the next topic"
-  },
-  {
-   "t": "2026-11-26T12:54:49+01:00",
-   "stage": "research",
-   "msg": "topic: Matabele ants (Megaponera analis) -> Wound care and antimicrobial treatment"
-  },
   {
    "t": "2026-11-26T12:56:31+01:00",
    "stage": "research",
@@ -579,6 +499,86 @@
    "t": "2026-11-26T13:03:55+01:00",
    "stage": "publish",
    "msg": "set ready: The Ants That Treat Infected Wounds With Their Own Antibiotics = full video + 3 parts (36.65 s, 31.13 s, 20.71 s)"
+  },
+  {
+   "t": "2026-11-26T13:03:57+01:00",
+   "stage": "publish",
+   "msg": "producer: The Ants That Treat Infected Wounds With Their Own Antibiotics -> waiting 2026-12-05 15:00"
+  },
+  {
+   "t": "2026-11-26T13:03:57+01:00",
+   "stage": "research",
+   "msg": "topic: Tardigrade -> Fridge-free drug and clotting-factor stabilizer"
+  },
+  {
+   "t": "2026-11-26T13:09:16+01:00",
+   "stage": null,
+   "msg": "2026-11-26-tardigrade-fridge-free-drug-and-clotting-factor--write: REJECT No hard payoff number: the University of Wyoming release and the paper abstr…"
+  },
+  {
+   "t": "2026-11-26T13:09:16+01:00",
+   "stage": "review",
+   "msg": "topic rejected: No hard payoff number: the University of Wyoming release and the paper abstract give no figure (the 10x claim is unverified), and the …"
+  },
+  {
+   "t": "2026-11-26T13:09:16+01:00",
+   "stage": "research",
+   "msg": "trying the next topic"
+  },
+  {
+   "t": "2026-11-26T13:09:16+01:00",
+   "stage": "research",
+   "msg": "topic: Wood wasp (Sirex noctilio) -> Steerable brain-surgery needle"
+  },
+  {
+   "t": "2026-11-26T13:10:37+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-26T13:10:44+01:00",
+   "stage": null,
+   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-write: OK Surgeons Copied a Wasp's Egg-Layer to Steer a Needle (88 s)"
+  },
+  {
+   "t": "2026-11-26T13:11:16+01:00",
+   "stage": null,
+   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-review1: PASS 85 (32 s)"
+  },
+  {
+   "t": "2026-11-26T13:11:16+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 85: Yousee beat: 'Sliding parts steer the tip' sits right after the wasp sentence and can read as a claim about the wasp's ovipositor;…"
+  },
+  {
+   "t": "2026-11-26T13:13:37+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-wood-steerable-brain-surgery-needle: 74.75 s rendered in 118 s"
+  },
+  {
+   "t": "2026-11-26T13:14:49+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-p1: 28.91 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-26T13:15:56+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-p2: 26.01 s rendered in 41 s"
+  },
+  {
+   "t": "2026-11-26T13:17:06+01:00",
+   "stage": "animate",
+   "msg": "2026-11-26-wood-steerable-brain-surgery-needle-p3: 26.41 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-26T13:17:17+01:00",
+   "stage": "publish",
+   "msg": "YouTube's daily upload limit reached; uploads pause until Thu 15:17 (phone-verify the channel at youtube.com/verify to raise it)"
+  },
+  {
+   "t": "2026-11-26T13:17:17+01:00",
+   "stage": "publish",
+   "msg": "set ready: Surgeons Copied a Wasp's Egg-Layer to Steer a Needle = full video + 3 parts (28.91 s, 26.01 s, 26.41 s)"
   }
  ]
 }

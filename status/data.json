@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-27T19:25:10+01:00",
+ "generated": "2026-11-27T19:35:14+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
-  "state": "making",
-  "note": "87 of 90 slots filled",
+  "state": "idle",
+  "note": "90 Shorts queued (30 days); next check soon",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
@@ -426,11 +426,6 @@
  "topics_left": 29,
  "log": [
   {
-   "t": "2026-11-27T19:10:21+01:00",
-   "stage": null,
-   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-rules1: OK (9 s)"
-  },
-  {
    "t": "2026-11-27T19:10:58+01:00",
    "stage": null,
    "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-review1: FIX 78 (38 s)"
@@ -549,6 +544,11 @@
    "t": "2026-11-27T19:25:09+01:00",
    "stage": "publish",
    "msg": "set ready: The Octopus Sucker That Became a Glue-Free Wet Patch = full video + 2 parts (46.21 s, 20.46 s)"
+  },
+  {
+   "t": "2026-11-27T19:25:12+01:00",
+   "stage": "publish",
+   "msg": "producer: The Octopus Sucker That Became a Glue-Free Wet Patch -> waiting 2026-12-27 11:00"
   }
  ]
 }

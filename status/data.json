@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T11:14:19+01:00",
+ "generated": "2026-11-27T11:25:22+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -8,13 +8,13 @@
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0268",
-  "title": "The Burrs on a Dog That Became Velcro (Part 3/3)",
-  "series": "copied",
+  "id": "run-0276",
+  "title": "The Moth That Jams Bat Sonar With Clicks (Part 3/3)",
+  "series": "first",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T11:13:18+01:00",
-  "ended": "2026-11-27T11:14:19+01:00",
+  "started": "2026-11-27T11:24:26+01:00",
+  "ended": "2026-11-27T11:25:21+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -313,36 +313,10 @@
    "poster": "p/2026-11-21-burdock-velcro-p3.jpg"
   },
   {
-   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears",
-   "series": "first",
-   "status": "review",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 81.43,
-   "url": null,
-   "note": "a check failed; see the dashboard",
-   "poster": "p/2026-11-17-bats-sonar-millions-of-years-before-the-navy.jpg"
-  },
-  {
-   "title": "The Sea Snail Venom That Became a Severe Pain Drug",
-   "series": "copied",
-   "status": "review",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 81.28,
-   "url": null,
-   "note": "a check failed; see the dashboard",
-   "poster": "p/2026-11-20-cone-ziconotide-prialt-painkiller.jpg"
-  },
-  {
    "title": "The Office Block Cooled by Copying a Termite Mound",
    "series": "copied",
    "status": "waiting",
-   "publish_at": null,
+   "publish_at": "2026-12-04T11:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
@@ -352,10 +326,49 @@
    "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit.jpg"
   },
   {
+   "title": "The Office Block Cooled by Copying a Termite Mound (Part 1/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-12-04T15:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 21.85,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit-p1.jpg"
+  },
+  {
+   "title": "The Office Block Cooled by Copying a Termite Mound (Part 2/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-12-04T19:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 20.63,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit-p2.jpg"
+  },
+  {
+   "title": "The Office Block Cooled by Copying a Termite Mound (Part 3/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-12-05T11:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 16.92,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit-p3.jpg"
+  },
+  {
    "title": "The Moth That Jams Bat Sonar With Clicks",
    "series": "first",
    "status": "waiting",
-   "publish_at": null,
+   "publish_at": "2026-12-05T15:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
@@ -365,38 +378,25 @@
    "poster": "p/2026-11-25-tiger-radar-sonar-jamming.jpg"
   },
   {
-   "title": "The Brain Implant That Goes Soft Once It Is Inside",
-   "series": "copied",
+   "title": "The Moth That Jams Bat Sonar With Clicks (Part 1/3)",
+   "series": "first",
    "status": "waiting",
-   "publish_at": null,
+   "publish_at": "2026-12-05T19:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 75.48,
+   "seconds": 22.83,
    "url": null,
    "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-sea-brain-implant-that-softens-after-insertion.jpg"
-  },
-  {
-   "title": "The Anchor Idea Copied From a Razor Clam",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 79.68,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-razor-roboclam-self-burying-anchor.jpg"
+   "poster": "p/2026-11-25-tiger-radar-sonar-jamming-p1.jpg"
   }
  ],
  "published": [],
  "overview": {
-  "built": 203,
+  "built": 209,
   "published": 0,
   "rejected": 20,
-  "waiting_you": 201,
+  "waiting_you": 207,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -425,56 +425,6 @@
  ],
  "topics_left": 35,
  "log": [
-  {
-   "t": "2026-11-27T10:43:21+01:00",
-   "stage": "animate",
-   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy-p3: 23.36 s rendered in 43 s"
-  },
-  {
-   "t": "2026-11-27T10:43:25+01:00",
-   "stage": "publish",
-   "msg": "set ready: A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears = full video + 3 parts (27.22 s, 24.43 s, 23.36 s)"
-  },
-  {
-   "t": "2026-11-27T10:45:43+01:00",
-   "stage": "animate",
-   "msg": "2026-11-20-slime-rail-network-design-algorithm: 77.16 s rendered in 133 s"
-  },
-  {
-   "t": "2026-11-27T10:46:52+01:00",
-   "stage": "animate",
-   "msg": "2026-11-20-slime-rail-network-design-algorithm-p1: 26.35 s rendered in 46 s"
-  },
-  {
-   "t": "2026-11-27T10:47:42+01:00",
-   "stage": "animate",
-   "msg": "2026-11-20-slime-rail-network-design-algorithm-p2: 18.58 s rendered in 32 s"
-  },
-  {
-   "t": "2026-11-27T10:48:43+01:00",
-   "stage": "animate",
-   "msg": "2026-11-20-slime-rail-network-design-algorithm-p3: 22.12 s rendered in 43 s"
-  },
-  {
-   "t": "2026-11-27T10:48:47+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Slime Mold That Redesigned Tokyo's Rail Map = full video + 3 parts (26.35 s, 18.58 s, 22.12 s)"
-  },
-  {
-   "t": "2026-11-27T10:51:29+01:00",
-   "stage": "animate",
-   "msg": "2026-11-20-cone-ziconotide-prialt-painkiller: 81.28 s rendered in 155 s"
-  },
-  {
-   "t": "2026-11-27T10:51:35+01:00",
-   "stage": "checks",
-   "msg": "2026-11-20-cone-ziconotide-prialt-painkiller: check failed: length (81.3 s)"
-  },
-  {
-   "t": "2026-11-27T10:52:35+01:00",
-   "stage": "animate",
-   "msg": "2026-11-20-cone-ziconotide-prialt-painkiller-p1: 25.92 s rendered in 43 s"
-  },
   {
    "t": "2026-11-27T10:53:46+01:00",
    "stage": "animate",
@@ -549,6 +499,56 @@
    "t": "2026-11-27T11:14:19+01:00",
    "stage": "publish",
    "msg": "set ready: The Burrs on a Dog That Became Velcro = full video + 3 parts (23.68 s, 23.17 s, 20.37 s)"
+  },
+  {
+   "t": "2026-11-27T11:16:41+01:00",
+   "stage": "animate",
+   "msg": "2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit: 66.33 s rendered in 135 s"
+  },
+  {
+   "t": "2026-11-27T11:17:42+01:00",
+   "stage": "animate",
+   "msg": "2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit-p1: 21.85 s rendered in 40 s"
+  },
+  {
+   "t": "2026-11-27T11:18:42+01:00",
+   "stage": "animate",
+   "msg": "2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit-p2: 20.63 s rendered in 43 s"
+  },
+  {
+   "t": "2026-11-27T11:19:34+01:00",
+   "stage": "animate",
+   "msg": "2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit-p3: 16.92 s rendered in 35 s"
+  },
+  {
+   "t": "2026-11-27T11:19:37+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Office Block Cooled by Copying a Termite Mound = full video + 3 parts (21.85 s, 20.63 s, 16.92 s)"
+  },
+  {
+   "t": "2026-11-27T11:22:01+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-tiger-radar-sonar-jamming: 79.06 s rendered in 138 s"
+  },
+  {
+   "t": "2026-11-27T11:23:11+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-tiger-radar-sonar-jamming-p1: 22.83 s rendered in 50 s"
+  },
+  {
+   "t": "2026-11-27T11:24:22+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-tiger-radar-sonar-jamming-p2: 25.37 s rendered in 52 s"
+  },
+  {
+   "t": "2026-11-27T11:25:17+01:00",
+   "stage": "animate",
+   "msg": "2026-11-25-tiger-radar-sonar-jamming-p3: 19.97 s rendered in 37 s"
+  },
+  {
+   "t": "2026-11-27T11:25:21+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Moth That Jams Bat Sonar With Clicks = full video + 3 parts (22.83 s, 25.37 s, 19.97 s)"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-27T10:37:26+01:00",
+ "generated": "2026-11-27T10:48:47+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "re-rendering waiting videos with the new look",
+  "note": "converting old Shorts into full video + parts",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0246",
-  "title": "The US Strapped Bombs to Bats and Burned Its Own Airfield (Part 3/3)",
-  "series": "said-no",
+  "id": "run-0254",
+  "title": "The Slime Mold That Redesigned Tokyo's Rail Map (Part 3/3)",
+  "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T01:12:38+01:00",
-  "ended": "2026-11-27T01:14:02+01:00",
+  "started": "2026-11-27T10:47:46+01:00",
+  "ended": "2026-11-27T10:48:47+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -79,30 +79,108 @@
  "upload_blocked_until": "2026-11-27T11:34+01:00",
  "upcoming": [
   {
-   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears",
+   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears (Part 1/3)",
    "series": "first",
    "status": "waiting",
+   "publish_at": "2026-11-28T11:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 27.22,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-17-bats-sonar-millions-of-years-before-the-navy-p1.jpg"
+  },
+  {
+   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears (Part 2/3)",
+   "series": "first",
+   "status": "waiting",
+   "publish_at": "2026-11-28T15:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 24.43,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-17-bats-sonar-millions-of-years-before-the-navy-p2.jpg"
+  },
+  {
+   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears (Part 3/3)",
+   "series": "first",
+   "status": "waiting",
+   "publish_at": "2026-11-28T19:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 23.36,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-17-bats-sonar-millions-of-years-before-the-navy-p3.jpg"
+  },
+  {
+   "title": "The Slime Mold That Redesigned Tokyo's Rail Map",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-29T11:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 77.16,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-20-slime-rail-network-design-algorithm.jpg"
+  },
+  {
+   "title": "The Slime Mold That Redesigned Tokyo's Rail Map (Part 1/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-29T15:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 26.35,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-20-slime-rail-network-design-algorithm-p1.jpg"
+  },
+  {
+   "title": "The Slime Mold That Redesigned Tokyo's Rail Map (Part 2/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-29T19:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 18.58,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-20-slime-rail-network-design-algorithm-p2.jpg"
+  },
+  {
+   "title": "The Slime Mold That Redesigned Tokyo's Rail Map (Part 3/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-30T11:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 22.12,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-20-slime-rail-network-design-algorithm-p3.jpg"
+  },
+  {
+   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears",
+   "series": "first",
+   "status": "review",
    "publish_at": null,
    "published": null,
    "views": null,
    "avg_pct": null,
    "seconds": 81.43,
    "url": null,
-   "note": "YouTube upload limit, next try 11:34",
+   "note": "a check failed; see the dashboard",
    "poster": "p/2026-11-17-bats-sonar-millions-of-years-before-the-navy.jpg"
-  },
-  {
-   "title": "The Slime Mold That Redesigned Tokyo's Rail Map",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 77.18,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-20-slime-rail-network-design-algorithm.jpg"
   },
   {
    "title": "The Sea Snail Venom That Became a Severe Pain Drug",
@@ -311,92 +389,14 @@
    "url": null,
    "note": "YouTube upload limit, next try 11:34",
    "poster": "p/2026-11-26-riflebird-ultra-black-fabric.jpg"
-  },
-  {
-   "title": "A birdwatcher fixed Japan's loudest bullet train with a beak",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 196.69,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-26-kingfisher-shinkansen-long.jpg"
-  },
-  {
-   "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 1/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 30.27,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p1.jpg"
-  },
-  {
-   "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 2/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 31.96,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p2.jpg"
-  },
-  {
-   "title": "The Squid Teeth Plastic That Heals a Cut in One Second (Part 3/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 24.17,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-squid-self-healing-protein-plastic-p3.jpg"
-  },
-  {
-   "title": "Ants Were Farming 50 Million Years Before Humans (Part 1/3)",
-   "series": "first",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 28.48,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-fungus-growing-agriculture-p1.jpg"
-  },
-  {
-   "title": "Ants Were Farming 50 Million Years Before Humans (Part 2/3)",
-   "series": "first",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 25.26,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-fungus-growing-agriculture-p2.jpg"
   }
  ],
  "published": [],
  "overview": {
-  "built": 188,
+  "built": 194,
   "published": 0,
   "rejected": 20,
-  "waiting_you": 186,
+  "waiting_you": 192,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -425,61 +425,6 @@
  ],
  "topics_left": 35,
  "log": [
-  {
-   "t": "2026-11-27T10:10:33+01:00",
-   "stage": "animate",
-   "msg": "new look: The Cheetah Leg Behind 90 Percent of Paralympic Runners re-rendered in 131 s (155 left)"
-  },
-  {
-   "t": "2026-11-27T10:11:23+01:00",
-   "stage": "animate",
-   "msg": "new look: The Cheetah Leg Behind 90 Percent of Paralympic Runners (Part 1/3) re-rendered in 50 s (154 left)"
-  },
-  {
-   "t": "2026-11-27T10:12:18+01:00",
-   "stage": "animate",
-   "msg": "new look: The Cheetah Leg Behind 90 Percent of Paralympic Runners (Part 2/3) re-rendered in 54 s (153 left)"
-  },
-  {
-   "t": "2026-11-27T10:13:09+01:00",
-   "stage": "animate",
-   "msg": "new look: The Cheetah Leg Behind 90 Percent of Paralympic Runners (Part 3/3) re-rendered in 52 s (152 left)"
-  },
-  {
-   "t": "2026-11-27T10:15:22+01:00",
-   "stage": "animate",
-   "msg": "new look: The 68 Milligram Robot That Jumps Off Water re-rendered in 133 s (151 left)"
-  },
-  {
-   "t": "2026-11-27T10:16:10+01:00",
-   "stage": "animate",
-   "msg": "new look: The 68 Milligram Robot That Jumps Off Water (Part 1/3) re-rendered in 48 s (150 left)"
-  },
-  {
-   "t": "2026-11-27T10:17:05+01:00",
-   "stage": "animate",
-   "msg": "new look: The 68 Milligram Robot That Jumps Off Water (Part 2/3) re-rendered in 55 s (149 left)"
-  },
-  {
-   "t": "2026-11-27T10:17:58+01:00",
-   "stage": "animate",
-   "msg": "new look: The 68 Milligram Robot That Jumps Off Water (Part 3/3) re-rendered in 53 s (148 left)"
-  },
-  {
-   "t": "2026-11-27T10:20:09+01:00",
-   "stage": "animate",
-   "msg": "new look: The Spider That Carries Its Own Scuba Tank Under Water re-rendered in 131 s (147 left)"
-  },
-  {
-   "t": "2026-11-27T10:21:01+01:00",
-   "stage": "animate",
-   "msg": "new look: The Spider That Carries Its Own Scuba Tank Under Water (Part 1/3) re-rendered in 52 s (146 left)"
-  },
-  {
-   "t": "2026-11-27T10:21:43+01:00",
-   "stage": "animate",
-   "msg": "new look: The Spider That Carries Its Own Scuba Tank Under Water (Part 2/3) re-rendered in 42 s (145 left)"
-  },
   {
    "t": "2026-11-27T10:22:39+01:00",
    "stage": "animate",
@@ -549,6 +494,61 @@
    "t": "2026-11-27T10:37:25+01:00",
    "stage": null,
    "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
+  },
+  {
+   "t": "2026-11-27T10:40:04+01:00",
+   "stage": "animate",
+   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy: 81.43 s rendered in 151 s"
+  },
+  {
+   "t": "2026-11-27T10:40:11+01:00",
+   "stage": "checks",
+   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy: check failed: length (81.4 s)"
+  },
+  {
+   "t": "2026-11-27T10:41:19+01:00",
+   "stage": "animate",
+   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy-p1: 27.22 s rendered in 49 s"
+  },
+  {
+   "t": "2026-11-27T10:42:20+01:00",
+   "stage": "animate",
+   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy-p2: 24.43 s rendered in 42 s"
+  },
+  {
+   "t": "2026-11-27T10:43:21+01:00",
+   "stage": "animate",
+   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy-p3: 23.36 s rendered in 43 s"
+  },
+  {
+   "t": "2026-11-27T10:43:25+01:00",
+   "stage": "publish",
+   "msg": "set ready: A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears = full video + 3 parts (27.22 s, 24.43 s, 23.36 s)"
+  },
+  {
+   "t": "2026-11-27T10:45:43+01:00",
+   "stage": "animate",
+   "msg": "2026-11-20-slime-rail-network-design-algorithm: 77.16 s rendered in 133 s"
+  },
+  {
+   "t": "2026-11-27T10:46:52+01:00",
+   "stage": "animate",
+   "msg": "2026-11-20-slime-rail-network-design-algorithm-p1: 26.35 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-27T10:47:42+01:00",
+   "stage": "animate",
+   "msg": "2026-11-20-slime-rail-network-design-algorithm-p2: 18.58 s rendered in 32 s"
+  },
+  {
+   "t": "2026-11-27T10:48:43+01:00",
+   "stage": "animate",
+   "msg": "2026-11-20-slime-rail-network-design-algorithm-p3: 22.12 s rendered in 43 s"
+  },
+  {
+   "t": "2026-11-27T10:48:47+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Slime Mold That Redesigned Tokyo's Rail Map = full video + 3 parts (26.35 s, 18.58 s, 22.12 s)"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-27T18:15:01+01:00",
+ "generated": "2026-11-27T18:30:22+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "64 of 90 slots filled",
+  "note": "69 of 90 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0324",
-  "title": "Mercedes Copied a Fish That Was Built to Wobble (Part 2/2)",
-  "series": "said-no",
+  "id": "run-0330",
+  "title": "Researchers Fired Electronics at a Wall Like a Woodpecker (Part 2/2)",
+  "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T18:13:54+01:00",
-  "ended": "2026-11-27T18:15:00+01:00",
+  "started": "2026-11-27T18:29:21+01:00",
+  "ended": "2026-11-27T18:30:21+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -393,10 +393,10 @@
  ],
  "published": [],
  "overview": {
-  "built": 249,
+  "built": 255,
   "published": 0,
   "rejected": 22,
-  "waiting_you": 247,
+  "waiting_you": 253,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -416,139 +416,139 @@
   "hit_rate": null,
   "avg_pct": null,
   "subs_per_1k": null,
-  "topics": 22
+  "topics": 20
  },
  "slots": [
   "11:00",
   "15:00",
   "19:00"
  ],
- "topics_left": 22,
+ "topics_left": 20,
  "log": [
-  {
-   "t": "2026-11-27T17:57:53+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-hagfish-slime-thread-protein-fibres-p2: 18.22 s rendered in 35 s"
-  },
-  {
-   "t": "2026-11-27T17:58:02+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Fish Slime Thread 100 Times Thinner Than a Hair = full video + 2 parts (41.83 s, 18.22 s)"
-  },
-  {
-   "t": "2026-11-27T17:58:05+01:00",
-   "stage": "publish",
-   "msg": "producer: The Fish Slime Thread 100 Times Thinner Than a Hair -> waiting 2026-12-17 15:00"
-  },
-  {
-   "t": "2026-11-27T17:58:06+01:00",
-   "stage": "research",
-   "msg": "topic: Ants -> Ant colony optimization for routing"
-  },
-  {
-   "t": "2026-11-27T17:59:32+01:00",
-   "stage": null,
-   "msg": "2026-11-27-ants-ant-colony-optimization-for-routing-write: REJECT The two lead PDFs were unreadable, and the readable pages gave no exact payoff numbe…"
-  },
-  {
-   "t": "2026-11-27T17:59:32+01:00",
-   "stage": "review",
-   "msg": "topic rejected: The two lead PDFs were unreadable, and the pages I could read gave no exact payoff number (only 'six competitors' and 'superior perfor…"
-  },
-  {
-   "t": "2026-11-27T17:59:32+01:00",
-   "stage": "research",
-   "msg": "trying the next topic"
-  },
-  {
-   "t": "2026-11-27T17:59:32+01:00",
-   "stage": "research",
-   "msg": "topic: Victoria water lily -> Crystal Palace iron-and-glass framework"
-  },
-  {
-   "t": "2026-11-27T18:00:38+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-27T18:00:48+01:00",
-   "stage": null,
-   "msg": "2026-11-27-victoria-crystal-palace-iron-and-glass-framework-write: OK The Giant Lily Leaf That Held a Child and Became a Palace (76 s)"
-  },
-  {
-   "t": "2026-11-27T18:01:22+01:00",
-   "stage": null,
-   "msg": "2026-11-27-victoria-crystal-palace-iron-and-glass-framework-review1: PASS 87 (34 s)"
-  },
-  {
-   "t": "2026-11-27T18:01:22+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 87: 'Head gardener' is not in the Garden History blog (it says 'the Duke's gardener'); not confirmed in the Wells source either."
-  },
-  {
-   "t": "2026-11-27T18:03:47+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-victoria-crystal-palace-iron-and-glass-framework: 59.48 s rendered in 124 s"
-  },
-  {
-   "t": "2026-11-27T18:05:24+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-victoria-crystal-palace-iron-and-glass-framework-p1: 37.46 s rendered in 68 s"
-  },
-  {
-   "t": "2026-11-27T18:06:39+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-victoria-crystal-palace-iron-and-glass-framework-p2: 25.47 s rendered in 49 s"
-  },
-  {
-   "t": "2026-11-27T18:06:49+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Giant Lily Leaf That Held a Child and Became a Palace = full video + 2 parts (37.46 s, 25.47 s)"
-  },
-  {
-   "t": "2026-11-27T18:06:49+01:00",
-   "stage": "publish",
-   "msg": "producer: The Giant Lily Leaf That Held a Child and Became a Palace -> waiting 2026-12-18 15:00"
-  },
-  {
-   "t": "2026-11-27T18:06:50+01:00",
-   "stage": "research",
-   "msg": "topic: boxfish -> the Mercedes Bionic car's stability claims"
-  },
-  {
-   "t": "2026-11-27T18:08:19+01:00",
-   "stage": null,
-   "msg": "2026-11-27-boxfish-the-mercedes-bionic-car-s-stability-clai-write: OK Mercedes Copied a Fish That Was Built to Wobble (89 s)"
-  },
-  {
-   "t": "2026-11-27T18:08:55+01:00",
-   "stage": null,
-   "msg": "2026-11-27-boxfish-the-mercedes-bionic-car-s-stability-clai-review1: PASS 88 (36 s)"
-  },
-  {
-   "t": "2026-11-27T18:08:55+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 88: The PMC paper could not be fetched (reCAPTCHA page); the 0.27, below-0.13, stability and method claims were checked only against r…"
-  },
-  {
-   "t": "2026-11-27T18:11:31+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-boxfish-the-mercedes-bionic-car-s-stability-clai: 65.51 s rendered in 133 s"
-  },
-  {
-   "t": "2026-11-27T18:13:43+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-boxfish-the-mercedes-bionic-car-s-stability-clai-p1: 45.78 s rendered in 100 s"
-  },
-  {
-   "t": "2026-11-27T18:14:51+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-boxfish-the-mercedes-bionic-car-s-stability-clai-p2: 23.17 s rendered in 43 s"
-  },
   {
    "t": "2026-11-27T18:15:00+01:00",
    "stage": "publish",
    "msg": "set ready: Mercedes Copied a Fish That Was Built to Wobble = full video + 2 parts (45.78 s, 23.17 s)"
+  },
+  {
+   "t": "2026-11-27T18:15:04+01:00",
+   "stage": "publish",
+   "msg": "producer: Mercedes Copied a Fish That Was Built to Wobble -> waiting 2026-12-19 15:00"
+  },
+  {
+   "t": "2026-11-27T18:15:04+01:00",
+   "stage": "research",
+   "msg": "topic: Vampire bat -> Desmoteplase clot-dissolving stroke drug"
+  },
+  {
+   "t": "2026-11-27T18:15:52+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-27T18:16:02+01:00",
+   "stage": null,
+   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-write: OK Vampire Bat Spit Became a Stroke Drug Tested Up to 9 Hours (58 s)"
+  },
+  {
+   "t": "2026-11-27T18:16:34+01:00",
+   "stage": null,
+   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-review1: FIX 78 (32 s)"
+  },
+  {
+   "t": "2026-11-27T18:16:34+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 78: Hook says researchers injected vampire bat saliva into mouse brains. Sources say they injected DSPA, the enzyme (Science News/Disco…"
+  },
+  {
+   "t": "2026-11-27T18:16:46+01:00",
+   "stage": null,
+   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-fix: OK (11 s)"
+  },
+  {
+   "t": "2026-11-27T18:17:24+01:00",
+   "stage": null,
+   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-review2: PASS 88 (39 s)"
+  },
+  {
+   "t": "2026-11-27T18:17:24+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: Setup says 'They named it DSPA, later desmoteplase': neither source says when or by whom the names were given; Discover just uses …"
+  },
+  {
+   "t": "2026-11-27T18:19:57+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug: 62.19 s rendered in 129 s"
+  },
+  {
+   "t": "2026-11-27T18:20:09+01:00",
+   "stage": "checks",
+   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug: check failed: look (FAIL frame 8 (\"trying to clog\") is an empty set with no characters or…"
+  },
+  {
+   "t": "2026-11-27T18:22:14+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-p1: 48.64 s rendered in 105 s"
+  },
+  {
+   "t": "2026-11-27T18:23:11+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-p2: 17.0 s rendered in 33 s"
+  },
+  {
+   "t": "2026-11-27T18:23:19+01:00",
+   "stage": "publish",
+   "msg": "set ready: Vampire Bat Spit Became a Stroke Drug Tested Up to 9 Hours = full video + 2 parts (48.64 s, 17.0 s)"
+  },
+  {
+   "t": "2026-11-27T18:23:20+01:00",
+   "stage": "publish",
+   "msg": "producer: Vampire Bat Spit Became a Stroke Drug Tested Up to 9 Hours -> review"
+  },
+  {
+   "t": "2026-11-27T18:23:21+01:00",
+   "stage": "research",
+   "msg": "topic: woodpecker skull -> shock-proof flight recorder casings"
+  },
+  {
+   "t": "2026-11-27T18:24:24+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-27T18:24:32+01:00",
+   "stage": null,
+   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings-write: OK Researchers Fired Electronics at a Wall Like a Woodpecker (72 s)"
+  },
+  {
+   "t": "2026-11-27T18:25:13+01:00",
+   "stage": null,
+   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings-review1: PASS 92 (41 s)"
+  },
+  {
+   "t": "2026-11-27T18:25:13+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 92: Minor: the mocker is drawn with a 'laughing' face in the glass-beads beat; no source records anyone laughing, though the mocker st…"
+  },
+  {
+   "t": "2026-11-27T18:27:33+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings: 54.89 s rendered in 119 s"
+  },
+  {
+   "t": "2026-11-27T18:29:12+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings-p1: 39.1 s rendered in 69 s"
+  },
+  {
+   "t": "2026-11-27T18:30:12+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings-p2: 19.24 s rendered in 37 s"
+  },
+  {
+   "t": "2026-11-27T18:30:21+01:00",
+   "stage": "publish",
+   "msg": "set ready: Researchers Fired Electronics at a Wall Like a Woodpecker = full video + 2 parts (39.1 s, 19.24 s)"
   }
  ]
 }

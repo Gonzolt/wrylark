@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:45:13+01:00",
+ "generated": "2026-11-27T21:09:54+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -427,11 +427,6 @@
  "log": [
   {
    "t": "2026-11-27T19:10:58+01:00",
-   "stage": null,
-   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-review1: FIX 78 (38 s)"
-  },
-  {
-   "t": "2026-11-27T19:10:58+01:00",
    "stage": "review",
    "msg": "fact-check FIX 78: Setup says the six species run \"from bobcat to lion\"; both sources list domestic cat, bobcat, cougar, snow leopard, tiger, lion, so…"
   },
@@ -549,6 +544,11 @@
    "t": "2026-11-27T19:25:12+01:00",
    "stage": "publish",
    "msg": "producer: The Octopus Sucker That Became a Glue-Free Wet Patch -> waiting 2026-12-27 11:00"
+  },
+  {
+   "t": "2026-11-27T21:09:53+01:00",
+   "stage": null,
+   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
   }
  ]
 }

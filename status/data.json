@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T15:43:05+01:00",
+ "generated": "2026-11-27T15:56:03+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -8,16 +8,16 @@
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0284",
-  "title": "The Anchor Idea Copied From a Razor Clam (Part 3/3)",
+  "id": "run-0286",
+  "title": "A camera copies a bug's eye with 180 tiny lenses.",
   "series": "copied",
-  "state": "done",
-  "stage": "checks",
-  "started": "2026-11-27T11:35:27+01:00",
-  "ended": "2026-11-27T11:36:37+01:00",
+  "state": "failed",
+  "stage": "research",
+  "started": "2026-11-27T15:50:59+01:00",
+  "ended": "2026-11-27T15:51:01+01:00",
   "stages": {
    "research": {
-    "state": "wait"
+    "state": "fail"
    },
    "write": {
     "state": "wait"
@@ -26,13 +26,13 @@
     "state": "wait"
    },
    "voice": {
-    "state": "done"
+    "state": "wait"
    },
    "animate": {
-    "state": "done"
+    "state": "wait"
    },
    "checks": {
-    "state": "done"
+    "state": "wait"
    },
    "gate": {
     "state": "wait"
@@ -426,41 +426,6 @@
  "topics_left": 35,
  "log": [
   {
-   "t": "2026-11-27T15:08:26+01:00",
-   "stage": "animate",
-   "msg": "new look: Airbus Flew Two Jets Nose to Tail Like Geese to Save Fuel (Part 3/3) re-rendered in 58 s (24 left)"
-  },
-  {
-   "t": "2026-11-27T15:11:33+01:00",
-   "stage": "animate",
-   "msg": "new look: The Bird Wingtip That Became the Bent Tip on Airliners re-rendered in 187 s (23 left)"
-  },
-  {
-   "t": "2026-11-27T15:12:40+01:00",
-   "stage": "animate",
-   "msg": "new look: The Bird Wingtip That Became the Bent Tip on Airliners (Part 1/3) re-rendered in 67 s (22 left)"
-  },
-  {
-   "t": "2026-11-27T15:13:49+01:00",
-   "stage": "animate",
-   "msg": "new look: The Bird Wingtip That Became the Bent Tip on Airliners (Part 2/3) re-rendered in 69 s (21 left)"
-  },
-  {
-   "t": "2026-11-27T15:14:42+01:00",
-   "stage": "animate",
-   "msg": "new look: The Bird Wingtip That Became the Bent Tip on Airliners (Part 3/3) re-rendered in 53 s (20 left)"
-  },
-  {
-   "t": "2026-11-27T15:16:51+01:00",
-   "stage": "animate",
-   "msg": "new look: The Hummingbird Wing That Out-Hovers Helicopter Blades re-rendered in 129 s (19 left)"
-  },
-  {
-   "t": "2026-11-27T15:18:10+01:00",
-   "stage": "animate",
-   "msg": "new look: The Hummingbird Wing That Out-Hovers Helicopter Blades (Part 1/3) re-rendered in 79 s (18 left)"
-  },
-  {
    "t": "2026-11-27T15:19:01+01:00",
    "stage": "animate",
    "msg": "new look: The Hummingbird Wing That Out-Hovers Helicopter Blades (Part 2/3) re-rendered in 50 s (17 left)"
@@ -549,6 +514,41 @@
    "t": "2026-11-27T15:43:04+01:00",
    "stage": "animate",
    "msg": "new look: The US Strapped Bombs to Bats and Burned Its Own Airfield (Part 3/3) re-rendered in 51 s (0 left)"
+  },
+  {
+   "t": "2026-11-27T15:43:07+01:00",
+   "stage": "research",
+   "msg": "topic: Insect (ant/beetle compound eye) -> Hemispherical digital camera"
+  },
+  {
+   "t": "2026-11-27T15:43:11+01:00",
+   "stage": null,
+   "msg": "2026-11-27-insect-hemispherical-digital-camera-write: Failed to authenticate: OAuth session expired and could not be refreshed (4 s)"
+  },
+  {
+   "t": "2026-11-27T15:43:11+01:00",
+   "stage": null,
+   "msg": "producer: run failed (writer wrote no story.json (Failed to authenticate: OAuth session expired and could not be refreshed)); retrying in 5 min"
+  },
+  {
+   "t": "2026-11-27T15:50:59+01:00",
+   "stage": "animate",
+   "msg": "new look: Wasps Made Wood Paper Before People Did re-rendered in 168 s (0 left)"
+  },
+  {
+   "t": "2026-11-27T15:50:59+01:00",
+   "stage": "research",
+   "msg": "topic: Insect (ant/beetle compound eye) -> Hemispherical digital camera"
+  },
+  {
+   "t": "2026-11-27T15:51:01+01:00",
+   "stage": null,
+   "msg": "2026-11-27-insect-hemispherical-digital-camera-write: Failed to authenticate: OAuth session expired and could not be refreshed (2 s)"
+  },
+  {
+   "t": "2026-11-27T15:51:01+01:00",
+   "stage": null,
+   "msg": "producer: run failed (writer wrote no story.json (Failed to authenticate: OAuth session expired and could not be refreshed)); retrying in 5 min"
   }
  ]
 }

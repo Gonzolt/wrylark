@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-27T17:15:09+01:00",
+ "generated": "2026-11-27T17:26:35+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "43 of 90 slots filled",
+  "note": "46 of 90 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0301",
-  "title": "Three Robots Built a Staircase With Nobody in Charge (Part 2/2)",
+  "id": "run-0305",
+  "title": "Engineers Copied Cuttlefish Skin Pixel by Pixel (Part 2/2)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T17:13:57+01:00",
-  "ended": "2026-11-27T17:15:08+01:00",
+  "started": "2026-11-27T17:25:41+01:00",
+  "ended": "2026-11-27T17:26:34+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -393,10 +393,10 @@
  ],
  "published": [],
  "overview": {
-  "built": 228,
+  "built": 231,
   "published": 0,
-  "rejected": 20,
-  "waiting_you": 226,
+  "rejected": 21,
+  "waiting_you": 229,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -416,115 +416,15 @@
   "hit_rate": null,
   "avg_pct": null,
   "subs_per_1k": null,
-  "topics": 31
+  "topics": 29
  },
  "slots": [
   "11:00",
   "15:00",
   "19:00"
  ],
- "topics_left": 31,
+ "topics_left": 29,
  "log": [
-  {
-   "t": "2026-11-27T16:58:29+01:00",
-   "stage": "publish",
-   "msg": "producer: The CIA Wired a Cat to Spy, and a Taxi Ended It -> waiting 2026-12-10 15:00"
-  },
-  {
-   "t": "2026-11-27T16:58:29+01:00",
-   "stage": "research",
-   "msg": "topic: Sunflower -> Spiral heliostat layout for solar towers"
-  },
-  {
-   "t": "2026-11-27T16:59:17+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-27T16:59:25+01:00",
-   "stage": null,
-   "msg": "2026-11-27-sunflower-spiral-heliostat-layout-for-solar-towe-write: OK Solar Mirrors Were Laid Out Like Sunflower Seeds to Save Land (55 s)"
-  },
-  {
-   "t": "2026-11-27T16:59:56+01:00",
-   "stage": null,
-   "msg": "2026-11-27-sunflower-spiral-heliostat-layout-for-solar-towe-review1: PASS 88 (32 s)"
-  },
-  {
-   "t": "2026-11-27T16:59:56+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 88: Hook is a plain factual statement; it does not sound absurd."
-  },
-  {
-   "t": "2026-11-27T17:00:16+01:00",
-   "stage": "voice",
-   "msg": "take ran 69.3 s, re-voicing at speed 1.47"
-  },
-  {
-   "t": "2026-11-27T17:02:36+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-sunflower-spiral-heliostat-layout-for-solar-towe: 66.92 s rendered in 117 s"
-  },
-  {
-   "t": "2026-11-27T17:02:50+01:00",
-   "stage": "checks",
-   "msg": "2026-11-27-sunflower-spiral-heliostat-layout-for-solar-towe: check failed: look (FAIL row 2, frame 4 is an empty beige set with only the caption \"hat\"…"
-  },
-  {
-   "t": "2026-11-27T17:04:01+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-sunflower-spiral-heliostat-layout-for-solar-towe-p1: 30.49 s rendered in 53 s"
-  },
-  {
-   "t": "2026-11-27T17:05:14+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-sunflower-spiral-heliostat-layout-for-solar-towe-p2: 23.49 s rendered in 48 s"
-  },
-  {
-   "t": "2026-11-27T17:06:20+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-sunflower-spiral-heliostat-layout-for-solar-towe-p3: 22.23 s rendered in 41 s"
-  },
-  {
-   "t": "2026-11-27T17:06:30+01:00",
-   "stage": "publish",
-   "msg": "set ready: Solar Mirrors Were Laid Out Like Sunflower Seeds to Save Land = full video + 3 parts (30.49 s, 23.49 s, 22.23 s)"
-  },
-  {
-   "t": "2026-11-27T17:06:30+01:00",
-   "stage": "publish",
-   "msg": "producer: Solar Mirrors Were Laid Out Like Sunflower Seeds to Save Land -> review"
-  },
-  {
-   "t": "2026-11-27T17:06:31+01:00",
-   "stage": "research",
-   "msg": "topic: Termite -> TERMES swarm construction robots"
-  },
-  {
-   "t": "2026-11-27T17:08:40+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-27T17:08:48+01:00",
-   "stage": null,
-   "msg": "2026-11-27-termite-termes-swarm-construction-robots-write: OK Three Robots Built a Staircase With Nobody in Charge (137 s)"
-  },
-  {
-   "t": "2026-11-27T17:08:48+01:00",
-   "stage": "write",
-   "msg": "rules: 1 problem(s): script is 217 words (140-210)"
-  },
-  {
-   "t": "2026-11-27T17:08:56+01:00",
-   "stage": null,
-   "msg": "2026-11-27-termite-termes-swarm-construction-robots-rules1: OK (8 s)"
-  },
-  {
-   "t": "2026-11-27T17:09:24+01:00",
-   "stage": null,
-   "msg": "2026-11-27-termite-termes-swarm-construction-robots-review1: PASS 92 (29 s)"
-  },
   {
    "t": "2026-11-27T17:09:24+01:00",
    "stage": "review",
@@ -549,6 +449,106 @@
    "t": "2026-11-27T17:15:08+01:00",
    "stage": "publish",
    "msg": "set ready: Three Robots Built a Staircase With Nobody in Charge = full video + 2 parts (41.54 s, 23.1 s)"
+  },
+  {
+   "t": "2026-11-27T17:15:11+01:00",
+   "stage": "publish",
+   "msg": "producer: Three Robots Built a Staircase With Nobody in Charge -> waiting 2026-12-12 15:00"
+  },
+  {
+   "t": "2026-11-27T17:15:12+01:00",
+   "stage": "research",
+   "msg": "topic: Medicinal leech -> Hirudin blood-thinner drugs"
+  },
+  {
+   "t": "2026-11-27T17:17:03+01:00",
+   "stage": null,
+   "msg": "2026-11-27-medicinal-hirudin-blood-thinner-drugs-write: REJECT Only Wikipedia could be opened. The PubMed lead, the MacEwan PDF, Nature, PMC, ScienceD…"
+  },
+  {
+   "t": "2026-11-27T17:17:04+01:00",
+   "stage": "review",
+   "msg": "topic rejected: Only Wikipedia could be opened; PubMed, MacEwan, Nature, PMC, ScienceDirect and the Hirudotherapy Society pages were all blocked or un…"
+  },
+  {
+   "t": "2026-11-27T17:17:04+01:00",
+   "stage": "research",
+   "msg": "trying the next topic"
+  },
+  {
+   "t": "2026-11-27T17:17:04+01:00",
+   "stage": "research",
+   "msg": "topic: Cuttlefish -> Camouflaging optoelectronic skin"
+  },
+  {
+   "t": "2026-11-27T17:18:40+01:00",
+   "stage": "research",
+   "msg": "research notes written, 3 links"
+  },
+  {
+   "t": "2026-11-27T17:18:48+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cuttlefish-camouflaging-optoelectronic-skin-write: OK Engineers Copied Cuttlefish Skin Pixel by Pixel (105 s)"
+  },
+  {
+   "t": "2026-11-27T17:19:27+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cuttlefish-camouflaging-optoelectronic-skin-review1: FIX 76 (39 s)"
+  },
+  {
+   "t": "2026-11-27T17:19:27+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 76: Core is supported: 16 by 16 grid (NatGeo, verbatim), photodetector -> diode -> black dye turning transparent over white silver (IEE…"
+  },
+  {
+   "t": "2026-11-27T17:19:44+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cuttlefish-camouflaging-optoelectronic-skin-fix: OK (17 s)"
+  },
+  {
+   "t": "2026-11-27T17:20:26+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cuttlefish-camouflaging-optoelectronic-skin-review2: FIX 84 (41 s)"
+  },
+  {
+   "t": "2026-11-27T17:20:26+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 84: Hook says '256 tiny heaters'. No source says 256 or 'heaters'. It is arithmetic from NatGeo's '16 by 16 grid of squares' and assume…"
+  },
+  {
+   "t": "2026-11-27T17:20:36+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cuttlefish-camouflaging-optoelectronic-skin-fix: OK (11 s)"
+  },
+  {
+   "t": "2026-11-27T17:21:17+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cuttlefish-camouflaging-optoelectronic-skin-review3: PASS 82 (40 s)"
+  },
+  {
+   "t": "2026-11-27T17:21:17+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 82: Mocker beat: 'A flat sheet of silicon and dye was supposed to do the same' states an old-way expectation that no source describes;…"
+  },
+  {
+   "t": "2026-11-27T17:23:27+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cuttlefish-camouflaging-optoelectronic-skin: 53.76 s rendered in 108 s"
+  },
+  {
+   "t": "2026-11-27T17:25:31+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cuttlefish-camouflaging-optoelectronic-skin-p1: 42.41 s rendered in 91 s"
+  },
+  {
+   "t": "2026-11-27T17:26:25+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cuttlefish-camouflaging-optoelectronic-skin-p2: 14.81 s rendered in 31 s"
+  },
+  {
+   "t": "2026-11-27T17:26:34+01:00",
+   "stage": "publish",
+   "msg": "set ready: Engineers Copied Cuttlefish Skin Pixel by Pixel = full video + 2 parts (42.41 s, 14.81 s)"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-27T14:28:52+01:00",
+ "generated": "2026-11-27T15:43:05+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "re-rendering waiting videos with the new look",
+  "note": "34 of 90 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
@@ -426,129 +426,129 @@
  "topics_left": 35,
  "log": [
   {
-   "t": "2026-11-27T13:59:58+01:00",
+   "t": "2026-11-27T15:08:26+01:00",
    "stage": "animate",
-   "msg": "new look: The Cicada Wing That Shreds Bacteria Without Chemicals re-rendered in 137 s (75 left)"
+   "msg": "new look: Airbus Flew Two Jets Nose to Tail Like Geese to Save Fuel (Part 3/3) re-rendered in 58 s (24 left)"
   },
   {
-   "t": "2026-11-27T14:00:48+01:00",
+   "t": "2026-11-27T15:11:33+01:00",
    "stage": "animate",
-   "msg": "new look: The Cicada Wing That Shreds Bacteria Without Chemicals (Part 1/3) re-rendered in 49 s (74 left)"
+   "msg": "new look: The Bird Wingtip That Became the Bent Tip on Airliners re-rendered in 187 s (23 left)"
   },
   {
-   "t": "2026-11-27T14:01:49+01:00",
+   "t": "2026-11-27T15:12:40+01:00",
    "stage": "animate",
-   "msg": "new look: The Cicada Wing That Shreds Bacteria Without Chemicals (Part 2/3) re-rendered in 61 s (73 left)"
+   "msg": "new look: The Bird Wingtip That Became the Bent Tip on Airliners (Part 1/3) re-rendered in 67 s (22 left)"
   },
   {
-   "t": "2026-11-27T14:02:30+01:00",
+   "t": "2026-11-27T15:13:49+01:00",
    "stage": "animate",
-   "msg": "new look: The Cicada Wing That Shreds Bacteria Without Chemicals (Part 3/3) re-rendered in 42 s (72 left)"
+   "msg": "new look: The Bird Wingtip That Became the Bent Tip on Airliners (Part 2/3) re-rendered in 69 s (21 left)"
   },
   {
-   "t": "2026-11-27T14:05:02+01:00",
+   "t": "2026-11-27T15:14:42+01:00",
    "stage": "animate",
-   "msg": "new look: The Gecko Pad That Holds 700 Pounds on Glass re-rendered in 152 s (71 left)"
+   "msg": "new look: The Bird Wingtip That Became the Bent Tip on Airliners (Part 3/3) re-rendered in 53 s (20 left)"
   },
   {
-   "t": "2026-11-27T14:06:11+01:00",
+   "t": "2026-11-27T15:16:51+01:00",
    "stage": "animate",
-   "msg": "new look: The Gecko Pad That Holds 700 Pounds on Glass (Part 1/3) re-rendered in 69 s (70 left)"
+   "msg": "new look: The Hummingbird Wing That Out-Hovers Helicopter Blades re-rendered in 129 s (19 left)"
   },
   {
-   "t": "2026-11-27T14:07:00+01:00",
+   "t": "2026-11-27T15:18:10+01:00",
    "stage": "animate",
-   "msg": "new look: The Gecko Pad That Holds 700 Pounds on Glass (Part 2/3) re-rendered in 48 s (69 left)"
+   "msg": "new look: The Hummingbird Wing That Out-Hovers Helicopter Blades (Part 1/3) re-rendered in 79 s (18 left)"
   },
   {
-   "t": "2026-11-27T14:07:49+01:00",
+   "t": "2026-11-27T15:19:01+01:00",
    "stage": "animate",
-   "msg": "new look: The Gecko Pad That Holds 700 Pounds on Glass (Part 3/3) re-rendered in 50 s (68 left)"
+   "msg": "new look: The Hummingbird Wing That Out-Hovers Helicopter Blades (Part 2/3) re-rendered in 50 s (17 left)"
   },
   {
-   "t": "2026-11-27T14:10:50+01:00",
+   "t": "2026-11-27T15:19:52+01:00",
    "stage": "animate",
-   "msg": "new look: The Shell Animal That Ran Ballast Tanks First re-rendered in 181 s (67 left)"
+   "msg": "new look: The Hummingbird Wing That Out-Hovers Helicopter Blades (Part 3/3) re-rendered in 51 s (16 left)"
   },
   {
-   "t": "2026-11-27T14:11:49+01:00",
+   "t": "2026-11-27T15:22:41+01:00",
    "stage": "animate",
-   "msg": "new look: The Shell Animal That Ran Ballast Tanks First (Part 1/3) re-rendered in 59 s (66 left)"
+   "msg": "new look: Mercedes Built a Car by Copying a Fish Shaped Like a Box re-rendered in 169 s (15 left)"
   },
   {
-   "t": "2026-11-27T14:12:47+01:00",
+   "t": "2026-11-27T15:23:48+01:00",
    "stage": "animate",
-   "msg": "new look: The Shell Animal That Ran Ballast Tanks First (Part 2/3) re-rendered in 58 s (65 left)"
+   "msg": "new look: Mercedes Built a Car by Copying a Fish Shaped Like a Box (Part 1/3) re-rendered in 67 s (14 left)"
   },
   {
-   "t": "2026-11-27T14:13:46+01:00",
+   "t": "2026-11-27T15:24:43+01:00",
    "stage": "animate",
-   "msg": "new look: The Shell Animal That Ran Ballast Tanks First (Part 3/3) re-rendered in 59 s (64 left)"
+   "msg": "new look: Mercedes Built a Car by Copying a Fish Shaped Like a Box (Part 2/3) re-rendered in 55 s (13 left)"
   },
   {
-   "t": "2026-11-27T14:15:53+01:00",
+   "t": "2026-11-27T15:25:46+01:00",
    "stage": "animate",
-   "msg": "new look: The Paint That Cleans Itself, Copied From a Lotus Leaf re-rendered in 126 s (63 left)"
+   "msg": "new look: Mercedes Built a Car by Copying a Fish Shaped Like a Box (Part 3/3) re-rendered in 62 s (12 left)"
   },
   {
-   "t": "2026-11-27T14:16:45+01:00",
+   "t": "2026-11-27T15:28:37+01:00",
    "stage": "animate",
-   "msg": "new look: The Paint That Cleans Itself, Copied From a Lotus Leaf (Part 1/3) re-rendered in 52 s (62 left)"
+   "msg": "new look: The Bat Trick Behind a Cane That Warns Blind Walkers re-rendered in 172 s (11 left)"
   },
   {
-   "t": "2026-11-27T14:17:35+01:00",
+   "t": "2026-11-27T15:29:41+01:00",
    "stage": "animate",
-   "msg": "new look: The Paint That Cleans Itself, Copied From a Lotus Leaf (Part 2/3) re-rendered in 50 s (61 left)"
+   "msg": "new look: The Bat Trick Behind a Cane That Warns Blind Walkers (Part 1/3) re-rendered in 63 s (10 left)"
   },
   {
-   "t": "2026-11-27T14:18:31+01:00",
+   "t": "2026-11-27T15:30:35+01:00",
    "stage": "animate",
-   "msg": "new look: The Paint That Cleans Itself, Copied From a Lotus Leaf (Part 3/3) re-rendered in 56 s (60 left)"
+   "msg": "new look: The Bat Trick Behind a Cane That Warns Blind Walkers (Part 2/3) re-rendered in 54 s (9 left)"
   },
   {
-   "t": "2026-11-27T14:20:53+01:00",
+   "t": "2026-11-27T15:31:23+01:00",
    "stage": "animate",
-   "msg": "new look: The Desert Beetle That Drinks Fog Off Its Own Back re-rendered in 142 s (59 left)"
+   "msg": "new look: The Bat Trick Behind a Cane That Warns Blind Walkers (Part 3/3) re-rendered in 48 s (8 left)"
   },
   {
-   "t": "2026-11-27T14:21:37+01:00",
+   "t": "2026-11-27T15:34:11+01:00",
    "stage": "animate",
-   "msg": "new look: The Desert Beetle That Drinks Fog Off Its Own Back (Part 1/3) re-rendered in 43 s (58 left)"
+   "msg": "new look: The Mussel Glue That Replaced Toxic Plywood Adhesive re-rendered in 168 s (7 left)"
   },
   {
-   "t": "2026-11-27T14:22:28+01:00",
+   "t": "2026-11-27T15:35:15+01:00",
    "stage": "animate",
-   "msg": "new look: The Desert Beetle That Drinks Fog Off Its Own Back (Part 2/3) re-rendered in 51 s (57 left)"
+   "msg": "new look: The Mussel Glue That Replaced Toxic Plywood Adhesive (Part 1/3) re-rendered in 64 s (6 left)"
   },
   {
-   "t": "2026-11-27T14:23:24+01:00",
+   "t": "2026-11-27T15:36:07+01:00",
    "stage": "animate",
-   "msg": "new look: The Desert Beetle That Drinks Fog Off Its Own Back (Part 3/3) re-rendered in 56 s (56 left)"
+   "msg": "new look: The Mussel Glue That Replaced Toxic Plywood Adhesive (Part 2/3) re-rendered in 52 s (5 left)"
   },
   {
-   "t": "2026-11-27T14:25:53+01:00",
+   "t": "2026-11-27T15:37:11+01:00",
    "stage": "animate",
-   "msg": "new look: The Cat in the Fog That Gave Britain Its Road Studs re-rendered in 149 s (55 left)"
+   "msg": "new look: The Mussel Glue That Replaced Toxic Plywood Adhesive (Part 3/3) re-rendered in 63 s (4 left)"
   },
   {
-   "t": "2026-11-27T14:26:49+01:00",
+   "t": "2026-11-27T15:40:17+01:00",
    "stage": "animate",
-   "msg": "new look: The Cat in the Fog That Gave Britain Its Road Studs (Part 1/3) re-rendered in 56 s (54 left)"
+   "msg": "new look: The US Strapped Bombs to Bats and Burned Its Own Airfield re-rendered in 186 s (3 left)"
   },
   {
-   "t": "2026-11-27T14:27:58+01:00",
+   "t": "2026-11-27T15:41:13+01:00",
    "stage": "animate",
-   "msg": "new look: The Cat in the Fog That Gave Britain Its Road Studs (Part 2/3) re-rendered in 69 s (53 left)"
+   "msg": "new look: The US Strapped Bombs to Bats and Burned Its Own Airfield (Part 1/3) re-rendered in 56 s (2 left)"
   },
   {
-   "t": "2026-11-27T14:28:48+01:00",
+   "t": "2026-11-27T15:42:13+01:00",
    "stage": "animate",
-   "msg": "new look: The Cat in the Fog That Gave Britain Its Road Studs (Part 3/3) re-rendered in 50 s (52 left)"
+   "msg": "new look: The US Strapped Bombs to Bats and Burned Its Own Airfield (Part 2/3) re-rendered in 60 s (1 left)"
   },
   {
-   "t": "2026-11-27T14:28:51+01:00",
-   "stage": null,
-   "msg": "re-render failed: re-render failed: Bundling 80% Bundling 85% Bundling 90% Bundling 95% Bundling 100% Copying public dir 25.7 MB Copying public dir 40…"
+   "t": "2026-11-27T15:43:04+01:00",
+   "stage": "animate",
+   "msg": "new look: The US Strapped Bombs to Bats and Burned Its Own Airfield (Part 3/3) re-rendered in 51 s (0 left)"
   }
  ]
 }

@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-27T16:41:22+01:00",
+ "generated": "2026-11-27T16:58:26+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
-  "state": "backing off",
-  "note": "writer wrote no story.json (Failed to authenticate: OAuth session expired and could not be refreshed)",
+  "state": "making",
+  "note": "37 of 90 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0288",
-  "title": "A camera copies a bug's eye with 180 tiny lenses.",
-  "series": "copied",
-  "state": "failed",
-  "stage": "research",
-  "started": "2026-11-27T16:01:28+01:00",
-  "ended": "2026-11-27T16:01:31+01:00",
+  "id": "run-0294",
+  "title": "The CIA Wired a Cat to Spy, and a Taxi Ended It (Part 2/2)",
+  "series": "said-no",
+  "state": "done",
+  "stage": "checks",
+  "started": "2026-11-27T16:57:10+01:00",
+  "ended": "2026-11-27T16:58:25+01:00",
   "stages": {
    "research": {
-    "state": "fail"
+    "state": "wait"
    },
    "write": {
     "state": "wait"
@@ -26,13 +26,13 @@
     "state": "wait"
    },
    "voice": {
-    "state": "wait"
+    "state": "done"
    },
    "animate": {
-    "state": "wait"
+    "state": "done"
    },
    "checks": {
-    "state": "wait"
+    "state": "done"
    },
    "gate": {
     "state": "wait"
@@ -393,10 +393,10 @@
  ],
  "published": [],
  "overview": {
-  "built": 215,
+  "built": 221,
   "published": 0,
   "rejected": 20,
-  "waiting_you": 213,
+  "waiting_you": 219,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -416,139 +416,139 @@
   "hit_rate": null,
   "avg_pct": null,
   "subs_per_1k": null,
-  "topics": 35
+  "topics": 33
  },
  "slots": [
   "11:00",
   "15:00",
   "19:00"
  ],
- "topics_left": 35,
+ "topics_left": 33,
  "log": [
-  {
-   "t": "2026-11-27T15:29:41+01:00",
-   "stage": "animate",
-   "msg": "new look: The Bat Trick Behind a Cane That Warns Blind Walkers (Part 1/3) re-rendered in 63 s (10 left)"
-  },
-  {
-   "t": "2026-11-27T15:30:35+01:00",
-   "stage": "animate",
-   "msg": "new look: The Bat Trick Behind a Cane That Warns Blind Walkers (Part 2/3) re-rendered in 54 s (9 left)"
-  },
-  {
-   "t": "2026-11-27T15:31:23+01:00",
-   "stage": "animate",
-   "msg": "new look: The Bat Trick Behind a Cane That Warns Blind Walkers (Part 3/3) re-rendered in 48 s (8 left)"
-  },
-  {
-   "t": "2026-11-27T15:34:11+01:00",
-   "stage": "animate",
-   "msg": "new look: The Mussel Glue That Replaced Toxic Plywood Adhesive re-rendered in 168 s (7 left)"
-  },
-  {
-   "t": "2026-11-27T15:35:15+01:00",
-   "stage": "animate",
-   "msg": "new look: The Mussel Glue That Replaced Toxic Plywood Adhesive (Part 1/3) re-rendered in 64 s (6 left)"
-  },
-  {
-   "t": "2026-11-27T15:36:07+01:00",
-   "stage": "animate",
-   "msg": "new look: The Mussel Glue That Replaced Toxic Plywood Adhesive (Part 2/3) re-rendered in 52 s (5 left)"
-  },
-  {
-   "t": "2026-11-27T15:37:11+01:00",
-   "stage": "animate",
-   "msg": "new look: The Mussel Glue That Replaced Toxic Plywood Adhesive (Part 3/3) re-rendered in 63 s (4 left)"
-  },
-  {
-   "t": "2026-11-27T15:40:17+01:00",
-   "stage": "animate",
-   "msg": "new look: The US Strapped Bombs to Bats and Burned Its Own Airfield re-rendered in 186 s (3 left)"
-  },
-  {
-   "t": "2026-11-27T15:41:13+01:00",
-   "stage": "animate",
-   "msg": "new look: The US Strapped Bombs to Bats and Burned Its Own Airfield (Part 1/3) re-rendered in 56 s (2 left)"
-  },
-  {
-   "t": "2026-11-27T15:42:13+01:00",
-   "stage": "animate",
-   "msg": "new look: The US Strapped Bombs to Bats and Burned Its Own Airfield (Part 2/3) re-rendered in 60 s (1 left)"
-  },
-  {
-   "t": "2026-11-27T15:43:04+01:00",
-   "stage": "animate",
-   "msg": "new look: The US Strapped Bombs to Bats and Burned Its Own Airfield (Part 3/3) re-rendered in 51 s (0 left)"
-  },
-  {
-   "t": "2026-11-27T15:43:07+01:00",
-   "stage": "research",
-   "msg": "topic: Insect (ant/beetle compound eye) -> Hemispherical digital camera"
-  },
-  {
-   "t": "2026-11-27T15:43:11+01:00",
-   "stage": null,
-   "msg": "2026-11-27-insect-hemispherical-digital-camera-write: Failed to authenticate: OAuth session expired and could not be refreshed (4 s)"
-  },
-  {
-   "t": "2026-11-27T15:43:11+01:00",
-   "stage": null,
-   "msg": "producer: run failed (writer wrote no story.json (Failed to authenticate: OAuth session expired and could not be refreshed)); retrying in 5 min"
-  },
-  {
-   "t": "2026-11-27T15:50:59+01:00",
-   "stage": "animate",
-   "msg": "new look: Wasps Made Wood Paper Before People Did re-rendered in 168 s (0 left)"
-  },
-  {
-   "t": "2026-11-27T15:50:59+01:00",
-   "stage": "research",
-   "msg": "topic: Insect (ant/beetle compound eye) -> Hemispherical digital camera"
-  },
-  {
-   "t": "2026-11-27T15:51:01+01:00",
-   "stage": null,
-   "msg": "2026-11-27-insect-hemispherical-digital-camera-write: Failed to authenticate: OAuth session expired and could not be refreshed (2 s)"
-  },
-  {
-   "t": "2026-11-27T15:51:01+01:00",
-   "stage": null,
-   "msg": "producer: run failed (writer wrote no story.json (Failed to authenticate: OAuth session expired and could not be refreshed)); retrying in 5 min"
-  },
-  {
-   "t": "2026-11-27T15:56:24+01:00",
-   "stage": "research",
-   "msg": "topic: Insect (ant/beetle compound eye) -> Hemispherical digital camera"
-  },
-  {
-   "t": "2026-11-27T15:56:28+01:00",
-   "stage": null,
-   "msg": "2026-11-27-insect-hemispherical-digital-camera-write: Failed to authenticate: OAuth session expired and could not be refreshed (4 s)"
-  },
-  {
-   "t": "2026-11-27T15:56:28+01:00",
-   "stage": null,
-   "msg": "producer: run failed (writer wrote no story.json (Failed to authenticate: OAuth session expired and could not be refreshed)); retrying in 5 min"
-  },
-  {
-   "t": "2026-11-27T16:01:28+01:00",
-   "stage": "research",
-   "msg": "topic: Insect (ant/beetle compound eye) -> Hemispherical digital camera"
-  },
-  {
-   "t": "2026-11-27T16:01:31+01:00",
-   "stage": null,
-   "msg": "2026-11-27-insect-hemispherical-digital-camera-write: Failed to authenticate: OAuth session expired and could not be refreshed (2 s)"
-  },
-  {
-   "t": "2026-11-27T16:01:31+01:00",
-   "stage": null,
-   "msg": "producer: run failed (writer wrote no story.json (Failed to authenticate: OAuth session expired and could not be refreshed)); retrying in 60 min"
-  },
   {
    "t": "2026-11-27T16:41:21+01:00",
    "stage": null,
    "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
+  },
+  {
+   "t": "2026-11-27T16:41:25+01:00",
+   "stage": "research",
+   "msg": "topic: Insect (ant/beetle compound eye) -> Hemispherical digital camera"
+  },
+  {
+   "t": "2026-11-27T16:42:40+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-27T16:42:48+01:00",
+   "stage": null,
+   "msg": "2026-11-27-insect-hemispherical-digital-camera-write: OK Engineers Inflated a Camera Like a Balloon to Copy a Bug Eye (83 s)"
+  },
+  {
+   "t": "2026-11-27T16:43:31+01:00",
+   "stage": null,
+   "msg": "2026-11-27-insect-hemispherical-digital-camera-review1: FIX 78 (43 s)"
+  },
+  {
+   "t": "2026-11-27T16:43:31+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 78: Yousee beat: 'a dome of many tiny eyes' and 'together they cover the whole view at once' are not in either source. Sources say arra…"
+  },
+  {
+   "t": "2026-11-27T16:43:40+01:00",
+   "stage": null,
+   "msg": "2026-11-27-insect-hemispherical-digital-camera-fix: OK (9 s)"
+  },
+  {
+   "t": "2026-11-27T16:44:15+01:00",
+   "stage": null,
+   "msg": "2026-11-27-insect-hemispherical-digital-camera-review2: PASS 88 (36 s)"
+  },
+  {
+   "t": "2026-11-27T16:44:15+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: Northwestern's own subtitle/lede says 'nearly 200 tiny lenses' while its body says 180 microlenses; 180 is the number in the body …"
+  },
+  {
+   "t": "2026-11-27T16:47:01+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-insect-hemispherical-digital-camera: 64.19 s rendered in 126 s"
+  },
+  {
+   "t": "2026-11-27T16:48:51+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-insect-hemispherical-digital-camera-p1: 45.29 s rendered in 76 s"
+  },
+  {
+   "t": "2026-11-27T16:50:00+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-insect-hemispherical-digital-camera-p2: 22.36 s rendered in 43 s"
+  },
+  {
+   "t": "2026-11-27T16:50:09+01:00",
+   "stage": "publish",
+   "msg": "set ready: Engineers Inflated a Camera Like a Balloon to Copy a Bug Eye = full video + 2 parts (45.29 s, 22.36 s)"
+  },
+  {
+   "t": "2026-11-27T16:50:10+01:00",
+   "stage": "publish",
+   "msg": "producer: Engineers Inflated a Camera Like a Balloon to Copy a Bug Eye -> waiting 2026-12-09 15:00"
+  },
+  {
+   "t": "2026-11-27T16:50:11+01:00",
+   "stage": "research",
+   "msg": "topic: Cat -> CIA Acoustic Kitty spy cat"
+  },
+  {
+   "t": "2026-11-27T16:51:50+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-27T16:51:59+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cat-cia-acoustic-kitty-spy-cat-write: OK The CIA Wired a Cat to Spy, and a Taxi Ended It (109 s)"
+  },
+  {
+   "t": "2026-11-27T16:51:59+01:00",
+   "stage": "write",
+   "msg": "rules: 1 problem(s): script is 214 words (140-210)"
+  },
+  {
+   "t": "2026-11-27T16:52:16+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cat-cia-acoustic-kitty-spy-cat-rules1: OK (17 s)"
+  },
+  {
+   "t": "2026-11-27T16:52:57+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cat-cia-acoustic-kitty-spy-cat-review1: PASS 88 (41 s)"
+  },
+  {
+   "t": "2026-11-27T16:52:57+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: Payoff states the taxi death as flat fact; both sources only give it secondhand (Anthes via History, Marchetti memoir via UNREDACT…"
+  },
+  {
+   "t": "2026-11-27T16:55:18+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cat-cia-acoustic-kitty-spy-cat: 60.86 s rendered in 118 s"
+  },
+  {
+   "t": "2026-11-27T16:56:59+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cat-cia-acoustic-kitty-spy-cat-p1: 41.69 s rendered in 70 s"
+  },
+  {
+   "t": "2026-11-27T16:58:14+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cat-cia-acoustic-kitty-spy-cat-p2: 22.61 s rendered in 49 s"
+  },
+  {
+   "t": "2026-11-27T16:58:25+01:00",
+   "stage": "publish",
+   "msg": "set ready: The CIA Wired a Cat to Spy, and a Taxi Ended It = full video + 2 parts (41.69 s, 22.61 s)"
   }
  ]
 }

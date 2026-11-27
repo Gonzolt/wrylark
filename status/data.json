@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-27T19:08:25+01:00",
+ "generated": "2026-11-27T19:25:10+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "81 of 90 slots filled",
+  "note": "87 of 90 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0346",
-  "title": "Researchers Borrowed Slug Slime to Seal a Pig Heart (Part 2/2)",
+  "id": "run-0352",
+  "title": "The Octopus Sucker That Became a Glue-Free Wet Patch (Part 2/2)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T19:07:20+01:00",
-  "ended": "2026-11-27T19:08:24+01:00",
+  "started": "2026-11-27T19:24:04+01:00",
+  "ended": "2026-11-27T19:25:09+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -393,10 +393,10 @@
  ],
  "published": [],
  "overview": {
-  "built": 267,
+  "built": 273,
   "published": 0,
   "rejected": 26,
-  "waiting_you": 265,
+  "waiting_you": 271,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -416,139 +416,139 @@
   "hit_rate": null,
   "avg_pct": null,
   "subs_per_1k": null,
-  "topics": 31
+  "topics": 29
  },
  "slots": [
   "11:00",
   "15:00",
   "19:00"
  ],
- "topics_left": 31,
+ "topics_left": 29,
  "log": [
   {
-   "t": "2026-11-27T18:50:45+01:00",
-   "stage": "research",
-   "msg": "topic: Soviet anti-tank dog -> Dog-delivered anti-tank mine"
+   "t": "2026-11-27T19:10:21+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-rules1: OK (9 s)"
   },
   {
-   "t": "2026-11-27T18:51:45+01:00",
+   "t": "2026-11-27T19:10:58+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-review1: FIX 78 (38 s)"
+  },
+  {
+   "t": "2026-11-27T19:10:58+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 78: Setup says the six species run \"from bobcat to lion\"; both sources list domestic cat, bobcat, cougar, snow leopard, tiger, lion, so…"
+  },
+  {
+   "t": "2026-11-27T19:11:08+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-fix: OK (10 s)"
+  },
+  {
+   "t": "2026-11-27T19:11:55+01:00",
+   "stage": null,
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-review2: PASS 89 (47 s)"
+  },
+  {
+   "t": "2026-11-27T19:11:55+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 89: Test 2 says 'peaked at up to 1 newton'; PNAS says peaks of 0.6-1 N during the first three trials (loose but not wrong)."
+  },
+  {
+   "t": "2026-11-27T19:14:01+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush: 57.73 s rendered in 103 s"
+  },
+  {
+   "t": "2026-11-27T19:15:53+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-p1: 42.58 s rendered in 81 s"
+  },
+  {
+   "t": "2026-11-27T19:16:55+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-p2: 18.6 s rendered in 36 s"
+  },
+  {
+   "t": "2026-11-27T19:17:02+01:00",
+   "stage": "publish",
+   "msg": "set ready: Engineers Copied a Cat Tongue to Build an Easy-Clean Hairbrush = full video + 2 parts (42.58 s, 18.6 s)"
+  },
+  {
+   "t": "2026-11-27T19:17:03+01:00",
+   "stage": "publish",
+   "msg": "producer: Engineers Copied a Cat Tongue to Build an Easy-Clean Hairbrush -> waiting 2026-12-26 11:00"
+  },
+  {
+   "t": "2026-11-27T19:17:04+01:00",
+   "stage": "research",
+   "msg": "topic: Octopus -> Suction adhesive patch that works underwater"
+  },
+  {
+   "t": "2026-11-27T19:17:58+01:00",
    "stage": "research",
    "msg": "research notes written, 2 links"
   },
   {
-   "t": "2026-11-27T18:51:52+01:00",
+   "t": "2026-11-27T19:18:06+01:00",
    "stage": null,
-   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-write: OK The Soviet Dogs Trained to Blow Up Tanks Ran to Their Own (67 s)"
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-write: OK The Octopus Sucker That Became a Glue-Free Wet Patch (62 s)"
   },
   {
-   "t": "2026-11-27T18:52:22+01:00",
-   "stage": null,
-   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-review1: PASS 92 (31 s)"
+   "t": "2026-11-27T19:18:06+01:00",
+   "stage": "write",
+   "msg": "rules: 1 problem(s): script is 227 words (140-210)"
   },
   {
-   "t": "2026-11-27T18:52:22+01:00",
+   "t": "2026-11-27T19:18:21+01:00",
+   "stage": null,
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-rules1: OK (14 s)"
+  },
+  {
+   "t": "2026-11-27T19:18:52+01:00",
+   "stage": null,
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-review1: FIX 78 (32 s)"
+  },
+  {
+   "t": "2026-11-27T19:18:52+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 92: Mocker beat 'Tanks were stopped by guns' is conventional wisdom not stated in a source (acceptable as the old way)."
+   "msg": "fact-check FIX 78: Hook says 'thousands of tiny octopus suckers' and the first test beat says 'thousands of replica cups'. No source gives a count of …"
   },
   {
-   "t": "2026-11-27T18:54:57+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine: 54.63 s rendered in 120 s"
-  },
-  {
-   "t": "2026-11-27T18:56:38+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-p1: 39.79 s rendered in 71 s"
-  },
-  {
-   "t": "2026-11-27T18:57:37+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-p2: 18.3 s rendered in 37 s"
-  },
-  {
-   "t": "2026-11-27T18:57:47+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Soviet Dogs Trained to Blow Up Tanks Ran to Their Own = full video + 2 parts (39.79 s, 18.3 s)"
-  },
-  {
-   "t": "2026-11-27T18:57:51+01:00",
-   "stage": "publish",
-   "msg": "producer: The Soviet Dogs Trained to Blow Up Tanks Ran to Their Own -> waiting 2026-12-24 11:00"
-  },
-  {
-   "t": "2026-11-27T18:57:51+01:00",
-   "stage": "research",
-   "msg": "backlog low (13 ideas), refilling"
-  },
-  {
-   "t": "2026-11-27T19:00:14+01:00",
+   "t": "2026-11-27T19:19:05+01:00",
    "stage": null,
-   "msg": "backlog-refill: OK 20 (143 s)"
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-fix: OK (12 s)"
   },
   {
-   "t": "2026-11-27T19:00:14+01:00",
-   "stage": "research",
-   "msg": "backlog +19 topics"
-  },
-  {
-   "t": "2026-11-27T19:00:14+01:00",
-   "stage": "research",
-   "msg": "topic: Slug (Arion subfuscus) -> Slug-slime surgical glue that seals a beating heart"
-  },
-  {
-   "t": "2026-11-27T19:01:27+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-27T19:01:35+01:00",
+   "t": "2026-11-27T19:19:35+01:00",
    "stage": null,
-   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati-write: OK Surgeons Borrowed Slug Slime to Patch a Beating Heart (81 s)"
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-review2: PASS 84 (30 s)"
   },
   {
-   "t": "2026-11-27T19:02:11+01:00",
-   "stage": null,
-   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati-review1: FIX 68 (36 s)"
-  },
-  {
-   "t": "2026-11-27T19:02:11+01:00",
+   "t": "2026-11-27T19:19:35+01:00",
    "stage": "review",
-   "msg": "fact-check FIX 68: 'Beating' heart (title, description, hook, setup) is not in either listed source: Wyss says the pig heart was 'mechanically inflate…"
+   "msg": "fact-check PASS 84: Hook is 11 words but reads as a plain statement, not absurd."
   },
   {
-   "t": "2026-11-27T19:02:32+01:00",
-   "stage": null,
-   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati-fix: OK (21 s)"
-  },
-  {
-   "t": "2026-11-27T19:03:06+01:00",
-   "stage": null,
-   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati-review2: PASS 86 (34 s)"
-  },
-  {
-   "t": "2026-11-27T19:03:06+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 86: Hook is exactly 14 words but reads as a plain statement, not absurd."
-  },
-  {
-   "t": "2026-11-27T19:05:17+01:00",
+   "t": "2026-11-27T19:22:03+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati: 55.94 s rendered in 110 s"
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw: 63.21 s rendered in 125 s"
   },
   {
-   "t": "2026-11-27T19:07:09+01:00",
+   "t": "2026-11-27T19:23:54+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati-p1: 40.41 s rendered in 82 s"
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-p1: 46.21 s rendered in 78 s"
   },
   {
-   "t": "2026-11-27T19:08:15+01:00",
+   "t": "2026-11-27T19:24:59+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati-p2: 18.97 s rendered in 41 s"
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-p2: 20.46 s rendered in 41 s"
   },
   {
-   "t": "2026-11-27T19:08:24+01:00",
+   "t": "2026-11-27T19:25:09+01:00",
    "stage": "publish",
-   "msg": "set ready: Researchers Borrowed Slug Slime to Seal a Pig Heart = full video + 2 parts (40.41 s, 18.97 s)"
+   "msg": "set ready: The Octopus Sucker That Became a Glue-Free Wet Patch = full video + 2 parts (46.21 s, 20.46 s)"
   }
  ]
 }

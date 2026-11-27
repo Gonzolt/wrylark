@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T11:00:24+01:00",
+ "generated": "2026-11-27T11:14:19+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -8,13 +8,13 @@
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0262",
-  "title": "The Porcupine Quill That Inspired a Better Surgical Staple (Part 3/3)",
+  "id": "run-0268",
+  "title": "The Burrs on a Dog That Became Velcro (Part 3/3)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T10:59:28+01:00",
-  "ended": "2026-11-27T11:00:23+01:00",
+  "started": "2026-11-27T11:13:18+01:00",
+  "ended": "2026-11-27T11:14:19+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -261,6 +261,58 @@
    "poster": "p/2026-11-20-porcupine-low-force-hard-to-remove-surgical-stap-p3.jpg"
   },
   {
+   "title": "The Burrs on a Dog That Became Velcro",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-12-02T19:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 76.93,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-21-burdock-velcro.jpg"
+  },
+  {
+   "title": "The Burrs on a Dog That Became Velcro (Part 1/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-12-03T11:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 23.68,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-21-burdock-velcro-p1.jpg"
+  },
+  {
+   "title": "The Burrs on a Dog That Became Velcro (Part 2/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-12-03T15:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 23.17,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-21-burdock-velcro-p2.jpg"
+  },
+  {
+   "title": "The Burrs on a Dog That Became Velcro (Part 3/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-12-03T19:00+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 20.37,
+   "url": null,
+   "note": "YouTube upload limit, next try 11:34",
+   "poster": "p/2026-11-21-burdock-velcro-p3.jpg"
+  },
+  {
    "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears",
    "series": "first",
    "status": "review",
@@ -285,19 +337,6 @@
    "url": null,
    "note": "a check failed; see the dashboard",
    "poster": "p/2026-11-20-cone-ziconotide-prialt-painkiller.jpg"
-  },
-  {
-   "title": "The Burrs on a Dog That Became Velcro",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 76.93,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-21-burdock-velcro.jpg"
   },
   {
    "title": "The Office Block Cooled by Copying a Termite Mound",
@@ -350,53 +389,14 @@
    "url": null,
    "note": "YouTube upload limit, next try 11:34",
    "poster": "p/2026-11-25-razor-roboclam-self-burying-anchor.jpg"
-  },
-  {
-   "title": "The Squid Teeth Plastic That Heals a Cut in One Second",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 79.83,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-squid-self-healing-protein-plastic.jpg"
-  },
-  {
-   "title": "Ants Were Farming 50 Million Years Before Humans",
-   "series": "first",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 70.38,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-fungus-growing-agriculture.jpg"
-  },
-  {
-   "title": "The Earwig Wing That Folds Like Origami",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": null,
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 67.78,
-   "url": null,
-   "note": "YouTube upload limit, next try 11:34",
-   "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356.jpg"
   }
  ],
  "published": [],
  "overview": {
-  "built": 200,
+  "built": 203,
   "published": 0,
   "rejected": 20,
-  "waiting_you": 198,
+  "waiting_you": 201,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -425,41 +425,6 @@
  ],
  "topics_left": 35,
  "log": [
-  {
-   "t": "2026-11-27T10:33:15+01:00",
-   "stage": "animate",
-   "msg": "new look: A birdwatcher fixed Japan's loudest bullet train with a beak (Part 7/8) re-rendered in 42 s (133 left)"
-  },
-  {
-   "t": "2026-11-27T10:34:24+01:00",
-   "stage": "animate",
-   "msg": "new look: A birdwatcher fixed Japan's loudest bullet train with a beak (Part 8/8) re-rendered in 69 s (132 left)"
-  },
-  {
-   "t": "2026-11-27T10:37:25+01:00",
-   "stage": null,
-   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
-  },
-  {
-   "t": "2026-11-27T10:40:04+01:00",
-   "stage": "animate",
-   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy: 81.43 s rendered in 151 s"
-  },
-  {
-   "t": "2026-11-27T10:40:11+01:00",
-   "stage": "checks",
-   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy: check failed: length (81.4 s)"
-  },
-  {
-   "t": "2026-11-27T10:41:19+01:00",
-   "stage": "animate",
-   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy-p1: 27.22 s rendered in 49 s"
-  },
-  {
-   "t": "2026-11-27T10:42:20+01:00",
-   "stage": "animate",
-   "msg": "2026-11-17-bats-sonar-millions-of-years-before-the-navy-p2: 24.43 s rendered in 42 s"
-  },
   {
    "t": "2026-11-27T10:43:21+01:00",
    "stage": "animate",
@@ -549,6 +514,41 @@
    "t": "2026-11-27T11:00:23+01:00",
    "stage": "publish",
    "msg": "set ready: The Porcupine Quill That Inspired a Better Surgical Staple = full video + 3 parts (20.31 s, 21.06 s, 20.57 s)"
+  },
+  {
+   "t": "2026-11-27T11:02:46+01:00",
+   "stage": "animate",
+   "msg": "2026-11-21-burdock-velcro: 76.93 s rendered in 135 s"
+  },
+  {
+   "t": "2026-11-27T11:03:07+01:00",
+   "stage": null,
+   "msg": "producer: run failed (render failed: npm notice run cfn-engine@1.0.0 npx npm notice run remotion render src/index.ts Short …); retrying in 5 min"
+  },
+  {
+   "t": "2026-11-27T11:11:06+01:00",
+   "stage": "animate",
+   "msg": "2026-11-21-burdock-velcro: 76.93 s rendered in 175 s"
+  },
+  {
+   "t": "2026-11-27T11:12:14+01:00",
+   "stage": "animate",
+   "msg": "2026-11-21-burdock-velcro-p1: 23.68 s rendered in 44 s"
+  },
+  {
+   "t": "2026-11-27T11:13:14+01:00",
+   "stage": "animate",
+   "msg": "2026-11-21-burdock-velcro-p2: 23.17 s rendered in 41 s"
+  },
+  {
+   "t": "2026-11-27T11:14:15+01:00",
+   "stage": "animate",
+   "msg": "2026-11-21-burdock-velcro-p3: 20.37 s rendered in 43 s"
+  },
+  {
+   "t": "2026-11-27T11:14:19+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Burrs on a Dog That Became Velcro = full video + 3 parts (23.68 s, 23.17 s, 20.37 s)"
   }
  ]
 }

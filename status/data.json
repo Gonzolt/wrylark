@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T01:24:05+01:00",
+ "generated": "2026-11-27T01:44:06+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -76,7 +76,7 @@
    "name": "Publish"
   }
  ],
- "upload_blocked_until": null,
+ "upload_blocked_until": "2026-11-27T03:34+01:00",
  "upcoming": [
   {
    "title": "The Slime Mold That Redesigned Tokyo's Rail Map",
@@ -283,7 +283,7 @@
    "avg_pct": null,
    "seconds": 23.32,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 03:34",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p1.jpg"
   },
   {
@@ -296,7 +296,7 @@
    "avg_pct": null,
    "seconds": 27.63,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 03:34",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p2.jpg"
   },
   {
@@ -309,7 +309,7 @@
    "avg_pct": null,
    "seconds": 23.42,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 03:34",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p3.jpg"
   },
   {
@@ -322,7 +322,7 @@
    "avg_pct": null,
    "seconds": 74.18,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 03:34",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
   },
   {
@@ -335,7 +335,7 @@
    "avg_pct": null,
    "seconds": 26.79,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 03:34",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p1.jpg"
   },
   {
@@ -348,7 +348,7 @@
    "avg_pct": null,
    "seconds": 26.56,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 03:34",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p2.jpg"
   },
   {
@@ -361,7 +361,7 @@
    "avg_pct": null,
    "seconds": 27.37,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 03:34",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p3.jpg"
   },
   {
@@ -374,7 +374,7 @@
    "avg_pct": null,
    "seconds": 76.67,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 03:34",
    "poster": "p/2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro.jpg"
   },
   {
@@ -387,7 +387,7 @@
    "avg_pct": null,
    "seconds": 21.27,
    "url": null,
-   "note": "uploads at the next chance",
+   "note": "YouTube upload limit, next try 03:34",
    "poster": "p/2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro-p1.jpg"
   }
  ],
@@ -494,11 +494,6 @@
  ],
  "topics_left": 35,
  "log": [
-  {
-   "t": "2026-11-27T00:54:13+01:00",
-   "stage": null,
-   "msg": "2026-11-27-blue-formaldehyde-free-plywood-adhesive-review1: PASS 90 (31 s)"
-  },
   {
    "t": "2026-11-27T00:54:13+01:00",
    "stage": "review",
@@ -618,6 +613,11 @@
    "t": "2026-11-27T01:14:05+01:00",
    "stage": "publish",
    "msg": "producer: The US Strapped Bombs to Bats and Burned Its Own Airfield -> waiting 2026-12-26 15:00"
+  },
+  {
+   "t": "2026-11-27T01:34:05+01:00",
+   "stage": "publish",
+   "msg": "YouTube's daily upload limit reached; uploads pause until Fri 03:34 (phone-verify the channel at youtube.com/verify to raise it)"
   }
  ]
 }

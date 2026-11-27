@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-27T01:02:57+01:00",
+ "generated": "2026-11-27T01:14:02+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "172 of 180 slots filled",
+  "note": "176 of 180 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0242",
-  "title": "The Mussel Glue That Replaced Toxic Plywood Adhesive (Part 3/3)",
-  "series": "copied",
+  "id": "run-0246",
+  "title": "The US Strapped Bombs to Bats and Burned Its Own Airfield (Part 3/3)",
+  "series": "said-no",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T01:01:25+01:00",
-  "ended": "2026-11-27T01:02:57+01:00",
+  "started": "2026-11-27T01:12:38+01:00",
+  "ended": "2026-11-27T01:14:02+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -459,10 +459,10 @@
   }
  ],
  "overview": {
-  "built": 184,
+  "built": 188,
   "published": 5,
   "rejected": 19,
-  "waiting_you": 178,
+  "waiting_you": 182,
   "total_views": 547,
   "median_views": 4.5,
   "by_series": {
@@ -482,7 +482,7 @@
   "hit_rate": 25,
   "avg_pct": null,
   "subs_per_1k": 0.0,
-  "topics": 36
+  "topics": 35
  },
  "slots": [
   "09:00",
@@ -492,88 +492,8 @@
   "17:00",
   "19:00"
  ],
- "topics_left": 36,
+ "topics_left": 35,
  "log": [
-  {
-   "t": "2026-11-27T00:43:06+01:00",
-   "stage": null,
-   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-fix: OK (13 s)"
-  },
-  {
-   "t": "2026-11-27T00:43:06+01:00",
-   "stage": "write",
-   "msg": "rules: 1 problem(s): script is 223 words (140-210)"
-  },
-  {
-   "t": "2026-11-27T00:43:22+01:00",
-   "stage": null,
-   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-rules1: OK (15 s)"
-  },
-  {
-   "t": "2026-11-27T00:43:51+01:00",
-   "stage": null,
-   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-review2: PASS 88 (30 s)"
-  },
-  {
-   "t": "2026-11-27T00:43:51+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 88: Setup beat ends with a grammatically broken fragment: 'Warn blind walkers before they hit something.'"
-  },
-  {
-   "t": "2026-11-27T00:44:13+01:00",
-   "stage": "voice",
-   "msg": "take ran 83.1 s, re-voicing at speed 1.23"
-  },
-  {
-   "t": "2026-11-27T00:47:31+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers: 81.11 s rendered in 171 s"
-  },
-  {
-   "t": "2026-11-27T00:49:17+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-p1: 34.56 s rendered in 74 s"
-  },
-  {
-   "t": "2026-11-27T00:50:52+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-p2: 30.76 s rendered in 68 s"
-  },
-  {
-   "t": "2026-11-27T00:52:14+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-bat-the-ultracane-for-blind-walkers-p3: 24.43 s rendered in 56 s"
-  },
-  {
-   "t": "2026-11-27T00:52:24+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Bat Trick Behind a Cane That Warns Blind Walkers = full video + 3 parts (34.56 s, 30.76 s, 24.43 s)"
-  },
-  {
-   "t": "2026-11-27T00:52:27+01:00",
-   "stage": "publish",
-   "msg": "producer: The Bat Trick Behind a Cane That Warns Blind Walkers -> waiting 2026-12-25 11:00"
-  },
-  {
-   "t": "2026-11-27T00:52:28+01:00",
-   "stage": "research",
-   "msg": "topic: blue mussel glue -> formaldehyde-free plywood adhesive"
-  },
-  {
-   "t": "2026-11-27T00:53:22+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-27T00:53:32+01:00",
-   "stage": null,
-   "msg": "2026-11-27-blue-formaldehyde-free-plywood-adhesive-write: OK The Mussel Glue That Replaced Toxic Plywood Adhesive (64 s)"
-  },
-  {
-   "t": "2026-11-27T00:53:32+01:00",
-   "stage": "write",
-   "msg": "rules: 2 problem(s): beat 5: callout longer than 14 characters"
-  },
   {
    "t": "2026-11-27T00:53:42+01:00",
    "stage": null,
@@ -618,6 +538,86 @@
    "t": "2026-11-27T01:02:57+01:00",
    "stage": "publish",
    "msg": "set ready: The Mussel Glue That Replaced Toxic Plywood Adhesive = full video + 3 parts (34.9 s, 27.61 s, 28.63 s)"
+  },
+  {
+   "t": "2026-11-27T01:03:00+01:00",
+   "stage": "publish",
+   "msg": "producer: The Mussel Glue That Replaced Toxic Plywood Adhesive -> waiting 2026-12-25 19:00"
+  },
+  {
+   "t": "2026-11-27T01:03:00+01:00",
+   "stage": "research",
+   "msg": "topic: Bat (Mexican free-tailed) -> Incendiary bat bomb (Project X-Ray)"
+  },
+  {
+   "t": "2026-11-27T01:03:45+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-27T01:03:55+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-incendiary-bat-bomb-project-x-ray-write: OK The US Strapped Bombs to Bats and Burned Its Own Airfield (55 s)"
+  },
+  {
+   "t": "2026-11-27T01:03:55+01:00",
+   "stage": "write",
+   "msg": "rules: 1 problem(s): script is 215 words (140-210)"
+  },
+  {
+   "t": "2026-11-27T01:04:05+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-incendiary-bat-bomb-project-x-ray-rules1: OK (9 s)"
+  },
+  {
+   "t": "2026-11-27T01:05:00+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-incendiary-bat-bomb-project-x-ray-review1: FIX 82 (55 s)"
+  },
+  {
+   "t": "2026-11-27T01:05:00+01:00",
+   "stage": "review",
+   "msg": "fact-check FIX 82: Mocker beat: 'Bombs were dropped by the ton from aircraft' is not stated in either source."
+  },
+  {
+   "t": "2026-11-27T01:05:11+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-incendiary-bat-bomb-project-x-ray-fix: OK (11 s)"
+  },
+  {
+   "t": "2026-11-27T01:05:48+01:00",
+   "stage": null,
+   "msg": "2026-11-27-bat-incendiary-bat-bomb-project-x-ray-review2: PASS 88 (37 s)"
+  },
+  {
+   "t": "2026-11-27T01:05:48+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 88: The open door at Carlsbad is stated as fact. Air & Space Forces says 'reportedly', and Army.mil does not mention it."
+  },
+  {
+   "t": "2026-11-27T01:09:11+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-bat-incendiary-bat-bomb-project-x-ray: 81.62 s rendered in 175 s"
+  },
+  {
+   "t": "2026-11-27T01:10:47+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-bat-incendiary-bat-bomb-project-x-ray-p1: 30.27 s rendered in 66 s"
+  },
+  {
+   "t": "2026-11-27T01:12:25+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-bat-incendiary-bat-bomb-project-x-ray-p2: 33.05 s rendered in 71 s"
+  },
+  {
+   "t": "2026-11-27T01:13:51+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-bat-incendiary-bat-bomb-project-x-ray-p3: 24.87 s rendered in 58 s"
+  },
+  {
+   "t": "2026-11-27T01:14:02+01:00",
+   "stage": "publish",
+   "msg": "set ready: The US Strapped Bombs to Bats and Burned Its Own Airfield = full video + 3 parts (30.27 s, 33.05 s, 24.87 s)"
   }
  ]
 }

@@ -1,38 +1,38 @@
 {
- "generated": "2026-11-27T18:41:17+01:00",
+ "generated": "2026-11-27T18:57:48+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "75 of 90 slots filled",
+  "note": "78 of 90 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0335",
-  "title": "Engineers copied the crinkled wing of a dragonfly.",
-  "series": "copied",
-  "state": "failed",
-  "stage": "research",
-  "started": "2026-11-27T18:39:01+01:00",
-  "ended": "2026-11-27T18:41:16+01:00",
+  "id": "run-0343",
+  "title": "The Soviet Dogs Trained to Blow Up Tanks Ran to Their Own (Part 2/2)",
+  "series": "said-no",
+  "state": "done",
+  "stage": "checks",
+  "started": "2026-11-27T18:56:47+01:00",
+  "ended": "2026-11-27T18:57:47+01:00",
   "stages": {
    "research": {
-    "state": "run"
+    "state": "wait"
    },
    "write": {
     "state": "wait"
    },
    "review": {
-    "state": "fail"
+    "state": "wait"
    },
    "voice": {
-    "state": "wait"
+    "state": "done"
    },
    "animate": {
-    "state": "wait"
+    "state": "done"
    },
    "checks": {
-    "state": "wait"
+    "state": "done"
    },
    "gate": {
     "state": "wait"
@@ -393,10 +393,10 @@
  ],
  "published": [],
  "overview": {
-  "built": 258,
+  "built": 264,
   "published": 0,
-  "rejected": 24,
-  "waiting_you": 256,
+  "rejected": 26,
+  "waiting_you": 262,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -416,139 +416,139 @@
   "hit_rate": null,
   "avg_pct": null,
   "subs_per_1k": null,
-  "topics": 17
+  "topics": 13
  },
  "slots": [
   "11:00",
   "15:00",
   "19:00"
  ],
- "topics_left": 17,
+ "topics_left": 13,
  "log": [
   {
-   "t": "2026-11-27T18:30:24+01:00",
-   "stage": "publish",
-   "msg": "producer: Researchers Fired Electronics at a Wall Like a Woodpecker -> waiting 2026-12-21 11:00"
-  },
-  {
-   "t": "2026-11-27T18:30:25+01:00",
-   "stage": "research",
-   "msg": "topic: elephant trunk -> Festo's bionic handling assistant"
-  },
-  {
-   "t": "2026-11-27T18:31:55+01:00",
-   "stage": "research",
-   "msg": "research notes written, 3 links"
-  },
-  {
-   "t": "2026-11-27T18:32:02+01:00",
-   "stage": null,
-   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-write: OK The Robot Arm Built by Copying an Elephant's Trunk (97 s)"
-  },
-  {
-   "t": "2026-11-27T18:32:37+01:00",
-   "stage": null,
-   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-review1: FIX 78 (35 s)"
-  },
-  {
-   "t": "2026-11-27T18:32:37+01:00",
+   "t": "2026-11-27T18:42:26+01:00",
    "stage": "review",
-   "msg": "fact-check FIX 78: Test 2 says chambers 'inflated one after another'; no source says sequential inflation (Machine Design says pressurizing one or two…"
+   "msg": "topic rejected: The pine cone clothing claim rests on one 2004 University of Bath press release (the only source with a number, spikes 1/200th of a mi…"
   },
   {
-   "t": "2026-11-27T18:32:53+01:00",
-   "stage": null,
-   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-fix: OK (16 s)"
-  },
-  {
-   "t": "2026-11-27T18:33:12+01:00",
-   "stage": null,
-   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-review2: The core story is supported: the elephant trunk, the Bionic Handling Assistant, and the…"
-  },
-  {
-   "t": "2026-11-27T18:33:12+01:00",
-   "stage": "review",
-   "msg": "fact-check FIX 68: Setup says 'Fraunhofer Institute in Stuttgart': the location is not in the research notes or the cited sources' recorded text."
-  },
-  {
-   "t": "2026-11-27T18:33:24+01:00",
-   "stage": null,
-   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-fix: OK (12 s)"
-  },
-  {
-   "t": "2026-11-27T18:34:08+01:00",
-   "stage": null,
-   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-review3: PASS 91 (45 s)"
-  },
-  {
-   "t": "2026-11-27T18:34:08+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 91: The 'You see' beat compares the trunk to itself (heavy loads, yet a peanut) rather than to an everyday human comparison."
-  },
-  {
-   "t": "2026-11-27T18:35:59+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant: 51.93 s rendered in 90 s"
-  },
-  {
-   "t": "2026-11-27T18:37:31+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-p1: 36.46 s rendered in 63 s"
-  },
-  {
-   "t": "2026-11-27T18:38:31+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-p2: 18.9 s rendered in 36 s"
-  },
-  {
-   "t": "2026-11-27T18:38:39+01:00",
-   "stage": "publish",
-   "msg": "set ready: The Robot Arm Built by Copying an Elephant's Trunk = full video + 2 parts (36.46 s, 18.9 s)"
-  },
-  {
-   "t": "2026-11-27T18:38:40+01:00",
-   "stage": "publish",
-   "msg": "producer: The Robot Arm Built by Copying an Elephant's Trunk -> waiting 2026-12-22 11:00"
-  },
-  {
-   "t": "2026-11-27T18:38:41+01:00",
-   "stage": "research",
-   "msg": "topic: penguin body -> the Shinkansen pantograph support"
-  },
-  {
-   "t": "2026-11-27T18:39:01+01:00",
-   "stage": null,
-   "msg": "2026-11-27-penguin-the-shinkansen-pantograph-support-write: REJECT The penguin pantograph-support link rests on a single source (Gigazine) with no har…"
-  },
-  {
-   "t": "2026-11-27T18:39:01+01:00",
-   "stage": "review",
-   "msg": "topic rejected: The penguin pantograph-support link rests on a single source (Gigazine) with no hard number, and it is a side detail of the 500 Series…"
-  },
-  {
-   "t": "2026-11-27T18:39:01+01:00",
+   "t": "2026-11-27T18:42:26+01:00",
    "stage": "research",
    "msg": "trying the next topic"
   },
   {
-   "t": "2026-11-27T18:39:01+01:00",
+   "t": "2026-11-27T18:42:26+01:00",
    "stage": "research",
-   "msg": "topic: dragonfly wings -> micro air vehicle wings"
+   "msg": "topic: seashell nacre -> tougher ceramics"
   },
   {
-   "t": "2026-11-27T18:41:16+01:00",
+   "t": "2026-11-27T18:43:53+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-27T18:44:02+01:00",
    "stage": null,
-   "msg": "2026-11-27-dragonfly-micro-air-vehicle-wings-write: REJECT The dragonfly wing story doesn't hold up: the two papers I could open are both Biomimetics …"
+   "msg": "2026-11-27-seashell-tougher-ceramics-write: I opened two sources: ScienceDaily (the Berkeley Lab release) and Physics Today. Both give the number, \"30…"
   },
   {
-   "t": "2026-11-27T18:41:16+01:00",
-   "stage": "review",
-   "msg": "topic rejected: The only papers I could open (both Biomimetics, on PMC) are not independent and do not support the hook: the 2024 wind-tunnel study fo…"
+   "t": "2026-11-27T18:44:39+01:00",
+   "stage": null,
+   "msg": "2026-11-27-seashell-tougher-ceramics-review1: PASS 88 (36 s)"
   },
   {
-   "t": "2026-11-27T18:41:16+01:00",
+   "t": "2026-11-27T18:44:39+01:00",
    "stage": "review",
-   "msg": "producer: topics rejected (The only papers I could open (both Biomimetics, on PMC) are not independent and do not support the hook: the 2024 wind-t); …"
+   "msg": "fact-check PASS 88: The 3,000x line says nacre resists fracture 'up to 3,000 times better' with no baseline. The source says 3,000 times more resistan…"
+  },
+  {
+   "t": "2026-11-27T18:46:58+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-seashell-tougher-ceramics: 62.34 s rendered in 117 s"
+  },
+  {
+   "t": "2026-11-27T18:48:39+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-seashell-tougher-ceramics-p1: 43.16 s rendered in 70 s"
+  },
+  {
+   "t": "2026-11-27T18:49:50+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-seashell-tougher-ceramics-p2: 22.61 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-27T18:49:59+01:00",
+   "stage": "publish",
+   "msg": "set ready: Engineers Froze Ceramic in Water to Copy the Inside of a Shell = full video + 2 parts (43.16 s, 22.61 s)"
+  },
+  {
+   "t": "2026-11-27T18:50:01+01:00",
+   "stage": "publish",
+   "msg": "producer: Engineers Froze Ceramic in Water to Copy the Inside of a Shell -> waiting 2026-12-23 11:00"
+  },
+  {
+   "t": "2026-11-27T18:50:02+01:00",
+   "stage": "research",
+   "msg": "topic: shark skin -> the LZR swimsuit that got banned"
+  },
+  {
+   "t": "2026-11-27T18:50:45+01:00",
+   "stage": null,
+   "msg": "2026-11-27-shark-the-lzr-swimsuit-that-got-banned-write: REJECT The shark link belongs to Speedo's earlier Fastskin, not the LZR Racer. NASA's account…"
+  },
+  {
+   "t": "2026-11-27T18:50:45+01:00",
+   "stage": "review",
+   "msg": "topic rejected: The shark link belongs to Speedo's earlier Fastskin, not the LZR Racer (NASA's account never mentions sharks, and Science History says…"
+  },
+  {
+   "t": "2026-11-27T18:50:45+01:00",
+   "stage": "research",
+   "msg": "trying the next topic"
+  },
+  {
+   "t": "2026-11-27T18:50:45+01:00",
+   "stage": "research",
+   "msg": "topic: Soviet anti-tank dog -> Dog-delivered anti-tank mine"
+  },
+  {
+   "t": "2026-11-27T18:51:45+01:00",
+   "stage": "research",
+   "msg": "research notes written, 2 links"
+  },
+  {
+   "t": "2026-11-27T18:51:52+01:00",
+   "stage": null,
+   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-write: OK The Soviet Dogs Trained to Blow Up Tanks Ran to Their Own (67 s)"
+  },
+  {
+   "t": "2026-11-27T18:52:22+01:00",
+   "stage": null,
+   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-review1: PASS 92 (31 s)"
+  },
+  {
+   "t": "2026-11-27T18:52:22+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 92: Mocker beat 'Tanks were stopped by guns' is conventional wisdom not stated in a source (acceptable as the old way)."
+  },
+  {
+   "t": "2026-11-27T18:54:57+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine: 54.63 s rendered in 120 s"
+  },
+  {
+   "t": "2026-11-27T18:56:38+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-p1: 39.79 s rendered in 71 s"
+  },
+  {
+   "t": "2026-11-27T18:57:37+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-p2: 18.3 s rendered in 37 s"
+  },
+  {
+   "t": "2026-11-27T18:57:47+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Soviet Dogs Trained to Blow Up Tanks Ran to Their Own = full video + 2 parts (39.79 s, 18.3 s)"
   }
  ]
 }

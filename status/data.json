@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T04:44:07+01:00",
+ "generated": "2026-11-27T05:34:07+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
@@ -76,7 +76,7 @@
    "name": "Publish"
   }
  ],
- "upload_blocked_until": "2026-11-27T05:34+01:00",
+ "upload_blocked_until": "2026-11-27T07:34+01:00",
  "upcoming": [
   {
    "title": "The Slime Mold That Redesigned Tokyo's Rail Map",
@@ -97,7 +97,7 @@
    "status": "scheduled",
    "publish_at": "2026-11-27T13:00+01:00",
    "published": null,
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 79.83,
    "url": null,
@@ -123,7 +123,7 @@
    "status": "scheduled",
    "publish_at": "2026-11-27T17:00+01:00",
    "published": null,
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 30.27,
    "url": null,
@@ -149,7 +149,7 @@
    "status": "scheduled",
    "publish_at": "2026-11-28T09:00+01:00",
    "published": null,
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 31.96,
    "url": null,
@@ -175,7 +175,7 @@
    "status": "scheduled",
    "publish_at": "2026-11-28T13:00+01:00",
    "published": null,
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 24.17,
    "url": null,
@@ -201,7 +201,7 @@
    "status": "scheduled",
    "publish_at": "2026-11-28T17:00+01:00",
    "published": null,
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 70.38,
    "url": null,
@@ -227,7 +227,7 @@
    "status": "scheduled",
    "publish_at": "2026-11-29T09:00+01:00",
    "published": null,
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 28.48,
    "url": null,
@@ -240,7 +240,7 @@
    "status": "scheduled",
    "publish_at": "2026-11-29T11:00+01:00",
    "published": null,
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 25.26,
    "url": null,
@@ -253,7 +253,7 @@
    "status": "scheduled",
    "publish_at": "2026-11-29T13:00+01:00",
    "published": null,
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 23.21,
    "url": null,
@@ -266,7 +266,7 @@
    "status": "scheduled",
    "publish_at": "2026-11-29T15:00+01:00",
    "published": null,
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 67.78,
    "url": null,
@@ -283,7 +283,7 @@
    "avg_pct": null,
    "seconds": 23.32,
    "url": null,
-   "note": "YouTube upload limit, next try 05:34",
+   "note": "YouTube upload limit, next try 07:34",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p1.jpg"
   },
   {
@@ -296,7 +296,7 @@
    "avg_pct": null,
    "seconds": 27.63,
    "url": null,
-   "note": "YouTube upload limit, next try 05:34",
+   "note": "YouTube upload limit, next try 07:34",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p2.jpg"
   },
   {
@@ -309,7 +309,7 @@
    "avg_pct": null,
    "seconds": 23.42,
    "url": null,
-   "note": "YouTube upload limit, next try 05:34",
+   "note": "YouTube upload limit, next try 07:34",
    "poster": "p/2026-11-25-earwig-origami-deployable-fans-and-wings-2356-p3.jpg"
   },
   {
@@ -322,7 +322,7 @@
    "avg_pct": null,
    "seconds": 74.18,
    "url": null,
-   "note": "YouTube upload limit, next try 05:34",
+   "note": "YouTube upload limit, next try 07:34",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot.jpg"
   },
   {
@@ -335,7 +335,7 @@
    "avg_pct": null,
    "seconds": 26.79,
    "url": null,
-   "note": "YouTube upload limit, next try 05:34",
+   "note": "YouTube upload limit, next try 07:34",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p1.jpg"
   },
   {
@@ -348,7 +348,7 @@
    "avg_pct": null,
    "seconds": 26.56,
    "url": null,
-   "note": "YouTube upload limit, next try 05:34",
+   "note": "YouTube upload limit, next try 07:34",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p2.jpg"
   },
   {
@@ -361,7 +361,7 @@
    "avg_pct": null,
    "seconds": 27.37,
    "url": null,
-   "note": "YouTube upload limit, next try 05:34",
+   "note": "YouTube upload limit, next try 07:34",
    "poster": "p/2026-11-26-cockroach-cram-crevice-squeezing-rescue-robot-p3.jpg"
   },
   {
@@ -374,7 +374,7 @@
    "avg_pct": null,
    "seconds": 76.67,
    "url": null,
-   "note": "YouTube upload limit, next try 05:34",
+   "note": "YouTube upload limit, next try 07:34",
    "poster": "p/2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro.jpg"
   },
   {
@@ -387,7 +387,7 @@
    "avg_pct": null,
    "seconds": 21.27,
    "url": null,
-   "note": "YouTube upload limit, next try 05:34",
+   "note": "YouTube upload limit, next try 07:34",
    "poster": "p/2026-11-26-lobster-lobster-eye-x-ray-telescope-einstein-pro-p1.jpg"
   }
  ],
@@ -398,7 +398,7 @@
    "status": "published",
    "publish_at": "2026-11-26T23:20:57+01:00",
    "published": "2026-11-26T23:20:57+01:00",
-   "views": null,
+   "views": 0,
    "avg_pct": null,
    "seconds": 196.69,
    "url": "https://youtu.be/N5mN10vUQhE",
@@ -411,7 +411,7 @@
    "status": "published",
    "publish_at": "2026-11-26T19:00+01:00",
    "published": "2026-11-26T19:00+01:00",
-   "views": 1,
+   "views": 732,
    "avg_pct": null,
    "seconds": 70.76,
    "url": "https://youtube.com/shorts/WB0W9vTvvWU",
@@ -424,7 +424,7 @@
    "status": "published",
    "publish_at": "2026-11-26T15:00+01:00",
    "published": "2026-11-26T15:00+01:00",
-   "views": 5,
+   "views": 233,
    "avg_pct": null,
    "seconds": 81.28,
    "url": "https://youtube.com/shorts/SiiPapyfHXY",
@@ -437,7 +437,7 @@
    "status": "published",
    "publish_at": "2026-11-26T11:00+01:00",
    "published": "2026-11-26T11:00+01:00",
-   "views": 4,
+   "views": 24,
    "avg_pct": null,
    "seconds": 81.43,
    "url": "https://youtube.com/shorts/giVomFUJYus",
@@ -450,7 +450,7 @@
    "status": "published",
    "publish_at": "2026-11-25T19:56:05+01:00",
    "published": "2026-11-25T19:56:05+01:00",
-   "views": 537,
+   "views": 545,
    "avg_pct": null,
    "seconds": 71.38,
    "url": "https://youtube.com/shorts/Z1EGoUUB5Aw",
@@ -463,15 +463,15 @@
   "published": 5,
   "rejected": 19,
   "waiting_you": 182,
-  "total_views": 547,
-  "median_views": 4.5,
+  "total_views": 1534,
+  "median_views": 233,
   "by_series": {
    "copied": {
-    "median": 5,
-    "n": 3
+    "median": 389.0,
+    "n": 4
    },
    "first": {
-    "median": 4,
+    "median": 24,
     "n": 1
    },
    "said-no": {
@@ -479,7 +479,7 @@
     "n": 0
    }
   },
-  "hit_rate": 25,
+  "hit_rate": 40,
   "avg_pct": null,
   "subs_per_1k": 0.0,
   "topics": 35
@@ -494,16 +494,6 @@
  ],
  "topics_left": 35,
  "log": [
-  {
-   "t": "2026-11-27T00:54:36+01:00",
-   "stage": "voice",
-   "msg": "take ran 84.5 s, re-voicing at speed 1.25"
-  },
-  {
-   "t": "2026-11-27T00:57:59+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-blue-formaldehyde-free-plywood-adhesive: 81.11 s rendered in 175 s"
-  },
   {
    "t": "2026-11-27T00:59:46+01:00",
    "stage": "animate",
@@ -618,6 +608,16 @@
    "t": "2026-11-27T03:34:06+01:00",
    "stage": "publish",
    "msg": "YouTube's daily upload limit reached; uploads pause until Fri 05:34 (phone-verify the channel at youtube.com/verify to raise it)"
+  },
+  {
+   "t": "2026-11-27T05:34:07+01:00",
+   "stage": "publish",
+   "msg": "views refreshed for 20 videos"
+  },
+  {
+   "t": "2026-11-27T05:34:07+01:00",
+   "stage": "publish",
+   "msg": "YouTube's daily upload limit reached; uploads pause until Fri 07:34 (phone-verify the channel at youtube.com/verify to raise it)"
   }
  ]
 }

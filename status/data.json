@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-27T17:42:21+01:00",
+ "generated": "2026-11-27T17:58:03+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "52 of 90 slots filled",
+  "note": "58 of 90 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0311",
-  "title": "A Robot With Cut-Paper Skin Crawls Like a Snake (Part 2/2)",
+  "id": "run-0317",
+  "title": "The Fish Slime Thread 100 Times Thinner Than a Hair (Part 2/2)",
   "series": "copied",
   "state": "done",
   "stage": "checks",
-  "started": "2026-11-27T17:41:04+01:00",
-  "ended": "2026-11-27T17:42:21+01:00",
+  "started": "2026-11-27T17:57:05+01:00",
+  "ended": "2026-11-27T17:58:02+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -393,10 +393,10 @@
  ],
  "published": [],
  "overview": {
-  "built": 237,
+  "built": 243,
   "published": 0,
   "rejected": 21,
-  "waiting_you": 235,
+  "waiting_you": 241,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -416,139 +416,139 @@
   "hit_rate": null,
   "avg_pct": null,
   "subs_per_1k": null,
-  "topics": 27
+  "topics": 25
  },
  "slots": [
   "11:00",
   "15:00",
   "19:00"
  ],
- "topics_left": 27,
+ "topics_left": 25,
  "log": [
   {
-   "t": "2026-11-27T17:28:03+01:00",
+   "t": "2026-11-27T17:43:43+01:00",
    "stage": null,
-   "msg": "2026-11-27-pigeon-pigeon-guided-missile-project-pigeon-write: OK The Psychologist Who Tried to Steer Missiles With Pigeons (86 s)"
+   "msg": "2026-11-27-morpho-morphotex-dye-free-colour-fibre-write: OK The Butterfly Trick That Colours Fabric With No Dye (79 s)"
   },
   {
-   "t": "2026-11-27T17:28:45+01:00",
-   "stage": null,
-   "msg": "2026-11-27-pigeon-pigeon-guided-missile-project-pigeon-review1: FIX 80 (41 s)"
+   "t": "2026-11-27T17:43:44+01:00",
+   "stage": "write",
+   "msg": "rules: 1 problem(s): too many callouts"
   },
   {
-   "t": "2026-11-27T17:28:45+01:00",
+   "t": "2026-11-27T17:43:53+01:00",
+   "stage": null,
+   "msg": "2026-11-27-morpho-morphotex-dye-free-colour-fibre-rules1: OK (9 s)"
+  },
+  {
+   "t": "2026-11-27T17:44:29+01:00",
+   "stage": null,
+   "msg": "2026-11-27-morpho-morphotex-dye-free-colour-fibre-review1: FIX 74 (36 s)"
+  },
+  {
+   "t": "2026-11-27T17:44:29+01:00",
    "stage": "review",
-   "msg": "fact-check FIX 80: yousee beat: 'a pigeon will peck at a target all day for grain' is not in either source. Both describe only trained pecking at a ta…"
+   "msg": "fact-check FIX 74: yousee beat: 'the way a thin film of oil on water does' appears in neither source (unsupported claim, -15)."
   },
   {
-   "t": "2026-11-27T17:28:54+01:00",
+   "t": "2026-11-27T17:44:42+01:00",
    "stage": null,
-   "msg": "2026-11-27-pigeon-pigeon-guided-missile-project-pigeon-fix: OK (9 s)"
+   "msg": "2026-11-27-morpho-morphotex-dye-free-colour-fibre-fix: OK (14 s)"
   },
   {
-   "t": "2026-11-27T17:29:40+01:00",
+   "t": "2026-11-27T17:45:20+01:00",
    "stage": null,
-   "msg": "2026-11-27-pigeon-pigeon-guided-missile-project-pigeon-review2: FIX 77 (46 s)"
+   "msg": "2026-11-27-morpho-morphotex-dye-free-colour-fibre-review2: PASS 84 (38 s)"
   },
   {
-   "t": "2026-11-27T17:29:40+01:00",
+   "t": "2026-11-27T17:45:20+01:00",
    "stage": "review",
-   "msg": "fact-check FIX 77: Setup says 'Skinner proposed a nose cone holding three birds'. Neither source says Skinner proposed a nose cone of three birds. Uta…"
+   "msg": "fact-check PASS 84: The yousee beat has no everyday comparison. It only restates the Morpho wing's structural colour."
   },
   {
-   "t": "2026-11-27T17:29:49+01:00",
-   "stage": null,
-   "msg": "2026-11-27-pigeon-pigeon-guided-missile-project-pigeon-fix: OK (10 s)"
-  },
-  {
-   "t": "2026-11-27T17:30:32+01:00",
-   "stage": null,
-   "msg": "2026-11-27-pigeon-pigeon-guided-missile-project-pigeon-review3: PASS 88 (42 s)"
-  },
-  {
-   "t": "2026-11-27T17:30:32+01:00",
-   "stage": "review",
-   "msg": "fact-check PASS 88: number says '$25,000 grant' but both sources call it a contract/award to General Mills; 'contract' is the safer word."
-  },
-  {
-   "t": "2026-11-27T17:32:23+01:00",
+   "t": "2026-11-27T17:47:40+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-pigeon-pigeon-guided-missile-project-pigeon: 48.43 s rendered in 92 s"
+   "msg": "2026-11-27-morpho-morphotex-dye-free-colour-fibre: 56.28 s rendered in 117 s"
   },
   {
-   "t": "2026-11-27T17:33:59+01:00",
+   "t": "2026-11-27T17:49:21+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-pigeon-pigeon-guided-missile-project-pigeon-p1: 36.33 s rendered in 66 s"
+   "msg": "2026-11-27-morpho-morphotex-dye-free-colour-fibre-p1: 37.65 s rendered in 72 s"
   },
   {
-   "t": "2026-11-27T17:34:51+01:00",
+   "t": "2026-11-27T17:50:27+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-pigeon-pigeon-guided-missile-project-pigeon-p2: 15.55 s rendered in 29 s"
+   "msg": "2026-11-27-morpho-morphotex-dye-free-colour-fibre-p2: 22.1 s rendered in 41 s"
   },
   {
-   "t": "2026-11-27T17:35:02+01:00",
+   "t": "2026-11-27T17:50:36+01:00",
    "stage": "publish",
-   "msg": "set ready: The Psychologist Who Tried to Steer Missiles With Pigeons = full video + 2 parts (36.33 s, 15.55 s)"
+   "msg": "set ready: The Butterfly Trick That Colours Fabric With No Dye = full video + 2 parts (37.65 s, 22.1 s)"
   },
   {
-   "t": "2026-11-27T17:35:03+01:00",
+   "t": "2026-11-27T17:50:36+01:00",
    "stage": "publish",
-   "msg": "producer: The Psychologist Who Tried to Steer Missiles With Pigeons -> waiting 2026-12-14 15:00"
+   "msg": "producer: The Butterfly Trick That Colours Fabric With No Dye -> waiting 2026-12-16 15:00"
   },
   {
-   "t": "2026-11-27T17:35:03+01:00",
+   "t": "2026-11-27T17:50:37+01:00",
    "stage": "research",
-   "msg": "topic: Snake -> Kirigami-skin soft crawling robot"
+   "msg": "topic: Hagfish -> Slime-thread protein fibres"
   },
   {
-   "t": "2026-11-27T17:36:04+01:00",
+   "t": "2026-11-27T17:51:34+01:00",
    "stage": "research",
    "msg": "research notes written, 2 links"
   },
   {
-   "t": "2026-11-27T17:36:11+01:00",
+   "t": "2026-11-27T17:51:41+01:00",
    "stage": null,
-   "msg": "2026-11-27-snake-kirigami-skin-soft-crawling-robot-write: OK A Robot With Cut-Paper Skin Crawls Like a Snake (68 s)"
+   "msg": "2026-11-27-hagfish-slime-thread-protein-fibres-write: OK The Fish Slime Thread 100 Times Thinner Than a Hair (64 s)"
   },
   {
-   "t": "2026-11-27T17:36:11+01:00",
-   "stage": "write",
-   "msg": "rules: 1 problem(s): beat 7: callout longer than 14 characters"
-  },
-  {
-   "t": "2026-11-27T17:36:19+01:00",
+   "t": "2026-11-27T17:52:14+01:00",
    "stage": null,
-   "msg": "2026-11-27-snake-kirigami-skin-soft-crawling-robot-rules1: OK (8 s)"
+   "msg": "2026-11-27-hagfish-slime-thread-protein-fibres-review1: FIX 78 (33 s)"
   },
   {
-   "t": "2026-11-27T17:37:00+01:00",
-   "stage": null,
-   "msg": "2026-11-27-snake-kirigami-skin-soft-crawling-robot-review1: PASS 83 (41 s)"
-  },
-  {
-   "t": "2026-11-27T17:37:00+01:00",
+   "t": "2026-11-27T17:52:14+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 83: Hook is a plain statement of fact, not absurd (a balloon wrapped in laser-cut plastic is mildly odd, nothing more)."
+   "msg": "fact-check FIX 78: Yousee beat says 'hair-thin ropes', which contradicts the number: the threads are 100 times thinner than a hair (ScienceDaily). Nei…"
   },
   {
-   "t": "2026-11-27T17:39:20+01:00",
+   "t": "2026-11-27T17:52:22+01:00",
+   "stage": null,
+   "msg": "2026-11-27-hagfish-slime-thread-protein-fibres-fix: OK (8 s)"
+  },
+  {
+   "t": "2026-11-27T17:52:59+01:00",
+   "stage": null,
+   "msg": "2026-11-27-hagfish-slime-thread-protein-fibres-review2: PASS 90 (37 s)"
+  },
+  {
+   "t": "2026-11-27T17:52:59+01:00",
+   "stage": "review",
+   "msg": "fact-check PASS 90: Payoff 'each thread is 100 times thinner than a human hair' follows a sentence about the lab-drawn strands; ScienceDaily gives tha…"
+  },
+  {
+   "t": "2026-11-27T17:55:13+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-snake-kirigami-skin-soft-crawling-robot: 58.71 s rendered in 118 s"
+   "msg": "2026-11-27-hagfish-slime-thread-protein-fibres: 56.62 s rendered in 112 s"
   },
   {
-   "t": "2026-11-27T17:40:53+01:00",
+   "t": "2026-11-27T17:56:55+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-snake-kirigami-skin-soft-crawling-robot-p1: 36.54 s rendered in 63 s"
+   "msg": "2026-11-27-hagfish-slime-thread-protein-fibres-p1: 41.83 s rendered in 73 s"
   },
   {
-   "t": "2026-11-27T17:42:11+01:00",
+   "t": "2026-11-27T17:57:53+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-snake-kirigami-skin-soft-crawling-robot-p2: 25.62 s rendered in 53 s"
+   "msg": "2026-11-27-hagfish-slime-thread-protein-fibres-p2: 18.22 s rendered in 35 s"
   },
   {
-   "t": "2026-11-27T17:42:21+01:00",
+   "t": "2026-11-27T17:58:02+01:00",
    "stage": "publish",
-   "msg": "set ready: A Robot With Cut-Paper Skin Crawls Like a Snake = full video + 2 parts (36.54 s, 25.62 s)"
+   "msg": "set ready: The Fish Slime Thread 100 Times Thinner Than a Hair = full video + 2 parts (41.83 s, 18.22 s)"
   }
  ]
 }

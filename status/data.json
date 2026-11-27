@@ -1,38 +1,38 @@
 {
- "generated": "2026-11-27T18:30:22+01:00",
+ "generated": "2026-11-27T18:41:17+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
   "state": "making",
-  "note": "69 of 90 slots filled",
+  "note": "75 of 90 slots filled",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0330",
-  "title": "Researchers Fired Electronics at a Wall Like a Woodpecker (Part 2/2)",
+  "id": "run-0335",
+  "title": "Engineers copied the crinkled wing of a dragonfly.",
   "series": "copied",
-  "state": "done",
-  "stage": "checks",
-  "started": "2026-11-27T18:29:21+01:00",
-  "ended": "2026-11-27T18:30:21+01:00",
+  "state": "failed",
+  "stage": "research",
+  "started": "2026-11-27T18:39:01+01:00",
+  "ended": "2026-11-27T18:41:16+01:00",
   "stages": {
    "research": {
-    "state": "wait"
+    "state": "run"
    },
    "write": {
     "state": "wait"
    },
    "review": {
-    "state": "wait"
+    "state": "fail"
    },
    "voice": {
-    "state": "done"
+    "state": "wait"
    },
    "animate": {
-    "state": "done"
+    "state": "wait"
    },
    "checks": {
-    "state": "done"
+    "state": "wait"
    },
    "gate": {
     "state": "wait"
@@ -393,10 +393,10 @@
  ],
  "published": [],
  "overview": {
-  "built": 255,
+  "built": 258,
   "published": 0,
-  "rejected": 22,
-  "waiting_you": 253,
+  "rejected": 24,
+  "waiting_you": 256,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -416,139 +416,139 @@
   "hit_rate": null,
   "avg_pct": null,
   "subs_per_1k": null,
-  "topics": 20
+  "topics": 17
  },
  "slots": [
   "11:00",
   "15:00",
   "19:00"
  ],
- "topics_left": 20,
+ "topics_left": 17,
  "log": [
   {
-   "t": "2026-11-27T18:15:00+01:00",
+   "t": "2026-11-27T18:30:24+01:00",
    "stage": "publish",
-   "msg": "set ready: Mercedes Copied a Fish That Was Built to Wobble = full video + 2 parts (45.78 s, 23.17 s)"
+   "msg": "producer: Researchers Fired Electronics at a Wall Like a Woodpecker -> waiting 2026-12-21 11:00"
   },
   {
-   "t": "2026-11-27T18:15:04+01:00",
-   "stage": "publish",
-   "msg": "producer: Mercedes Copied a Fish That Was Built to Wobble -> waiting 2026-12-19 15:00"
-  },
-  {
-   "t": "2026-11-27T18:15:04+01:00",
+   "t": "2026-11-27T18:30:25+01:00",
    "stage": "research",
-   "msg": "topic: Vampire bat -> Desmoteplase clot-dissolving stroke drug"
+   "msg": "topic: elephant trunk -> Festo's bionic handling assistant"
   },
   {
-   "t": "2026-11-27T18:15:52+01:00",
+   "t": "2026-11-27T18:31:55+01:00",
    "stage": "research",
-   "msg": "research notes written, 2 links"
+   "msg": "research notes written, 3 links"
   },
   {
-   "t": "2026-11-27T18:16:02+01:00",
+   "t": "2026-11-27T18:32:02+01:00",
    "stage": null,
-   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-write: OK Vampire Bat Spit Became a Stroke Drug Tested Up to 9 Hours (58 s)"
+   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-write: OK The Robot Arm Built by Copying an Elephant's Trunk (97 s)"
   },
   {
-   "t": "2026-11-27T18:16:34+01:00",
+   "t": "2026-11-27T18:32:37+01:00",
    "stage": null,
-   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-review1: FIX 78 (32 s)"
+   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-review1: FIX 78 (35 s)"
   },
   {
-   "t": "2026-11-27T18:16:34+01:00",
+   "t": "2026-11-27T18:32:37+01:00",
    "stage": "review",
-   "msg": "fact-check FIX 78: Hook says researchers injected vampire bat saliva into mouse brains. Sources say they injected DSPA, the enzyme (Science News/Disco…"
+   "msg": "fact-check FIX 78: Test 2 says chambers 'inflated one after another'; no source says sequential inflation (Machine Design says pressurizing one or two…"
   },
   {
-   "t": "2026-11-27T18:16:46+01:00",
+   "t": "2026-11-27T18:32:53+01:00",
    "stage": null,
-   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-fix: OK (11 s)"
+   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-fix: OK (16 s)"
   },
   {
-   "t": "2026-11-27T18:17:24+01:00",
+   "t": "2026-11-27T18:33:12+01:00",
    "stage": null,
-   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-review2: PASS 88 (39 s)"
+   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-review2: The core story is supported: the elephant trunk, the Bionic Handling Assistant, and the…"
   },
   {
-   "t": "2026-11-27T18:17:24+01:00",
+   "t": "2026-11-27T18:33:12+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 88: Setup says 'They named it DSPA, later desmoteplase': neither source says when or by whom the names were given; Discover just uses …"
+   "msg": "fact-check FIX 68: Setup says 'Fraunhofer Institute in Stuttgart': the location is not in the research notes or the cited sources' recorded text."
   },
   {
-   "t": "2026-11-27T18:19:57+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug: 62.19 s rendered in 129 s"
-  },
-  {
-   "t": "2026-11-27T18:20:09+01:00",
-   "stage": "checks",
-   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug: check failed: look (FAIL frame 8 (\"trying to clog\") is an empty set with no characters or…"
-  },
-  {
-   "t": "2026-11-27T18:22:14+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-p1: 48.64 s rendered in 105 s"
-  },
-  {
-   "t": "2026-11-27T18:23:11+01:00",
-   "stage": "animate",
-   "msg": "2026-11-27-vampire-desmoteplase-clot-dissolving-stroke-drug-p2: 17.0 s rendered in 33 s"
-  },
-  {
-   "t": "2026-11-27T18:23:19+01:00",
-   "stage": "publish",
-   "msg": "set ready: Vampire Bat Spit Became a Stroke Drug Tested Up to 9 Hours = full video + 2 parts (48.64 s, 17.0 s)"
-  },
-  {
-   "t": "2026-11-27T18:23:20+01:00",
-   "stage": "publish",
-   "msg": "producer: Vampire Bat Spit Became a Stroke Drug Tested Up to 9 Hours -> review"
-  },
-  {
-   "t": "2026-11-27T18:23:21+01:00",
-   "stage": "research",
-   "msg": "topic: woodpecker skull -> shock-proof flight recorder casings"
-  },
-  {
-   "t": "2026-11-27T18:24:24+01:00",
-   "stage": "research",
-   "msg": "research notes written, 2 links"
-  },
-  {
-   "t": "2026-11-27T18:24:32+01:00",
+   "t": "2026-11-27T18:33:24+01:00",
    "stage": null,
-   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings-write: OK Researchers Fired Electronics at a Wall Like a Woodpecker (72 s)"
+   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-fix: OK (12 s)"
   },
   {
-   "t": "2026-11-27T18:25:13+01:00",
+   "t": "2026-11-27T18:34:08+01:00",
    "stage": null,
-   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings-review1: PASS 92 (41 s)"
+   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-review3: PASS 91 (45 s)"
   },
   {
-   "t": "2026-11-27T18:25:13+01:00",
+   "t": "2026-11-27T18:34:08+01:00",
    "stage": "review",
-   "msg": "fact-check PASS 92: Minor: the mocker is drawn with a 'laughing' face in the glass-beads beat; no source records anyone laughing, though the mocker st…"
+   "msg": "fact-check PASS 91: The 'You see' beat compares the trunk to itself (heavy loads, yet a peanut) rather than to an everyday human comparison."
   },
   {
-   "t": "2026-11-27T18:27:33+01:00",
+   "t": "2026-11-27T18:35:59+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings: 54.89 s rendered in 119 s"
+   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant: 51.93 s rendered in 90 s"
   },
   {
-   "t": "2026-11-27T18:29:12+01:00",
+   "t": "2026-11-27T18:37:31+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings-p1: 39.1 s rendered in 69 s"
+   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-p1: 36.46 s rendered in 63 s"
   },
   {
-   "t": "2026-11-27T18:30:12+01:00",
+   "t": "2026-11-27T18:38:31+01:00",
    "stage": "animate",
-   "msg": "2026-11-27-woodpecker-shock-proof-flight-recorder-casings-p2: 19.24 s rendered in 37 s"
+   "msg": "2026-11-27-elephant-festo-s-bionic-handling-assistant-p2: 18.9 s rendered in 36 s"
   },
   {
-   "t": "2026-11-27T18:30:21+01:00",
+   "t": "2026-11-27T18:38:39+01:00",
    "stage": "publish",
-   "msg": "set ready: Researchers Fired Electronics at a Wall Like a Woodpecker = full video + 2 parts (39.1 s, 19.24 s)"
+   "msg": "set ready: The Robot Arm Built by Copying an Elephant's Trunk = full video + 2 parts (36.46 s, 18.9 s)"
+  },
+  {
+   "t": "2026-11-27T18:38:40+01:00",
+   "stage": "publish",
+   "msg": "producer: The Robot Arm Built by Copying an Elephant's Trunk -> waiting 2026-12-22 11:00"
+  },
+  {
+   "t": "2026-11-27T18:38:41+01:00",
+   "stage": "research",
+   "msg": "topic: penguin body -> the Shinkansen pantograph support"
+  },
+  {
+   "t": "2026-11-27T18:39:01+01:00",
+   "stage": null,
+   "msg": "2026-11-27-penguin-the-shinkansen-pantograph-support-write: REJECT The penguin pantograph-support link rests on a single source (Gigazine) with no har…"
+  },
+  {
+   "t": "2026-11-27T18:39:01+01:00",
+   "stage": "review",
+   "msg": "topic rejected: The penguin pantograph-support link rests on a single source (Gigazine) with no hard number, and it is a side detail of the 500 Series…"
+  },
+  {
+   "t": "2026-11-27T18:39:01+01:00",
+   "stage": "research",
+   "msg": "trying the next topic"
+  },
+  {
+   "t": "2026-11-27T18:39:01+01:00",
+   "stage": "research",
+   "msg": "topic: dragonfly wings -> micro air vehicle wings"
+  },
+  {
+   "t": "2026-11-27T18:41:16+01:00",
+   "stage": null,
+   "msg": "2026-11-27-dragonfly-micro-air-vehicle-wings-write: REJECT The dragonfly wing story doesn't hold up: the two papers I could open are both Biomimetics …"
+  },
+  {
+   "t": "2026-11-27T18:41:16+01:00",
+   "stage": "review",
+   "msg": "topic rejected: The only papers I could open (both Biomimetics, on PMC) are not independent and do not support the hook: the 2024 wind-tunnel study fo…"
+  },
+  {
+   "t": "2026-11-27T18:41:16+01:00",
+   "stage": "review",
+   "msg": "producer: topics rejected (The only papers I could open (both Biomimetics, on PMC) are not independent and do not support the hook: the 2024 wind-t); …"
   }
  ]
 }

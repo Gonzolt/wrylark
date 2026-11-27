@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-27T21:30:55+01:00",
+ "generated": "2026-11-27T22:48:16+01:00",
  "channel": "Wrylark",
  "handle": "wrylark",
  "producer": {
-  "state": "making",
-  "note": "re-cutting Shorts parts to 20-30 s",
+  "state": "idle",
+  "note": "281 Shorts queued (30 days); next check soon",
   "until": "2026-11-26T18:43+01:00"
  },
  "run": {
-  "id": "run-0372",
-  "title": "The Fly Ear That Made a Better Hearing Aid Microphone (Part 1/4)",
+  "id": "run-0434",
+  "title": "The Octopus Sucker That Became a Glue-Free Wet Patch (Part 3/3)",
   "series": "copied",
-  "state": "failed",
-  "stage": "animate",
-  "started": "2026-11-27T21:30:16+01:00",
-  "ended": "2026-11-27T21:30:54+01:00",
+  "state": "done",
+  "stage": "checks",
+  "started": "2026-11-27T22:46:56+01:00",
+  "ended": "2026-11-27T22:48:08+01:00",
   "stages": {
    "research": {
     "state": "wait"
@@ -29,10 +29,10 @@
     "state": "done"
    },
    "animate": {
-    "state": "fail"
+    "state": "done"
    },
    "checks": {
-    "state": "wait"
+    "state": "done"
    },
    "gate": {
     "state": "wait"
@@ -79,324 +79,324 @@
  "upload_blocked_until": "2026-11-28T12:00+01:00",
  "upcoming": [
   {
-   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears (Part 1/3)",
+   "title": "The Shrimp Eye That Taught a Camera to Spot Cancer",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 82.79,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-mantis-polarization-camera-that-spots-cancer.jpg"
+  },
+  {
+   "title": "The Shrimp Eye That Taught a Camera to Spot Cancer (Part 1/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 33.71,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-mantis-polarization-camera-that-spots-cancer-p1.jpg"
+  },
+  {
+   "title": "The Shrimp Eye That Taught a Camera to Spot Cancer (Part 2/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 28.37,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-mantis-polarization-camera-that-spots-cancer-p2.jpg"
+  },
+  {
+   "title": "The Shrimp Eye That Taught a Camera to Spot Cancer (Part 3/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 27.29,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-mantis-polarization-camera-that-spots-cancer-p3.jpg"
+  },
+  {
+   "title": "The Paint That Cleans Itself, Copied From a Lotus Leaf",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 75.33,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-lotus-lotusan-self-cleaning-facade-paint.jpg"
+  },
+  {
+   "title": "The Paint That Cleans Itself, Copied From a Lotus Leaf (Part 1/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 28.25,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-lotus-lotusan-self-cleaning-facade-paint-p1.jpg"
+  },
+  {
+   "title": "The Paint That Cleans Itself, Copied From a Lotus Leaf (Part 2/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 24.7,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-lotus-lotusan-self-cleaning-facade-paint-p2.jpg"
+  },
+  {
+   "title": "The Paint That Cleans Itself, Copied From a Lotus Leaf (Part 3/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 28.97,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-lotus-lotusan-self-cleaning-facade-paint-p3.jpg"
+  },
+  {
+   "title": "Lockheed Built a Drone Shaped Like a Falling Maple Seed",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 77.55,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-maple-the-samarai-single-wing-drone.jpg"
+  },
+  {
+   "title": "Lockheed Built a Drone Shaped Like a Falling Maple Seed (Part 1/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 29.95,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-maple-the-samarai-single-wing-drone-p1.jpg"
+  },
+  {
+   "title": "Lockheed Built a Drone Shaped Like a Falling Maple Seed (Part 2/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 26.6,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-maple-the-samarai-single-wing-drone-p2.jpg"
+  },
+  {
+   "title": "Lockheed Built a Drone Shaped Like a Falling Maple Seed (Part 3/3)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 27.56,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-maple-the-samarai-single-wing-drone-p3.jpg"
+  },
+  {
+   "title": "The Locust Neuron Being Taught to Drive a Car (Part 2/4)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 20.16,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-locust-collision-avoidance-sensor-for-cars-p2.jpg"
+  },
+  {
+   "title": "The Locust Neuron Being Taught to Drive a Car (Part 4/4)",
+   "series": "copied",
+   "status": "waiting",
+   "publish_at": "2026-11-28T22:48+01:00",
+   "published": null,
+   "views": null,
+   "avg_pct": null,
+   "seconds": 19.35,
+   "url": null,
+   "note": "YouTube upload limit, next try 12:00",
+   "poster": "p/2026-11-26-locust-collision-avoidance-sensor-for-cars-p4.jpg"
+  },
+  {
+   "title": "The Ants That Treat Infected Wounds With Their Own Antibiotics",
    "series": "first",
    "status": "waiting",
    "publish_at": "2026-11-29T11:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 27.22,
+   "seconds": 81.92,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-17-bats-sonar-millions-of-years-before-the-navy-p1.jpg"
+   "poster": "p/2026-11-26-matabele-wound-care-and-antimicrobial-treatment.jpg"
   },
   {
-   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears (Part 2/3)",
+   "title": "The Ants That Treat Infected Wounds With Their Own Antibiotics (Part 2/4)",
    "series": "first",
    "status": "waiting",
    "publish_at": "2026-11-29T15:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 24.43,
+   "seconds": 20.63,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-17-bats-sonar-millions-of-years-before-the-navy-p2.jpg"
+   "poster": "p/2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p2.jpg"
   },
   {
-   "title": "A Fossil Bat From 52 Million Years Ago Already Had Sonar Ears (Part 3/3)",
+   "title": "The Ants That Treat Infected Wounds With Their Own Antibiotics (Part 3/4)",
    "series": "first",
    "status": "waiting",
    "publish_at": "2026-11-29T19:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 23.36,
+   "seconds": 17.17,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-17-bats-sonar-millions-of-years-before-the-navy-p3.jpg"
+   "poster": "p/2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p3.jpg"
   },
   {
-   "title": "The Slime Mold That Redesigned Tokyo's Rail Map",
-   "series": "copied",
+   "title": "The Ants That Treat Infected Wounds With Their Own Antibiotics (Part 4/4)",
+   "series": "first",
    "status": "waiting",
    "publish_at": "2026-11-30T11:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 77.16,
+   "seconds": 16.85,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-slime-rail-network-design-algorithm.jpg"
+   "poster": "p/2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p4.jpg"
   },
   {
-   "title": "The Slime Mold That Redesigned Tokyo's Rail Map (Part 1/3)",
+   "title": "Solar Panels Got Better by Copying the Eye of a Moth",
    "series": "copied",
    "status": "waiting",
    "publish_at": "2026-11-30T15:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 26.35,
+   "seconds": 73.62,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-slime-rail-network-design-algorithm-p1.jpg"
+   "poster": "p/2026-11-26-moth-anti-reflective-solar-panel-coatings.jpg"
   },
   {
-   "title": "The Slime Mold That Redesigned Tokyo's Rail Map (Part 2/3)",
+   "title": "Solar Panels Got Better by Copying the Eye of a Moth (Part 1/3)",
    "series": "copied",
    "status": "waiting",
    "publish_at": "2026-11-30T19:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 18.58,
+   "seconds": 28.67,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-slime-rail-network-design-algorithm-p2.jpg"
+   "poster": "p/2026-11-26-moth-anti-reflective-solar-panel-coatings-p1.jpg"
   },
   {
-   "title": "The Slime Mold That Redesigned Tokyo's Rail Map (Part 3/3)",
+   "title": "Solar Panels Got Better by Copying the Eye of a Moth (Part 2/3)",
    "series": "copied",
    "status": "waiting",
    "publish_at": "2026-12-01T11:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 22.12,
+   "seconds": 27.75,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-slime-rail-network-design-algorithm-p3.jpg"
+   "poster": "p/2026-11-26-moth-anti-reflective-solar-panel-coatings-p2.jpg"
   },
   {
-   "title": "The Sea Snail Venom That Became a Severe Pain Drug (Part 1/3)",
+   "title": "Solar Panels Got Better by Copying the Eye of a Moth (Part 3/3)",
    "series": "copied",
    "status": "waiting",
    "publish_at": "2026-12-01T15:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 25.92,
+   "seconds": 23.77,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-cone-ziconotide-prialt-painkiller-p1.jpg"
+   "poster": "p/2026-11-26-moth-anti-reflective-solar-panel-coatings-p3.jpg"
   },
   {
-   "title": "The Sea Snail Venom That Became a Severe Pain Drug (Part 2/3)",
+   "title": "The Desert Beetle That Drinks Fog Off Its Own Back",
    "series": "copied",
    "status": "waiting",
    "publish_at": "2026-12-01T19:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 24.94,
+   "seconds": 71.4,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-cone-ziconotide-prialt-painkiller-p2.jpg"
+   "poster": "p/2026-11-26-namib-fog-harvesting-surfaces.jpg"
   },
   {
-   "title": "The Sea Snail Venom That Became a Severe Pain Drug (Part 3/3)",
+   "title": "The Desert Beetle That Drinks Fog Off Its Own Back (Part 1/3)",
    "series": "copied",
    "status": "waiting",
    "publish_at": "2026-12-02T11:00+01:00",
    "published": null,
    "views": null,
    "avg_pct": null,
-   "seconds": 19.71,
+   "seconds": 22.57,
    "url": null,
    "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-cone-ziconotide-prialt-painkiller-p3.jpg"
-  },
-  {
-   "title": "The Porcupine Quill That Inspired a Better Surgical Staple",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-02T15:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 70.76,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-porcupine-low-force-hard-to-remove-surgical-stap.jpg"
-  },
-  {
-   "title": "The Porcupine Quill That Inspired a Better Surgical Staple (Part 1/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-02T19:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 20.31,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-porcupine-low-force-hard-to-remove-surgical-stap-p1.jpg"
-  },
-  {
-   "title": "The Porcupine Quill That Inspired a Better Surgical Staple (Part 2/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-03T11:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 21.06,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-porcupine-low-force-hard-to-remove-surgical-stap-p2.jpg"
-  },
-  {
-   "title": "The Porcupine Quill That Inspired a Better Surgical Staple (Part 3/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-03T15:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 20.57,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-20-porcupine-low-force-hard-to-remove-surgical-stap-p3.jpg"
-  },
-  {
-   "title": "The Burrs on a Dog That Became Velcro",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-03T19:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 76.93,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-21-burdock-velcro.jpg"
-  },
-  {
-   "title": "The Burrs on a Dog That Became Velcro (Part 1/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-04T11:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 23.68,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-21-burdock-velcro-p1.jpg"
-  },
-  {
-   "title": "The Burrs on a Dog That Became Velcro (Part 2/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-04T15:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 23.17,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-21-burdock-velcro-p2.jpg"
-  },
-  {
-   "title": "The Burrs on a Dog That Became Velcro (Part 3/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-04T19:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 20.37,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-21-burdock-velcro-p3.jpg"
-  },
-  {
-   "title": "The Office Block Cooled by Copying a Termite Mound",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-05T11:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 66.33,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit.jpg"
-  },
-  {
-   "title": "The Office Block Cooled by Copying a Termite Mound (Part 1/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-05T15:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 21.85,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit-p1.jpg"
-  },
-  {
-   "title": "The Office Block Cooled by Copying a Termite Mound (Part 2/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-05T19:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 20.63,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit-p2.jpg"
-  },
-  {
-   "title": "The Office Block Cooled by Copying a Termite Mound (Part 3/3)",
-   "series": "copied",
-   "status": "waiting",
-   "publish_at": "2026-12-06T11:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 16.92,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-21-termite-the-eastgate-centre-in-harare-cooled-wit-p3.jpg"
-  },
-  {
-   "title": "The Moth That Jams Bat Sonar With Clicks",
-   "series": "first",
-   "status": "waiting",
-   "publish_at": "2026-12-06T15:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 79.06,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-25-tiger-radar-sonar-jamming.jpg"
-  },
-  {
-   "title": "The Moth That Jams Bat Sonar With Clicks (Part 1/3)",
-   "series": "first",
-   "status": "waiting",
-   "publish_at": "2026-12-06T19:00+01:00",
-   "published": null,
-   "views": null,
-   "avg_pct": null,
-   "seconds": 22.83,
-   "url": null,
-   "note": "YouTube upload limit, next try 12:00",
-   "poster": "p/2026-11-25-tiger-radar-sonar-jamming-p1.jpg"
+   "poster": "p/2026-11-26-namib-fog-harvesting-surfaces-p1.jpg"
   }
  ],
  "published": [],
  "overview": {
-  "built": 272,
+  "built": 292,
   "published": 0,
   "rejected": 26,
-  "waiting_you": 270,
+  "waiting_you": 290,
   "total_views": 0,
   "median_views": 0,
   "by_series": {
@@ -426,129 +426,129 @@
  "topics_left": 29,
  "log": [
   {
-   "t": "2026-11-27T21:13:58+01:00",
+   "t": "2026-11-27T22:31:39+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-seashell-tougher-ceramics-p2: 20.86 s rendered in 46 s"
+  },
+  {
+   "t": "2026-11-27T22:32:55+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-seashell-tougher-ceramics-p3: 22.61 s rendered in 52 s"
+  },
+  {
+   "t": "2026-11-27T22:33:04+01:00",
    "stage": "publish",
-   "msg": "re-cut: The Squid Teeth Plastic That Heals a Cut in One Second -> 4 parts (16.26 s, 18.71 s, 17.92 s, 19.07 s) in 240 s (29 sets left)"
+   "msg": "set ready: Engineers Froze Ceramic in Water to Copy the Inside of a Shell = full video + 3 parts (25.73 s, 20.86 s, 22.61 s)"
   },
   {
-   "t": "2026-11-27T21:15:09+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p1: 29.97 s rendered in 51 s"
-  },
-  {
-   "t": "2026-11-27T21:16:13+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p2: 20.37 s rendered in 41 s"
-  },
-  {
-   "t": "2026-11-27T21:17:18+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p3: 23.77 s rendered in 41 s"
-  },
-  {
-   "t": "2026-11-27T21:18:33+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p4: 27.41 s rendered in 50 s"
-  },
-  {
-   "t": "2026-11-27T21:19:39+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p5: 24.0 s rendered in 41 s"
-  },
-  {
-   "t": "2026-11-27T21:20:35+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p6: 18.41 s rendered in 33 s"
-  },
-  {
-   "t": "2026-11-27T21:21:55+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-kingfisher-shinkansen-long-p7: 29.38 s rendered in 54 s"
-  },
-  {
-   "t": "2026-11-27T21:22:04+01:00",
+   "t": "2026-11-27T22:33:10+01:00",
    "stage": "publish",
-   "msg": "set ready: A birdwatcher fixed Japan's loudest bullet train with a beak = full video + 7 parts (29.97 s, 20.37 s, 23.77 s, 27.41 s, 24.0 s, 18.41 s, 2…"
+   "msg": "re-cut: Engineers Froze Ceramic in Water to Copy the Inside of a Shell -> 3 parts (25.73 s, 20.86 s, 22.61 s) in 236 s (4 sets left)"
   },
   {
-   "t": "2026-11-27T21:22:09+01:00",
-   "stage": "publish",
-   "msg": "re-cut: A birdwatcher fixed Japan's loudest bullet train with a beak -> 7 parts (29.97 s, 20.37 s, 23.77 s, 27.41 s, 24.0 s, 18.41 s, 29.38 s) in 490 …"
-  },
-  {
-   "t": "2026-11-27T21:23:02+01:00",
+   "t": "2026-11-27T22:34:16+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p1: 19.33 s rendered in 35 s"
+   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-p1: 21.33 s rendered in 47 s"
   },
   {
-   "t": "2026-11-27T21:23:14+01:00",
+   "t": "2026-11-27T22:35:26+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-p2: 21.89 s rendered in 47 s"
+  },
+  {
+   "t": "2026-11-27T22:36:33+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-soviet-dog-delivered-anti-tank-mine-p3: 18.3 s rendered in 44 s"
+  },
+  {
+   "t": "2026-11-27T22:36:41+01:00",
+   "stage": "publish",
+   "msg": "set ready: The Soviet Dogs Trained to Blow Up Tanks Ran to Their Own = full video + 3 parts (21.33 s, 21.89 s, 18.3 s)"
+  },
+  {
+   "t": "2026-11-27T22:36:47+01:00",
+   "stage": "publish",
+   "msg": "re-cut: The Soviet Dogs Trained to Blow Up Tanks Ran to Their Own -> 3 parts (21.33 s, 21.89 s, 18.3 s) in 215 s (3 sets left)"
+  },
+  {
+   "t": "2026-11-27T22:37:52+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati-p1: 21.12 s rendered in 48 s"
+  },
+  {
+   "t": "2026-11-27T22:39:05+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati-p2: 22.74 s rendered in 49 s"
+  },
+  {
+   "t": "2026-11-27T22:40:13+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-slug-slug-slime-surgical-glue-that-seals-a-beati-p3: 18.97 s rendered in 44 s"
+  },
+  {
+   "t": "2026-11-27T22:40:22+01:00",
+   "stage": "publish",
+   "msg": "set ready: Researchers Borrowed Slug Slime to Seal a Pig Heart = full video + 3 parts (21.12 s, 22.74 s, 18.97 s)"
+  },
+  {
+   "t": "2026-11-27T22:40:28+01:00",
+   "stage": "publish",
+   "msg": "re-cut: Researchers Borrowed Slug Slime to Seal a Pig Heart -> 3 parts (21.12 s, 22.74 s, 18.97 s) in 219 s (2 sets left)"
+  },
+  {
+   "t": "2026-11-27T22:41:40+01:00",
+   "stage": "animate",
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-p1: 24.06 s rendered in 53 s"
+  },
+  {
+   "t": "2026-11-27T22:41:48+01:00",
    "stage": "checks",
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p1: check failed: look (FAIL ants are never shown in any frame: the captioned \"Ants carry t…"
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-p1: check failed: look (FAIL End card reads \"PART 2 OF 3\" in a video titled Part 1/3 (the header says PART 1/…"
   },
   {
-   "t": "2026-11-27T21:24:04+01:00",
+   "t": "2026-11-27T22:42:53+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p2: 20.63 s rendered in 35 s"
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-p2: 21.97 s rendered in 49 s"
   },
   {
-   "t": "2026-11-27T21:25:00+01:00",
+   "t": "2026-11-27T22:44:00+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p3: 17.17 s rendered in 34 s"
+   "msg": "2026-11-27-cat-tigr-cat-tongue-hairbrush-p3: 18.6 s rendered in 44 s"
   },
   {
-   "t": "2026-11-27T21:25:55+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-matabele-wound-care-and-antimicrobial-treatment-p4: 16.85 s rendered in 33 s"
-  },
-  {
-   "t": "2026-11-27T21:26:05+01:00",
+   "t": "2026-11-27T22:44:09+01:00",
    "stage": "publish",
-   "msg": "set ready: The Ants That Treat Infected Wounds With Their Own Antibiotics = full video + 4 parts (19.33 s, 20.63 s, 17.17 s, 16.85 s)"
+   "msg": "set ready: Engineers Copied a Cat Tongue to Build an Easy-Clean Hairbrush = full video + 3 parts (24.06 s, 21.97 s, 18.6 s)"
   },
   {
-   "t": "2026-11-27T21:26:09+01:00",
+   "t": "2026-11-27T22:44:14+01:00",
    "stage": "publish",
-   "msg": "re-cut: The Ants That Treat Infected Wounds With Their Own Antibiotics -> 4 parts (19.33 s, 20.63 s, 17.17 s, 16.85 s) in 239 s (27 sets left)"
+   "msg": "re-cut: Engineers Copied a Cat Tongue to Build an Easy-Clean Hairbrush -> 3 parts (24.06 s, 21.97 s, 18.6 s) in 224 s (1 sets left)"
   },
   {
-   "t": "2026-11-27T21:27:01+01:00",
+   "t": "2026-11-27T22:45:29+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p1: 20.82 s rendered in 37 s"
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-p1: 25.43 s rendered in 55 s"
   },
   {
-   "t": "2026-11-27T21:28:05+01:00",
+   "t": "2026-11-27T22:46:48+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p2: 19.69 s rendered in 39 s"
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-p2: 24.23 s rendered in 53 s"
   },
   {
-   "t": "2026-11-27T21:28:54+01:00",
+   "t": "2026-11-27T22:47:58+01:00",
    "stage": "animate",
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p3: 15.4 s rendered in 26 s"
+   "msg": "2026-11-27-octopus-suction-adhesive-patch-that-works-underw-p3: 20.46 s rendered in 47 s"
   },
   {
-   "t": "2026-11-27T21:30:00+01:00",
-   "stage": "animate",
-   "msg": "2026-11-26-pitcher-slips-slippery-surfaces-and-ketchup-bott-p4: 20.16 s rendered in 43 s"
-  },
-  {
-   "t": "2026-11-27T21:30:10+01:00",
+   "t": "2026-11-27T22:48:08+01:00",
    "stage": "publish",
-   "msg": "set ready: The Carnivorous Plant Behind Slippery Ketchup Coatings = full video + 4 parts (20.82 s, 19.69 s, 15.4 s, 20.16 s)"
+   "msg": "set ready: The Octopus Sucker That Became a Glue-Free Wet Patch = full video + 3 parts (25.43 s, 24.23 s, 20.46 s)"
   },
   {
-   "t": "2026-11-27T21:30:15+01:00",
+   "t": "2026-11-27T22:48:14+01:00",
    "stage": "publish",
-   "msg": "re-cut: The Carnivorous Plant Behind Slippery Ketchup Coatings -> 4 parts (20.82 s, 19.69 s, 15.4 s, 20.16 s) in 244 s (26 sets left)"
-  },
-  {
-   "t": "2026-11-27T21:30:54+01:00",
-   "stage": null,
-   "msg": "previous run run-0372 was cut off at 2026-11-27 21:09 (PC shut down or window closed); its topic goes back in the queue"
-  },
-  {
-   "t": "2026-11-27T21:30:54+01:00",
-   "stage": null,
-   "msg": "producer started: makes Shorts until the schedule is full, sleeps through usage limits"
+   "msg": "re-cut: The Octopus Sucker That Became a Glue-Free Wet Patch -> 3 parts (25.43 s, 24.23 s, 20.46 s) in 237 s (0 sets left)"
   }
  ]
 }
